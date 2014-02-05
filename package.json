@@ -1,0 +1,11 @@
+{
+  "name": "hackbarth-homepage",
+  "version": "0.0.1",
+  "author": "Steve Hackbarth",
+  "dependencies": {
+    "ejs": "0.8.x",
+    "express": "3.4.x",
+    "express-markdown": "*",
+    "twitter-bootstrap-node": "*"
+  }
+}
