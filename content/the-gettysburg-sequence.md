@@ -18,8 +18,27 @@ Time near hand, Quill abode hardby Dublin and Edinburgh. At Solomonic fingering 
 
 All right, so much for west-east. East-west? Another yarn. Quill winced, at times, that so witted islanders as Celts proved out so lethargic, stony, when the mere matter pertained The United States of Purgatory, panaorama of Paradise, large scale chart of Gehanna. There's more than one irish bank vice-president who can put finger on G. Washington, taps grand excitement gawking General Custer, Sitting Bull rendezvous at the Telly, or imparts the arcane lore that Kennedys hearthed County Wexford whilst Fitzgeralds sprang The West. Midlothian solicitors abound who revere Alexander Graham Bell, envy Uncle Same manna because Dr. Albert Einstein turned up abandoned at his door-sill, confide their nation bestowed on General Eisenhower a castle with moat... and golf course. Abigail Adams? "Sorra, you'll need to explicate." (Jaysusgod, and She statured thrice the woman Mary Stuart dreamt upstairs or craved below.) To be sure, Quill, by bent, seldom haunted the academic, bohemian, or clerical ring-around-the-rosy cabals. He muscled his milieu on men-in-commerce, builder-architects, the Military, their wives and/or lemans that tagged along, drunks threatening give-and-take, publicans who slaked them. But still.
 
+Stateside? Same poor show, less amnesty Quill's stricture. The germane verb spells no longer wince; it scans scorn on peers his age or less or more, and some scope wider far. No moral indictment. Nastier: sluggard stance, unstyle. Desuetude yawns for Taps? A balm, an easement, nemine gratia, and instant gentlemen won't stand attention its Benison once a night, once a death, once a nation? Hale, drones of necropolis! New Bedford blood, Front Royal lymph, spilt all right, stains not your tufted wall-to-wall carpeting. Your Martini runneth over, Sir.
 
+Just so. Rancour prompted the fourteen poems; humbleness before sustained them, such as they be. (Small fibbings? Well, a Kerryman will squander ninety-nine lies to get one fact across.) What burthen they lug? Patently into middle age, he would now decrypt the lode into Quillese, then chance the effluvia at the alter of Merciless Mother English. As he's stared and mulled downside The Angle hardby the clump of trees, between the Codori cote abnd barn, across the Emmitsburg road, past The Swale, into Spangler's Wood he partly pieces together, like a dhobi gathering remnants of a shattered crock and hopelessly findering them, how he, you, and the yearling nation died... and under whose auspices:  
+  Abraham Lincoln  
+  Robert E. Lee  
+  Traveller  
+  John Burns  
+  Jennie Wren  
+  Henry Lee  
+  George Meade  
+  Arno Kiesewetter  
+  Father Corby  
+  John Sedgewick  
+  Lewis Armistead  
+  Ian Farquharson  
+  Ulysses S. Grant  
+  Sarah Carter  
 
+Tattoo... Taps. Eyes dry, sweep down Glory's roster again for Domesday's sake. Go ahead, murmur: "But Glory shew on and on -- Wake Island, Bastogne, Tarawa, Huertgen Forest." Other times, other Glories: Glories of stock, Glories in season. Glory of the maples, October's afternoon; Glorious the seared beech, defying December to undress first. Twin Glories: Gettysburg, Guadalcanal... The Glory of life passing into death, the Glory of death passing for life.
+
+Mr. Yeats blasphemed shrewd when he owned up that Sex and Death loomed the two contingencies bloody well worth his bother. Aye, Mr. Yeats. Still, you stem County Sligo gentry; Mike Quill, maker of these sonnets, septs The O'Suileabhain Kerry fisherfolk. His leaning? Deserving the japer; sex, death, god, pieces o' eight, booze, power. Perhaps he can move on, one day, along more indigenous vein. For now, sex and death. War? Not quite. Gettysburg sums them one.
 
 ### The Gettysburg Sequence #1
 Epilogue  
