@@ -95,4 +95,26 @@ _Margin notes:_
 _The Snapper (line 1): Gen'l Meade_  
 _his (line 7): Harry, his father_
 
+### The Gettysburg Sequence #3
+(The First Day... July 1, 1863)
 
+Auld John Burns, souter, stands ready, wheat to the midriff, sighting west.
+
+    Och, three-score-ten o'rifled, tendin' me!
+    I ken grey gooshin' doon yon green defile
+    I'll size the pownied ghaistie, Lee, th' day
+    An' fling thae Cavalier the' sco'ish style
+    Fell Ulster clans romp rude, bu' doona frigh'
+    Ilk Borders Sco'. Och forbears mine wi' Bruce
+    An' Wallace bled. Di' pauky Caesar try
+    T' hough our hames an' haughs? Na he! The truce
+    He kep', where Sassunach fronts ither shame --
+    Fu' wa' that looms until this awfu' day.
+    'Side me, wee Kerkimer, whose tacit fame
+    Be water he will tak bricht lad who dee
+      'Ere sun gang doon. Och, aye, this day the bairns
+      Maun keep hie companie we' cronie Burns.
+
+_Margin notes:_  
+_souter: Cobbler_  
+_TODO: other margin notes_
