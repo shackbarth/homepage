@@ -1,7 +1,7 @@
 # The Gettysburg Sequence
 _by Mike Quill_
 
-## Proem
+### Proem
 (July 1 - 2 - 3, 1863)
 
 Numbers blur; there's a lie under them, in the teeth of an old saw. By Armistice Day in New England, rock maples, one by one, stand skeletons; their erstwhile blaze waits out wind or broom-rake unto oblivion. A leaf, overtaken of a breezeless forenoon, poses, slips, and glides see-saw turfward. It billets you or me.
@@ -40,26 +40,30 @@ Tattoo... Taps. Eyes dry, sweep down Glory's roster again for Domesday's sake. G
 
 Mr. Yeats blasphemed shrewd when he owned up that Sex and Death loomed the two contingencies bloody well worth his bother. Aye, Mr. Yeats. Still, you stem County Sligo gentry; Mike Quill, maker of these sonnets, septs The O'Suileabhain Kerry fisherfolk. His leaning? Deserving the japer; sex, death, god, pieces o' eight, booze, power. Perhaps he can move on, one day, along more indigenous vein. For now, sex and death. War? Not quite. Gettysburg sums them one.
 
+---------------------------------
+
 ### The Gettysburg Sequence #1
 Epilogue  
 (The Gesture Day... November 19, 1863)
 
 Mr. Lincoln catnaps to the anodynous clacking of his Reading coach, closeing on Gettysburg. He tallies random inward and outward accounts. Does the President graze you a mite sorry for Abe? Well, does not the Son of Man for Jesus, urgeing a gibbet to its ordained rearing?
 
-    Pa whimped. Ma whored to whelp Abe hedgerow snatch?
-    Mary hugs light to shadow black Xantipp',
-    The moot-to-matter boys -- his kitchen catch.
-    Least, dirksome friends! He bodes Knight Lee dark trip.
-    (He's sound: one county's brim each man will stand).
-    Not mine, because he loved Westmoreland more
-    Than Lincoln's shire. Chill God, he's seared a brand
-    Aswash all History that's hapt... foul sore,
-    Ubiquitous as syphilis. To post?
-    Mere Lee. He's up to Grant and with his two friends.
-    The sun arcs plane: Abe's sapped, cert as thug Frost
-    Had caned his pipes. Celled pate but turnkey tends.
-      Abe, sugar-plumb the folks. They yearn a fruit.
-      But Springfield mockingbird, he tends thy flute.
+>Pa whimped. Ma whored to whelp Abe hedgerow snatch?  
+>Mary hugs light to shadow black Xantipp',  
+>The moot-to-matter boys -- his kitchen catch.  
+>Least, dirksome friends! He bodes Knight Lee dark trip.  
+>(He's sound: one county's brim each man will stand).  
+>Not mine, because he loved Westmoreland more  
+>Than Lincoln's shire. Chill God, he's seared a brand  
+>Aswash all History that's hapt... foul sore,  
+>Ubiquitous as syphilis. To post?  
+>Mere Lee. He's up to Grant and with his two friends.  
+>The sun arcs plane: Abe's sapped, cert as thug Frost  
+>Had caned his pipes. Celled pate but turnkey tends.  
+>Abe, sugar-plumb the folks. They yearn a fruit.  
+>But Springfield mockingbird, he tends thy flute.  
+
+---------------------------------
 
 ### The Gettysburg Sequence #2
 (The First Day... July 1, 1863)
@@ -76,45 +80,55 @@ First the mete, Brevet Liuetenant Lee: erase Fredericksburg, Chancellorsville --
 
 Withal, a good man plumb purest to the Traveller, or Rover, that matches his master... body, heart, and brain.
 
-    I heed The Snapper, h'm, Monterey it was.
-    He miened moot rusy, surfeit stanch. I think,
-    Tight score, we'll squeeze him though. He never does
-    Much quake... less foray 'field. An I claw drink
-    Swish Grant to west (God wits Lee patent can't.)
-    I'd sough things out the stretch. Or had I had
-    Light Horse spell gadding Jeb, his stores could scant.
-    How deem y' Traveller? Lee's wrought, he's glad,
-    His other self, to mount your splendid side.
-    Since Stonewall fell, y've not once stumbled gait --
-    My trove, trade Jackson's loss. Rain friend, my pride
-    That our Westmoreland foal the steady trait.
-      I mull Hill, Longstreet, Ewel... puzzles three;
-      I grope: they're mine to fumble with as key.
+>I heed [The Snapper](#Snapper), h'm, Monterey it was.  
+>He miened moot rusy, surfeit stanch. I think,  
+>Tight score, we'll squeeze him though. He never does  
+>Much quake... less foray 'field. An I claw drink  
+>Swish Grant to west (God wits Lee patent can't.)  
+>I'd sough things out the stretch. Or had I had  
+>Light Horse spell gadding Jeb, his stores could scant.  
+>How deem y' Traveller? Lee's wrought, he's glad,  
+>His other self, to mount your splendid side.  
+>Since Stonewall fell, y've not once stumbled gait --  
+>My trove, trade Jackson's loss. Rain friend, my pride  
+>That our Westmoreland foal the steady trait.  
+>I mull Hill, Longstreet, Ewel... puzzles three;  
+>I grope: they're mine to fumble with as key.  
+
 
 _Margin notes:_  
-_The Snapper (line 1): Gen'l Meade_  
 _his (line 7): Harry, his father_
+
+---------------------------------
 
 ### The Gettysburg Sequence #3
 (The First Day... July 1, 1863)
 
-Auld John Burns, souter, stands ready, wheat to the midriff, sighting west.
+Auld John Burns, [souter](#Souter), stands ready, wheat to the midriff, sighting west.
 
-    Och, three-score-ten o'rifled, tendin' me!
-    I ken grey gooshin' doon yon green defile
-    I'll size the pownied ghaistie, Lee, th' day
-    An' fling thae Cavalier the' sco'ish style
-    Fell Ulster clans romp rude, bu' doona frigh'
-    Ilk Borders Sco'. Och forbears mine wi' Bruce
-    An' Wallace bled. Di' pauky Caesar try
-    T' hough our hames an' haughs? Na he! The truce
-    He kep', where Sassunach fronts ither shame --
-    Fu' wa' that looms until this awfu' day.
-    'Side me, wee Kerkimer, whose tacit fame
-    Be water he will tak bricht lad who dee
-      'Ere sun gang doon. Och, aye, this day the bairns
-      Maun keep hie companie we' cronie Burns.
+>Och, three-score-ten o'rifled, tendin' me!  
+>I ken grey gooshin' doon yon green defile  
+>I'll size the pownied ghaistie, Lee, th' day  
+>An' fling thae Cavalier the' sco'ish style  
+>Fell Ulster clans romp rude, bu' doona frigh'  
+>Ilk Borders Sco'. Och forbears mine wi' Bruce  
+>An' Wallace bled. Di' pauky Caesar try  
+>T' hough our hames an' haughs? Na he! The truce  
+>He kep', where Sassunach fronts ither shame --  
+>Fu' wa' that looms until this awfu' day.  
+>'Side me, wee Kerkimer, whose tacit fame  
+>Be water he will tak bricht lad who dee  
+>'Ere sun gang doon. Och, aye, this day the bairns  
+>Maun keep hie companie we' cronie Burns.
 
 _Margin notes:_  
-_souter: Cobbler_  
-_TODO: other margin notes_
+_TODO_
+
+---------------------------------
+
+### Wordstock
+
+<a name="Snapper"></a>SNAPPER, Gen'l George Gordon Meade. (Quill quotes from a letter, kindness Mrs. Marie T. Capps, Map and Manuscript Librarian, U. S. Military Academy: "Major General George Gordon Meade had the nickname of "The Snalling Turtle" which was given to him before the Cibil War. Just Where or when is now known.") How doubly prophetic! #2.
+
+<a name="Souter"></a>SOUTER, cobbler, shoemaker, T/Y/R/B. Sc. #3.
+
