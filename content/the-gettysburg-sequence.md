@@ -42,7 +42,7 @@ Mr. Yeats blasphemed shrewd when he owned up that Sex and Death loomed the two c
 
 ### The Gettysburg Sequence #1
 Epilogue  
-(The Gesture Day......November 19, 1863)
+(The Gesture Day... November 19, 1863)
 
 Mr. Lincoln catnaps to the anodynous clacking of his Reading coach, closeing on Gettysburg. He tallies random inward and outward accounts. Does the President graze you a mite sorry for Abe? Well, does not the Son of Man for Jesus, urgeing a gibbet to its ordained rearing?
 
@@ -61,6 +61,38 @@ Mr. Lincoln catnaps to the anodynous clacking of his Reading coach, closeing on 
       Abe, sugar-plumb the folks. They yearn a fruit.
       But Springfield mockingbird, he tends thy flute.
 
+### The Gettysburg Sequence #2
+(The First Day... July 1, 1863)
+
+Robert E. Lee ambles Traveller. The Engineer talks shop and saddle with his sentient engine. The colloquy courses tacit, muted.
+
+Neat, anabolism, nibble at the man's fibre... and compounded, two of those three precarious days, by an acute flux; DUTY, as in the past, reports to headquarters. But where intransient ordeal lies doggo to haze, the General will henceforth be taxed over and beyond ITS call. Overload chose noon to weigh in.
+
+Lee speaks:
+
+"Now, no choice but maul the hour. This day? Well, common-sense has written Jackson off. But Stuart? Carlisle's an healthy canter, fetch yesterday. That can abide the exemplars-to-come at West Point... or Lexington.
+
+First the mete, Brevet Liuetenant Lee: erase Fredericksburg, Chancellorsville -- too lucky, too much Stonewall... and postures upended. (What's more, Old Whiskers and Fightin' Joe patently liveried us those twin gory aliments.) Today's algebra? Meade + Sedgewick + stores - Jackson (Have I discounted Stonewall, in truth?), compounded to an escaped power by Stuart = Lee over x. Moot mathematic. And if the tangency disjoin with no apodosis? Well then, Alexander's dread! For five mountain spines and four rivers to west and south, Mr. Lincoln stays his hand with one ace and two jacks showing, and something in the hole. Capt. Lee knows his hand: two kinds showing."
+
+Withal, a good man plumb purest to the Traveller, or Rover, that matches his master... body, heart, and brain.
+
+    I heed The Snapper, h'm, Monterey it was.
+    He miened moot rusy, surfeit stanch. I think,
+    Tight score, we'll squeeze him though. He never does
+    Much quake... less foray 'field. An I claw drink
+    Swish Grant to west (God wits Lee patent can't.)
+    I'd sough things out the stretch. Or had I had
+    Light Horse spell gadding Jeb, his stores could scant.
+    How deem y' Traveller? Lee's wrought, he's glad,
+    His other self, to mount your splendid side.
+    Since Stonewall fell, y've not once stumbled gait --
+    My trove, trade Jackson's loss. Rain friend, my pride
+    That our Westmoreland foal the steady trait.
+      I mull Hill, Longstreet, Ewel... puzzles three;
+      I grope: they're mine to fumble with as key.
+
+_Margin notes:_  
+_The Snapper (line 1): Gen'l Meade_  
+_his (line 7): Harry, his father_
 
 
- 
