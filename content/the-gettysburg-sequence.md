@@ -51,13 +51,13 @@ Mr. Lincoln catnaps to the anodynous clacking of his Reading coach, closeing on 
 >Pa whimped. Ma whored to whelp Abe hedgerow snatch?  
 >Mary hugs light to shadow black Xantipp',  
 >The moot-to-matter boys -- his kitchen catch.  
->Least, dirksome friends! He bodes Knight Lee dark trip.  
->(He's sound: one county's brim each man will stand).  
+>Least, dirksome friends! He bodes Knight _Lee_ dark trip.  
+>(_He's_ sound: one county's brim each man will stand).  
 >Not mine, because he loved Westmoreland more  
 >Than Lincoln's shire. Chill God, he's seared a brand  
 >Aswash all History that's hapt... foul sore,  
 >Ubiquitous as syphilis. To post?  
->Mere Lee. He's up to Grant and with his two friends.  
+>Mere _Lee_. _He's_ up to Grant and with his two friends.  
 >The sun arcs plane: Abe's sapped, cert as thug Frost  
 >Had caned his pipes. Celled pate but turnkey tends.  
 >Abe, sugar-plumb the folks. They yearn a fruit.  
@@ -128,7 +128,15 @@ _TODO_
 
 ### Wordstock
 
-<a name="Snapper"></a>SNAPPER, Gen'l George Gordon Meade. (Quill quotes from a letter, kindness Mrs. Marie T. Capps, Map and Manuscript Librarian, U. S. Military Academy: "Major General George Gordon Meade had the nickname of "The Snalling Turtle" which was given to him before the Cibil War. Just Where or when is now known.") How doubly prophetic! #2.
+Riddles, sobriquets, foreign or densely dialectal terms, coined words, etc. are keyed by _number_ (#) to their incidence throughout The Sequence. For example, PAWKY, canny, wary, Sc. #3. Now, that simply means that the Scottish word _pawky_ occurs in Sonnet #3 (or its attendant prose) and suggests the foregoing familiar-English meanings.
+
+Routine abbreviations are the established ones found in any good English dictionary. To wit: Sc.=Scottish, Path.=Pathology, Intr.=intransitive use of verb, Heb.=Hebrew, and so forth. A few idiosyncratic signals are employed: Q/M=Quillmint (an homemade locution), or T/Y/M/G=Thank you, Mother Goose, etc.
+
+The import of italics is threefold: (1) Conventionally, to convey emphasis and/or affect the flow of diction. (2) To certify a non-English word -- Hindi, Latin, et al. (Exception: Poem #3, built in unabashed "Borders-Scots" inflection). (3) Pronominally, as in #1, where Mr. Lincoln and Gen'l Lee are evoked contrapuntally. The device delines the one man (Mr. Lincoln) from _the other_ (Gen'l. Lee).
+
+The Wordstock swanks no condescension; Quill avowedly surmises, and _respects_, random gaps in a given reader's encyclopaedic inventory. Moreover, let the stateside person allow that a schooled Scots, Irish, Welsh, or English compeer should not be expected to command scope (Lord Charnwood, Sir Winston Churchill, Lt. Gen'l Sir James Marshall-Cornwall excepted) rangeing over persons, places, and contingencies bearing on the conflict broadly and the Gettysburg holocaust in particualr with the grasp of a middle-aged American, high school trained. (The same fetter might well hobble a stateside Ph. D., Soc. of _instant_ vintage.)
+
+<a name="Snapper"></a>SNAPPER, Gen'l George Gordon Meade. (Quill quotes from a letter, kindness Mrs. Marie T. Capps, Map and Manuscript Librarian, U. S. Military Academy: "Major General George Gordon Meade had the nickname of "The Snalling Turtle" which was given to him before the Civil War. Just Where or when is now known.") How doubly prophetic! #2.
 
 <a name="Souter"></a>SOUTER, cobbler, shoemaker, T/Y/R/B. Sc. #3.
 
