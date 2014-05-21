@@ -19,7 +19,7 @@ Time near hand, Quill abode hardby Dublin and Edinburgh. At Solomonic fingering 
 
 All right, so much for west-east. East-west? Another yarn. Quill winced, at times, that so witted islanders as Celts proved out so lethargic, stony, when the mere matter pertained The United States of Purgatory, panaorama of Paradise, large scale chart of Gehanna. There's more than one irish bank vice-president who can put finger on G. Washington, taps grand excitement gawking General Custer, Sitting Bull rendezvous at the Telly, or imparts the arcane lore that Kennedys hearthed County Wexford whilst Fitzgeralds sprang The West. Midlothian solicitors abound who revere Alexander Graham Bell, envy Uncle Same manna because Dr. Albert Einstein turned up abandoned at his door-sill, confide their nation bestowed on General Eisenhower a castle with moat... and golf course. Abigail Adams? "Sorra, you'll need to explicate." (Jaysusgod, and She statured thrice the woman Mary Stuart dreamt upstairs or craved below.) To be sure, Quill, by bent, seldom haunted the academic, bohemian, or clerical ring-around-the-rosy cabals. He muscled his milieu on men-in-commerce, builder-architects, the Military, their wives and/or lemans that tagged along, drunks threatening give-and-take, publicans who slaked them. But still.
 
-Stateside? Same poor show, less amnesty Quill's stricture. The germane verb spells no longer wince; it scans scorn on peers his age or less or more, and some scope wider far. No moral indictment. Nastier: sluggard stance, unstyle. Desuetude yawns for Taps? A balm, an easement, nemine gratia, and instant gentlemen won't stand attention its Benison once a night, once a death, once a nation? Hale, drones of necropolis! New Bedford blood, Front Royal lymph, spilt all right, stains not your tufted wall-to-wall carpeting. Your Martini runneth over, Sir.
+Stateside? Same poor show, less amnesty Quill's stricture. The germane verb spells no longer wince; it scans scorn on peers his age or less or more, and some scope wider far. No moral indictment. Nastier: sluggard stance, unstyle. Desuetude yawns for Taps? A balm, an easement, nemine gratia, and [instant gentlemen](#Instant Gentlemen) won't stand attention its Benison once a night, once a death, once a nation? Hale, drones of necropolis! New Bedford blood, Front Royal lymph, spilt all right, stains not your tufted wall-to-wall carpeting. Your Martini runneth over, Sir.
 
 Just so. Rancour prompted the fourteen poems; humbleness before sustained them, such as they be. (Small fibbings? Well, a Kerryman will squander ninety-nine lies to get one fact across.) What burthen they lug? Patently into middle age, he would now decrypt the lode into Quillese, then chance the effluvia at the alter of Merciless Mother English. As he's stared and mulled downside The Angle hardby the clump of trees, between the Codori cote abnd barn, across the Emmitsburg road, past The Swale, into Spangler's Wood he partly pieces together, like a [dhobi](#Dhobi) gathering remnants of a shattered crock and hopelessly findering them, how he, you, and the yearling nation died... and under whose auspices:  
   Abraham Lincoln  
@@ -34,7 +34,7 @@ Just so. Rancour prompted the fourteen poems; humbleness before sustained them, 
   John Sedgewick  
   Lewis Armistead  
   Ian Farquharson  
-  Ulysses S. Grant  
+  [Ulysses S. Grant](#Grant)  
   Sarah Carter  
 
 Tattoo... Taps. Eyes dry, sweep down Glory's roster again for Domesday's sake. Go ahead, murmur: "But Glory shew on and on -- Wake Island, Bastogne, Tarawa, Huertgen Forest." Other times, other Glories: Glories of stock, Glories in season. Glory of the maples, October's afternoon; Glorious the seared beech, defying December to undress first. Twin Glories: Gettysburg, Guadalcanal... The Glory of life passing into death, the Glory of death passing for life.
@@ -112,7 +112,7 @@ Auld John Burns, [souter](#Souter), stands ready, wheat to the midriff, sighting
 >I'll size the pownied [ghaistie](#Ghaistie), Lee, th' day  
 >An' fling thae Cavalier the' sco'ish style  
 >Fell Ulster clans romp rude, bu' doona frigh'  
->Ilk Borders Sco'. Och forbears mine wi' Bruce  
+>[Ilk](#Ilka) Borders Sco'. Och forbears mine wi' Bruce  
 >An' Wallace bled. Di' pauky Caesar try  
 >T' [hough](#Hough) our [hames an' haughs](#Hames and Haughs)? Na he! The truce  
 >He kep', where Sassunach fronts ither shame --  
@@ -167,7 +167,7 @@ The Wordstock swanks no condescension; Quill avowedly surmises, and _respects_, 
 
 <a name="Currach"></a>CURRACH, a small skiff. Gael. #11.
 
-<a name="Cushing, Lt. Alonzo"></a>CUSHING, LT. ALONZO, Comm. Off., Battery A, 4th U. S. Art. Wounded thrice, propped upright some 20 minutes, thanks his Sgt., to contain disorder and direct fireing his command. C. M. H., Posth... or Quill calls the _whole_ thing off.
+<a name="Cushing"></a>CUSHING, LT. ALONZO, Comm. Off., Battery A, 4th U. S. Art. Wounded thrice, propped upright some 20 minutes, thanks his Sgt., to contain disorder and direct fireing his command. C. M. H., Posth... or Quill calls the _whole_ thing off.
 
 <a name="Dhobi"></a>DHOBI, sweeper caste, Hind. Proem.
 
@@ -195,6 +195,8 @@ The Wordstock swanks no condescension; Quill avowedly surmises, and _respects_, 
 
 <a name="Globes and Orbs"></a>GLOBES AND ORBS, testicles. #11.
 
+<a name="Grant"></a>GRANT, GEN'L ULYSSES SIMPSON, Vicksburg, Miss. fell to his troops, indeed, July 3, 1863. Major matter, minor Karma. His _elsewhereness_, those three days, pairs as awesomeness Gen'l Thomas Jonathan Jackson's. At tangency? Light for one tenuous filament... BREATH. Whatever Gettysburg wasn't, was _them_. Likewise ominously did Mr. Lincoln and Major Henry Lee cast _their_ vicarious and apposite shadows across the holocaust. Missing Persons Bureau #1. Proem et al.
+
 <a name="Green Mountain Nine-Monthers"></a>GREEN MOUNTAIN NINE-MONTHERS, The 13th Vt. Inf. #11.
 
 <a name="Greysome Prise"></a>GREYSOME PRISE, cranial content (cerbellum etc.) spattered. #10.
@@ -217,6 +219,30 @@ The Wordstock swanks no condescension; Quill avowedly surmises, and _respects_, 
 
 <a name="Housatonic"></a>HOUSATONIC, River, rises in the Berkshire Hills of Mass., flows south through Western Conn. debouching near Milford, Conn. #9.
 
+<a name="Ilka"></a>ILKA, ilk, each, every. Sc. #3.
+
+<a name="Insedate"></a>INSEDATE, standing + insouciant = insedate. Q/M. Append.
+
+<a name="Insedent"></a>INSEDENT, dismounted + insouciant = insedent. Q/M. Append.
+
+<a name="Instant Gentlemen"></a>INSTANT GENTLEMEN, grey-flanneled (now bell-bottomed?) agrammatists to Madison Row, instant coffee, instant coitus, instant Adamses (Kennedys?) - T/Y/J/O/H - Proem.
+
+<a name=""></a>
+
+<a name=""></a>
+
+<a name=""></a>
+
+<a name=""></a>
+
+<a name=""></a>
+
+<a name=""></a>
+
+<a name=""></a>
+
+<a name=""></a>
+
 <a name=""></a>
 
 <a name=""></a>
@@ -225,3 +251,4 @@ The Wordstock swanks no condescension; Quill avowedly surmises, and _respects_, 
 
 <a name="Souter"></a>SOUTER, cobbler, shoemaker, T/Y/R/B. Sc. #3.
 
+<a name="Taws"></a>TAWS, verbatim from The Shorter Oxford English Dictionary: _taw_, a large fancy marble, often streaked or variegated, being that with which the player shoots. #11.
