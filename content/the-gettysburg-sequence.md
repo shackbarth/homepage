@@ -7,7 +7,7 @@ _The Gettysburg Sequence was written by American poet Carl Franck, alias Mike Qu
 
 Numbers blur; there's a lie under them, in the teeth of an old saw. By Armistice Day in New England, rock maples, one by one, stand skeletons; their erstwhile blaze waits out wind or broom-rake unto oblivion. A leaf, overtaken of a breezeless forenoon, poses, slips, and glides see-saw turfward. It billets you or me.
 
-Legion undone, tallysome though, pocked the meadows, bogs, and bosks roundabout the nodding town of tanners, cobblers, and saddlers. Why Gettysburg? Well, because Brigadier Johnston Pettigrew of Major General Harry Heth's Division, attached to Lieutenant General Ambrose Powell Hill's III Corps, in General Robert E. Lee's Army of Northern Virginia fancied shoes -- not just for himself. He besought, properly enough, the General's go-ahead; Heth, eschewing channels, assented. Such seeming-unfraught whim committed Mr. Davis, 180 mile distant their shopping spree. Said coy contract, bodeing more than it chattered, Major General John F. Reynolds, I Corps, Army of The Potomac, counter-signed instanter. The fee came a small fortune though... himself's mortality, ninety seconds upon arrival the Union defense line tight Willoughby Run. A Mississippi marksman, discerning an epaulet, undid one highly competent Pennsylvania soldierman. Just like that. Pettigrew horned assorted foot-gear all right, Heth wore an hole in the soul, Longstreet didn't quite fit, Lee was saddled to the wrong mount.
+Legion undone, tallysome though, pocked the meadows, bogs, and bosks roundabout the nodding town of tanners, cobblers, and saddlers. Why Gettysburg? Well, because Brigadier Johnston Pettigrew of Major General Harry [Heth's](#Heth) Division, attached to Lieutenant General Ambrose Powell Hill's III Corps, in General Robert E. Lee's Army of Northern Virginia fancied shoes -- not just for himself. He besought, properly enough, the General's go-ahead; Heth, eschewing channels, assented. Such seeming-unfraught whim committed Mr. Davis, 180 mile distant their shopping spree. Said coy contract, bodeing more than it chattered, Major General John F. Reynolds, I Corps, Army of The Potomac, counter-signed instanter. The fee came a small fortune though... himself's mortality, ninety seconds upon arrival the Union defense line tight Willoughby Run. A Mississippi marksman, discerning an epaulet, undid one highly competent Pennsylvania soldierman. Just like that. Pettigrew horned assorted foot-gear all right, Heth wore an hole in the soul, Longstreet didn't quite fit, Lee was saddled to the wrong mount.
 
 Thomas Jonathan Jackson did not attend; John Buford did. J. E. B. Stuart shew tardy; John Buford was waiting, astraddle.
 
@@ -114,13 +114,13 @@ Auld John Burns, [souter](#Souter), stands ready, wheat to the midriff, sighting
 >Fell Ulster clans romp rude, bu' doona frigh'  
 >Ilk Borders Sco'. Och forbears mine wi' Bruce  
 >An' Wallace bled. Di' pauky Caesar try  
->T' hough our hames an' haughs? Na he! The truce  
+>T' [hough](#Hough) our [hames an' haughs](#Hames and Haughs)? Na he! The truce  
 >He kep', where Sassunach fronts ither shame --  
 >Fu' wa' that looms until this awfu' day.  
 >'Side me, wee Kerkimer, whose tacit fame  
 >Be water he will tak bricht lad who dee  
 >'Ere sun gang doon. Och, aye, this day the [bairns](#Bairn)  
->Maun keep hie companie we' cronie Burns.
+>Maun keep [hie](#Hie) companie we' cronie Burns.
 
 _Margin notes:_  
 _TODO_
@@ -201,21 +201,21 @@ The Wordstock swanks no condescension; Quill avowedly surmises, and _respects_, 
 
 <a name="Grume"></a>GRUME, gravy viscosity blood state at interval between vascular fluidity and ultimate cakeyness, clotted density therof. Arch Eng. #12.
 
-<a name=""></a>
+<a name="Hames and Haughs"></a>HAMES AND HAUGHS, homes and fertile farmland. Sc. T/Y/R/B #3.
 
-<a name=""></a>
+<a name="He'll Blew"></a>HE'LL BLEW, Syntax? Well, an encountre as bonded as if it were bound to be. #4.
 
-<a name=""></a>
+<a name="Heth"></a>HETH, pronounced "heath." Proem.
 
-<a name=""></a>
+<a name="Hic Est Enim Calix"></a>HIC EST ENIM CALIX, For this is the cup of my blood. (Roman liturgy) Lat. #8.
 
-<a name=""></a>
+<a name="Hie"></a>HIE, high, Sc. #3.
 
-<a name=""></a>
+<a name="His Uncle"></a>HIS UNCLE, see [Ruth Benjamin](#Ruth Benjamin). #11.
 
-<a name=""></a>
+<a name="Hough"></a>HOUGH, (vb) hamstring, hobble, trample. Sc. #3.
 
-<a name=""></a>
+<a name="Housatonic"></a>HOUSATONIC, River, rises in the Berkshire Hills of Mass., flows south through Western Conn. debouching near Milford, Conn. #9.
 
 <a name=""></a>
 
