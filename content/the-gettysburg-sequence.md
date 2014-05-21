@@ -70,13 +70,13 @@ Mr. Lincoln catnaps to the anodynous clacking of his Reading coach, closeing on 
 
 Robert E. Lee ambles Traveller. The Engineer talks shop and saddle with his sentient engine. The colloquy courses tacit, muted.
 
-Neat, anabolism, nibble at the man's fibre... and compounded, two of those three precarious days, by an acute flux; DUTY, as in the past, reports to headquarters. But where intransient ordeal lies doggo to haze, the General will henceforth be taxed over and beyond ITS call. Overload chose noon to weigh in.
+Neat, [anabolism](#Anabolism), nibble at the man's fibre... and compounded, two of those three precarious days, by an acute flux; DUTY, as in the past, reports to headquarters. But where intransient ordeal lies doggo to haze, the General will henceforth be taxed over and beyond ITS call. Overload chose noon to weigh in.
 
 Lee speaks:
 
 "Now, no choice but maul the hour. This day? Well, common-sense has written Jackson off. But Stuart? Carlisle's an healthy canter, fetch yesterday. That can abide the exemplars-to-come at West Point... or Lexington.
 
-First the mete, Brevet Liuetenant Lee: erase Fredericksburg, Chancellorsville -- too lucky, too much Stonewall... and postures upended. (What's more, Old Whiskers and Fightin' Joe patently liveried us those twin gory aliments.) Today's algebra? Meade + Sedgewick + stores - Jackson (Have I discounted Stonewall, in truth?), compounded to an escaped power by Stuart = Lee over x. Moot mathematic. And if the tangency disjoin with no apodosis? Well then, Alexander's dread! For five mountain spines and four rivers to west and south, Mr. Lincoln stays his hand with one ace and two jacks showing, and something in the hole. Capt. Lee knows his hand: two kinds showing."
+First the mete, Brevet Liuetenant Lee: erase Fredericksburg, Chancellorsville -- too lucky, too much Stonewall... and postures upended. (What's more, Old Whiskers and Fightin' Joe patently liveried us those twin gory aliments.) Today's algebra? Meade + Sedgewick + stores - Jackson (Have I discounted Stonewall, in truth?), compounded to an escaped power by Stuart = Lee over x. Moot mathematic. And if the tangency disjoin with no [apodosis](#Apodosis)? Well then, Alexander's dread! For five mountain spines and four rivers to west and south, Mr. Lincoln stays his hand with one ace and two jacks showing, and something in the hole. Capt. Lee knows his hand: two kinds showing."
 
 Withal, a good man plumb purest to the Traveller, or Rover, that matches his master... body, heart, and brain.
 
@@ -135,6 +135,23 @@ Routine abbreviations are the established ones found in any good English diction
 The import of italics is threefold: (1) Conventionally, to convey emphasis and/or affect the flow of diction. (2) To certify a non-English word -- Hindi, Latin, et al. (Exception: Poem #3, built in unabashed "Borders-Scots" inflection). (3) Pronominally, as in #1, where Mr. Lincoln and Gen'l Lee are evoked contrapuntally. The device delines the one man (Mr. Lincoln) from _the other_ (Gen'l. Lee).
 
 The Wordstock swanks no condescension; Quill avowedly surmises, and _respects_, random gaps in a given reader's encyclopaedic inventory. Moreover, let the stateside person allow that a schooled Scots, Irish, Welsh, or English compeer should not be expected to command scope (Lord Charnwood, Sir Winston Churchill, Lt. Gen'l Sir James Marshall-Cornwall excepted) rangeing over persons, places, and contingencies bearing on the conflict broadly and the Gettysburg holocaust in particualr with the grasp of a middle-aged American, high school trained. (The same fetter might well hobble a stateside Ph. D., Soc. of _instant_ vintage.)
+
+<a name="Albanies and Troys"></a>ALBANIES AND TROYS, such Union soldiery as mustered from those two towns and were engaged at Gettysburg. Albany and Troy lie hardby adjacent Massachusets. #9
+
+<a name="Also"></a>ALSO, along those lines, in like manner, this way, (pronounce _ahlzo). Germ. #7
+
+<a name="Amah"></a>AMAH, wet nurse, nanny, etc. Hind. #7
+
+<a name="Anabolism"></a>ANABOLISM (see [NEAP](#Neap)). Path. Gr. + Q/M. #2.
+
+<a name="Ann Carter Lee"></a>ANN CARTER LEE, Robert E. Lee's mother. Class! #5
+
+<a name="Apodosis"></a>APODOSIS, an indecisive issue... and a long, long way from home. Gr. + Q/M. #2
+
+<a name="Avis Rara"></a>AVIS RARA, a seldom fellow. Lat. #11
+<a name=""></a>
+<a name=""></a>
+<a name=""></a>
 
 <a name="Snapper"></a>SNAPPER, Gen'l George Gordon Meade. (Quill quotes from a letter, kindness Mrs. Marie T. Capps, Map and Manuscript Librarian, U. S. Military Academy: "Major General George Gordon Meade had the nickname of "The Snalling Turtle" which was given to him before the Civil War. Just Where or when is now known.") How doubly prophetic! #2.
 
