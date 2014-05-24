@@ -5,7 +5,7 @@ _This previously unpublished work was written by American poet Carl Franck, alia
 ### Proem
 (July 1 - 2 - 3, 1863)
 
-Numbers blur; there's a lie under them, in the teeth of an old saw. By Armistice Day in New England, rock maples, one by one, stand skeletons; their erstwhile blaze waits out wind or broom-rake unto oblivion. A leaf, overtaken of a breezeless forenoon, poses, slips, and glides see-saw turfward. It billets you or me.
+Numbers blur; there's a lie under them, in the teeth of an [old saw](#Old Saw). By Armistice Day in New England, rock maples, one by one, stand skeletons; their erstwhile blaze waits out wind or broom-rake unto oblivion. A leaf, overtaken of a breezeless forenoon, poses, slips, and glides see-saw turfward. It billets you or me.
 
 Legion undone, tallysome though, pocked the meadows, bogs, and bosks roundabout the nodding town of tanners, cobblers, and saddlers. Why Gettysburg? Well, because Brigadier Johnston Pettigrew of Major General Harry [Heth's](#Heth) Division, attached to Lieutenant General Ambrose Powell Hill's III Corps, in General Robert E. Lee's Army of Northern Virginia fancied shoes -- not just for himself. He besought, properly enough, the General's go-ahead; Heth, eschewing channels, assented. Such seeming-unfraught whim committed Mr. Davis, 180 mile distant their shopping spree. Said coy contract, bodeing more than it chattered, Major General John F. Reynolds, I Corps, Army of The Potomac, counter-signed instanter. The fee came a small fortune though... himself's mortality, ninety seconds upon arrival the Union defense line tight Willoughby Run. A Mississippi marksman, discerning an epaulet, undid one highly competent Pennsylvania soldierman. Just like that. Pettigrew horned assorted foot-gear all right, Heth wore an hole in the soul, Longstreet didn't quite fit, Lee was saddled to the wrong mount.
 
@@ -39,7 +39,7 @@ Just so. Rancour prompted the fourteen poems; humbleness before sustained them, 
 
 Tattoo... Taps. Eyes dry, sweep down Glory's roster again for Domesday's sake. Go ahead, murmur: "But Glory shew on and on -- Wake Island, Bastogne, Tarawa, Huertgen Forest." Other times, other Glories: Glories of stock, Glories in season. Glory of the maples, October's afternoon; Glorious the seared beech, defying December to undress first. Twin Glories: Gettysburg, Guadalcanal... The Glory of life passing into death, the Glory of death passing for life.
 
-Mr. Yeats blasphemed shrewd when he owned up that Sex and Death loomed the two contingencies bloody well worth his bother. Aye, Mr. Yeats. Still, you stem County Sligo gentry; Mike Quill, maker of these sonnets, septs The O'Suileabhain Kerry fisherfolk. His leaning? Deserving the japer; sex, death, god, pieces o' eight, booze, power. Perhaps he can move on, one day, along more indigenous vein. For now, sex and death. War? Not quite. Gettysburg sums them one.
+Mr. Yeats blasphemed shrewd when he owned up that Sex and Death loomed the two contingencies bloody well worth his bother. Aye, Mr. Yeats. Still, you stem County Sligo gentry; Mike Quill, maker of these sonnets, septs The [O'Suileabhain](#O'Suileabhain) Kerry fisherfolk. His leaning? Deserving the japer; sex, death, god, pieces o' eight, booze, power. Perhaps he can move on, one day, along more indigenous vein. For now, sex and death. War? Not quite. Gettysburg sums them one.
 
 ---------------------------------
 
@@ -77,7 +77,7 @@ Lee speaks:
 
 "Now, no choice but maul the hour. This day? Well, common-sense has written Jackson off. But Stuart? Carlisle's an healthy canter, fetch yesterday. That can abide the [exemplars-to-come](#Exemplars) at West Point... or [Lexington](#Lexington).
 
-First the mete, Brevet Liuetenant Lee: erase Fredericksburg, Chancellorsville -- too lucky, too much Stonewall... and postures upended. (What's more, Old Whiskers and Fightin' Joe patently liveried us those twin gory aliments.) Today's algebra? Meade + Sedgewick + stores - Jackson (Have I discounted Stonewall, in truth?), compounded to an escaped power by Stuart = Lee over x. Moot mathematic. And if the tangency disjoin with no [apodosis](#Apodosis)? Well then, Alexander's dread! For five mountain spines and four rivers to west and south, Mr. Lincoln stays his hand with one ace and two jacks showing, and something in the hole. Capt. Lee knows his hand: two kinds showing."
+First the mete, Brevet Liuetenant Lee: erase Fredericksburg, Chancellorsville -- too lucky, too much Stonewall... and postures upended. (What's more, [Old Whiskers and Fightin' Joe](#Old Whiskers) patently liveried us those twin gory aliments.) Today's algebra? Meade + Sedgewick + stores - Jackson (Have I discounted Stonewall, in truth?), compounded to an escaped power by Stuart = Lee over x. Moot mathematic. And if the tangency disjoin with no [apodosis](#Apodosis)? Well then, Alexander's dread! For five mountain spines and four rivers to west and south, Mr. Lincoln stays his hand with one ace and two jacks showing, and something in the hole. Capt. Lee knows his hand: two kinds showing."
 
 Withal, a good man plumb purest to the Traveller, or Rover, that matches his master... body, heart, and brain.
 
@@ -265,7 +265,25 @@ The Wordstock swanks no condescension; Quill avowedly surmises, and _respects_, 
 
 <a name="New Orleans"></a>NEW ORLEANS, The Battle of, 1814. (Andrew Jackson vs. The Black Watch Regiment). #11.
 
-<a name=""></a>
+<a name="Nirvana"></a>NIRVANA, The happy navel-gazeing ground. Hind. #11.
+
+<a name="Old Saw"></a>OLD SAW, "Figures never lie," teeth=adding machine. Proem.
+
+<a name="Old Whiskers"></a>OLD WHISKERS & FIGHTIN' JOE. Gen'l Ambrose E. Burnside at Fredericksburg, Gen'l Joseph Hooker at Chancellorsville. #2.
+
+<a name="O'Suileabhain"></a>O'SUILEABHAIN, O'Sullivan. Gael. Proem.
+
+<a name="Pan"></a>PAN, puss _or_ pate. Amer. #10.
+
+<a name="Parse All She Keen"></a>PARSE ALL SHE KEEN, decipher her syntax, groan by wail. Ir. #8.
+
+<a name="Pawky"></a>PAWKY, canny, wary, Sc. #3.
+
+<a name="Pimp"></a>PIMP, Rome. Q/M et al. #8.
+
+<a name="Plumed Persia"></a>PLUMED PERSIA, No cheek, no obloquy Quill's part, Mr. Bruce Catton's, Mr. Douglas Southall Freeman's, Mr. Robert Penn Warren's, Mr. Clifford Dowdey's... Mr. Lincoln's!  
+Firstly: Willougby Run/Appomatox: Thermopylae/Salamis.  
+Secondly: The F. F. V.'s strutted The Valalier, as sure as John Brown harboured rabies. Quill wrenches a thumble-full of related passages from Mr Robert Penn Warren's astute, terse Mediataions, THE LEGACY OF THE CIVIL WAR. (By bloodlines and early surround, his proclivities must be southern.)
 
 <a name=""></a>
 
