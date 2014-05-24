@@ -1,6 +1,6 @@
 # The Gettysburg Sequence
 
-_The Gettysburg Sequence was written by American poet Carl Franck, alias Mike Quill, in 1972._
+_This previously unpublished work was written by American poet Carl Franck, alias Mike Quill, in 1972._
 
 ### Proem
 (July 1 - 2 - 3, 1863)
@@ -81,7 +81,7 @@ First the mete, Brevet Liuetenant Lee: erase Fredericksburg, Chancellorsville --
 
 Withal, a good man plumb purest to the Traveller, or Rover, that matches his master... body, heart, and brain.
 
->I heed [The Snapper](#Snapper), h'm, Monterey it was.  
+>I heed [The Snapper](#Snapper), h'm, [Monterey](#Monterey) it was.  
 >He miened moot rusy, surfeit stanch. I think,  
 >Tight score, we'll squeeze him though. He never does  
 >Much quake... less foray 'field. An I claw drink  
@@ -120,7 +120,7 @@ Auld John Burns, [souter](#Souter), stands ready, wheat to the midriff, sighting
 >'Side me, wee Kerkimer, whose tacit fame  
 >Be water he will tak bricht lad who dee  
 >'Ere sun gang doon. Och, aye, this day the [bairns](#Bairn)  
->Maun keep [hie](#Hie) companie we' cronie Burns.
+>[Maun](#Maun) keep [hie](#Hie) companie we' cronie Burns.
 
 _Margin notes:_  
 _TODO_
@@ -252,6 +252,18 @@ The Wordstock swanks no condescension; Quill avowedly surmises, and _respects_, 
 <a name="Masai"></a>MASAI, tallest of the African tribes, native Kenya, Tanganyika. Afr. #11.
 
 <a name="Massachusetts"></a>MASSACHUSETTS, petit poetic license, for it was the 71st Pennsylvania that cushioned the brunt of Armistead's incursion. _Then_, the Massachusetts 19th and 20th, assorted New Yorks, Michgans, Minnesotas, and Ohios replenished the vacuum. #10.
+
+<a name="Maun"></a>MAUN, must. Sc. #3.
+
+<a name="Meikle Jamie"></a>MEIKLE JAMIE, Big Jimmy. Sc. #11.
+
+<a name="Monterey"></a>MONTEREY, Mexico, where Capt. Lee and Lt Meade had soldiered together and were _well_ acquainted. (The agoneizeing, ironic at least, congruities abound, viz Lewis A. Armistead and Winfield Scott Hancock's virtually Damon & Pythias comradeship when they were garrisoned near Los Angeels, Cal. during the early '50s. The 71st Pennsylvania against whom Armistead's Brigade came a cropper were assinged to Hancock's 2nd Corps, and though not physically, _Armistead_ died in _Hancock's_ arms. He, in turn, saw to it that the dead warrior's intimate personal effects: sword, ring, sidearm, etc. were returned to the Armistead family in Virginia). #2.
+
+<a name="Neap"></a>NEAP, climacteric? stealthy onset declineing vigour. A sleazy almanac and the abrasion of indivisible answerability had absumed as adamantine breedstock as ever bestrode a charger... or a Commonwealth. (Verbatim from The Shorter Oxford Dictionary: "... a tide occuring shortly after the first and third quarters of the moon, in which the high water level stands at its lowest point"). Well? #2.
+
+<a name="Nemine Gratia"></a>NEMINE GRATIA, literally "thanks to nobody." In Quill's bias: thanks to the men _and_ women, seemingly _un_done, who were _created_ at and through Gettysburg, evinceing till this day truer STYLE than the Madras-jacketed Madison Avenooers and their mini-draped or bell-bottomed squaws. Lat. #11.
+
+<a name="New Orleans"></a>NEW ORLEANS, The Battle of, 1814. (Andrew Jackson vs. The Black Watch Regiment). #11.
 
 <a name=""></a>
 
