@@ -11,7 +11,7 @@ Legion undone, tallysome though, pocked the meadows, bogs, and bosks roundabout 
 
 Thomas Jonathan Jackson did not attend; John Buford did. J. E. B. Stuart shew tardy; John Buford was waiting, astraddle.
 
-Mr. Hemingway has scrawled the hippocratic arithmetic sufficeing terse for Quill: "The valid statistic is one (1)." Only moons back, Johnny and Jack graced their respective kitchens: worrying pigloins at Roanoke, brine-beef at Chelsea; swilling cider, cameling porter; gameing their women in oestrus. Now, one at a time, find Johnny Frye, tag Jack Prendergast. Never. That be absolute, Dr. Einstein or no.
+Mr. Hemingway has scrawled the hippocratic arithmetic sufficeing terse for Quill: "The valid statistic is one (1)." Only moons back, [Johnny and Jack](#Johnny and Jack) graced their respective kitchens: worrying pigloins at Roanoke, brine-beef at Chelsea; swilling cider, cameling porter; gameing their women in oestrus. Now, one at a time, find Johnny Frye, tag Jack Prendergast. Never. That be absolute, Dr. Einstein or no.
 
 Women (chaste or riggish, what matter?), waiting remote the cauldron, made do, got by on wintersleep, and aged. Still: spank kitchen, groom [bairns](#Bairn) to school, swab baby's bum and promise. Who's to undertake pronunciamentos? Where quaysi Death puts up, calipres and stethescopes count nothing.
 
@@ -55,7 +55,7 @@ Mr. Lincoln catnaps to the anodynous clacking of his Reading coach, closeing on 
 >Least, [dirksome](#Dirksome) friends! He bodes Knight _Lee_ dark trip.  
 >(_He's_ sound: one county's brim each man will stand).  
 >Not mine, because he loved Westmoreland more  
->Than Lincoln's shire. Chill God, he's seared a brand  
+>Than [Lincoln's shire](#Lincoln's Shire). Chill God, he's seared a brand  
 >Aswash all History that's hapt... foul sore,  
 >Ubiquitous as syphilis. To post?  
 >Mere _Lee_. _He's_ up to Grant and with his two friends.  
@@ -75,7 +75,7 @@ Neat, [anabolism](#Anabolism), nibble at the man's fibre... and compounded, two 
 
 Lee speaks:
 
-"Now, no choice but maul the hour. This day? Well, common-sense has written Jackson off. But Stuart? Carlisle's an healthy canter, fetch yesterday. That can abide the [exemplars-to-come](#Exemplars) at West Point... or Lexington.
+"Now, no choice but maul the hour. This day? Well, common-sense has written Jackson off. But Stuart? Carlisle's an healthy canter, fetch yesterday. That can abide the [exemplars-to-come](#Exemplars) at West Point... or [Lexington](#Lexington).
 
 First the mete, Brevet Liuetenant Lee: erase Fredericksburg, Chancellorsville -- too lucky, too much Stonewall... and postures upended. (What's more, Old Whiskers and Fightin' Joe patently liveried us those twin gory aliments.) Today's algebra? Meade + Sedgewick + stores - Jackson (Have I discounted Stonewall, in truth?), compounded to an escaped power by Stuart = Lee over x. Moot mathematic. And if the tangency disjoin with no [apodosis](#Apodosis)? Well then, Alexander's dread! For five mountain spines and four rivers to west and south, Mr. Lincoln stays his hand with one ace and two jacks showing, and something in the hole. Capt. Lee knows his hand: two kinds showing."
 
@@ -227,7 +227,31 @@ The Wordstock swanks no condescension; Quill avowedly surmises, and _respects_, 
 
 <a name="Instant Gentlemen"></a>INSTANT GENTLEMEN, grey-flanneled (now bell-bottomed?) agrammatists to Madison Row, instant coffee, instant coitus, instant Adamses (Kennedys?) - T/Y/J/O/H - Proem.
 
-<a name=""></a>
+<a name="Jenny Wren"></a>JENNY WREN, historically Jennie Wade. Still, verbati from The Shorter Oxford English Dictionary: "JENNY WREN, A pop. name for the wren, sometimes regarded in nursery lore as the wife, bride, or sweetheart of Robin Redbrest. Well? Q/M. #4.
+
+<a name="Johnny and Jack"></a>JOHNNY & JACK, euphonic preference to "Johnny Reb & Billy Yank." Q/M. Proem.
+
+<a name="Last"></a>LAST, intr. vb. #9.
+
+<a name="Lexington"></a>LEXINGTON, Rockbridge Co., Va., site of The Virginia Military Institute... and shades of its deceased Professor of The Physical Sciences, Thomas Jonathan Jackson. #2.
+
+<a name="Liam"></a>LIAM, William. Ir. #8.
+
+<a name="Light Horse"></a>LIGHT HORSE, major, later Gen'l Henry (Light Horse Harry) Lee. Gen'l Washington & Gen'l Greene's _most_ esteemed cavalry commander... and a very naughty boy. Still, he sired _The Gentleman_ bar none. #5.
+
+<a name="Lincoln's Shire"></a>LINCOLN'S SHIRE, Sangamon Co., Ill. #1.
+
+<a name="Lo"></a><a name="Lothario"></a>LO, LOTHARIO, Lewis A. Armistead mustered an indefatigable womanizer, So, his circle of officer friends, and soon the enlisted men under his command honoured this _second_ prowess in addressing him thus. T/Y/W/S. #10.
+
+<a name="Madalaide"></a>MADALAIDE, comb. form: Marmalade+Adelaide+Madeline. (Belongs on Mr. Mencken's roster of skiamachies south of Lat. 38 degrees.) T/Y/H/L/M. Q/M. #5.
+
+<a name="Mahanian"></a>MAHANIAN, Capt. Alfred _Thayer_ Mahan, born _West Point_, N. Y. graduated Ensign, U. S. N Annapolis Md. A third Janus-faced Prophet? (see #5, prose). Capt. Mahan carved a slice of The Bible as sure as Moses on Horeb: "The Influence Of Seapower Upon History." Append.
+
+<a name="Mair"></a>MAIR, more. Sc. #11.
+
+<a name="Masai"></a>MASAI, tallest of the African tribes, native Kenya, Tanganyika. Afr. #11.
+
+<a name="Massachusetts"></a>MASSACHUSETTS, petit poetic license, for it was the 71st Pennsylvania that cushioned the brunt of Armistead's incursion. _Then_, the Massachusetts 19th and 20th, assorted New Yorks, Michgans, Minnesotas, and Ohios replenished the vacuum. #10.
 
 <a name=""></a>
 
@@ -241,13 +265,7 @@ The Wordstock swanks no condescension; Quill avowedly surmises, and _respects_, 
 
 <a name=""></a>
 
-<a name=""></a>
-
-<a name=""></a>
-
-<a name=""></a>
-
-<a name="Snapper"></a>SNAPPER, Gen'l George Gordon Meade. (Quill quotes from a letter, kindness Mrs. Marie T. Capps, Map and Manuscript Librarian, U. S. Military Academy: "Major General George Gordon Meade had the nickname of "The Snalling Turtle" which was given to him before the Civil War. Just Where or when is now known.") How doubly prophetic! #2.
+<a name="Snapper"></a>SNAPPER, Gen'l George Gordon Meade. (Quill quotes from a letter, kindness Mrs. Marie T. Capps, Map and Manuscript Librarian, U. S. Military Academy: "Major General George Gordon Meade had the nickname of "The Snapping Turtle" which was given to him before the Civil War. Just Where or when is now known.") How doubly prophetic! #2.
 
 <a name="Souter"></a>SOUTER, cobbler, shoemaker, T/Y/R/B. Sc. #3.
 
