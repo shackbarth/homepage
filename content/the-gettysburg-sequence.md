@@ -283,7 +283,7 @@ The Wordstock swanks no condescension; Quill avowedly surmises, and _respects_, 
 
 <a name="Plumed Persia"></a>PLUMED PERSIA, No cheek, no obloquy Quill's part, Mr. Bruce Catton's, Mr. Douglas Southall Freeman's, Mr. Robert Penn Warren's, Mr. Clifford Dowdey's... Mr. Lincoln's!  
 Firstly: Willougby Run/Appomatox: Thermopylae/Salamis.  
-Secondly: The F. F. V.'s strutted The Valalier, as sure as John Brown harboured rabies. Quill wrenches a thumble-full of related passages from Mr Robert Penn Warren's astute, terse Mediataions, THE LEGACY OF THE CIVIL WAR. (By bloodlines and early surround, his proclivities must be southern.)
+Secondly: The F. F. V.'s strutted The Calalier, as sure as John Brown harboured rabies. Quill wrenches a thimble-full of related passages from Mr. Robert Penn Warren's astute, terse Meditations, THE LEGACY OF THE CIVIL WAR. (By bloodlines and early surround, his proclivities must be southern.)
 
 <a name=""></a>
 
