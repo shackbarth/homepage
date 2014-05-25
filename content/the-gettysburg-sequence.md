@@ -5,9 +5,9 @@ _This previously unpublished work was written by American poet Carl Franck, alia
 ### Proem
 (July 1 - 2 - 3, 1863)
 
-Numbers blur; there's a lie under them, in the teeth of an [old saw](#Old Saw). By Armistice Day in New England, rock maples, one by one, stand skeletons; their erstwhile blaze waits out wind or broom-rake unto oblivion. A leaf, overtaken of a breezeless forenoon, poses, slips, and glides see-saw turfward. It billets you or me.
+Numbers blur; there's a lie under them, in the teeth of an [old saw](#Old Saw). By Armistice Day in New England, [rock maples](#Rock Maple), one by one, stand skeletons; their erstwhile blaze waits out wind or broom-rake unto oblivion. A leaf, overtaken of a breezeless forenoon, poses, slips, and glides see-saw turfward. It billets you or me.
 
-Legion undone, tallysome though, pocked the meadows, bogs, and bosks roundabout the nodding town of tanners, cobblers, and saddlers. Why Gettysburg? Well, because Brigadier Johnston Pettigrew of Major General Harry [Heth's](#Heth) Division, attached to Lieutenant General Ambrose Powell Hill's III Corps, in General Robert E. Lee's Army of Northern Virginia fancied shoes -- not just for himself. He besought, properly enough, the General's go-ahead; Heth, eschewing channels, assented. Such seeming-unfraught whim committed Mr. Davis, 180 mile distant their shopping spree. Said coy contract, bodeing more than it chattered, Major General John F. Reynolds, I Corps, Army of The Potomac, counter-signed instanter. The fee came a small fortune though... himself's mortality, ninety seconds upon arrival the Union defense line tight Willoughby Run. A Mississippi marksman, discerning an epaulet, undid one highly competent Pennsylvania soldierman. Just like that. Pettigrew horned assorted foot-gear all right, Heth wore an hole in the soul, Longstreet didn't quite fit, Lee was saddled to the wrong mount.
+Legion undone, tallysome though, pocked the meadows, bogs, and bosks roundabout the nodding town of tanners, cobblers, and saddlers. Why Gettysburg? Well, because Brigadier Johnston Pettigrew of Major General Harry [Heth's](#Heth) Division, attached to Lieutenant General Ambrose Powell Hill's III Corps, in General Robert E. Lee's Army of Northern Virginia fancied shoes -- not just for himself. He besought, properly enough, the General's go-ahead; Heth, eschewing channels, assented. Such seeming-unfraught whim committed Mr. Davis, 180 mile distant their shopping spree. Said coy contract, bodeing more than it chattered, Major General John F. [Reynolds](#Reynolds), I Corps, Army of The Potomac, counter-signed instanter. The fee came a small fortune though... himself's mortality, ninety seconds upon arrival the Union defense line tight Willoughby Run. A Mississippi marksman, discerning an epaulet, undid one highly competent Pennsylvania soldierman. Just like that. Pettigrew horned assorted foot-gear all right, Heth wore an hole in the soul, Longstreet didn't quite fit, Lee was saddled to the wrong mount.
 
 Thomas Jonathan Jackson did not attend; John Buford did. J. E. B. Stuart shew tardy; John Buford was waiting, astraddle.
 
@@ -47,7 +47,7 @@ Mr. Yeats blasphemed shrewd when he owned up that Sex and Death loomed the two c
 Epilogue  
 (The Gesture Day... November 19, 1863)
 
-Mr. Lincoln catnaps to the anodynous clacking of his Reading coach, closeing on Gettysburg. He tallies random inward and outward accounts. Does the President graze you a mite sorry for Abe? Well, does not the Son of Man for Jesus, urgeing a gibbet to its ordained rearing?
+Mr. Lincoln catnaps to the anodynous clacking of his [Reading](#Reading) coach, closeing on Gettysburg. He tallies random inward and outward accounts. Does the President graze you a mite sorry for Abe? Well, does not the Son of Man for Jesus, urgeing a gibbet to its ordained rearing?
 
 >Pa whimped. Ma whored to whelp Abe hedgerow snatch?  
 >Mary hugs light to shadow black Xantipp',  
@@ -79,7 +79,7 @@ Lee speaks:
 
 First the mete, Brevet Liuetenant Lee: erase Fredericksburg, Chancellorsville -- too lucky, too much Stonewall... and [postures upended](#Postures Upended). (What's more, [Old Whiskers and Fightin' Joe](#Old Whiskers) patently liveried us those twin gory aliments.) Today's algebra? Meade + Sedgewick + stores - Jackson (Have I discounted Stonewall, in truth?), compounded to an escaped power by Stuart = Lee over x. Moot mathematic. And if the tangency disjoin with no [apodosis](#Apodosis)? Well then, Alexander's dread! For five mountain spines and four rivers to west and south, Mr. Lincoln stays his hand with one ace and two jacks showing, and something in the hole. Capt. Lee knows his hand: two kinds showing."
 
-Withal, a good man plumb purest to the Traveller, or Rover, that matches his master... body, heart, and brain.
+Withal, a good man plumb purest to the Traveller, or [Rover](#Rover), that matches his master... body, heart, and brain.
 
 >I heed [The Snapper](#Snapper), h'm, [Monterey](#Monterey) it was.  
 >He miened moot rusy, surfeit stanch. I think,  
@@ -295,6 +295,22 @@ __Note_: Credit due, credit given. The F. F. V. aside notwithstanding, Pettigrew
 <a name="Pounces"></a>POUNCES, (sb.) claws, talons. Arch-Eng. Proem.
 
 <a name="Pownied"></a>POWNIED, on horseback. Sc. #3.
+
+<a name="Quasi Ex Mortuo"></a>QUASI EX MORTUO, as from a dead man. Lat. #8.
+
+<a name="Quick"></a>QUICK, vb. quicken, as in "the quick and the dead." #12.
+
+<a name="Reading"></a>READING, railroad line, Pa. #1.
+
+<a name="Red Lion"></a>RED LION, small town Pa., due east some 20 mile Gettysburg. #6.
+
+<a name="Reynolds"></a>REYNOLDS GEN'L JOHN D., commanding I Corps, U. S. A. Upon Gen'l Hooker's relief from command The Army of the Potomac, he declined Mr. Lincoln's proffer (plead?) to succession. Hence Meade. Proem & Append.
+
+<a name="Rock Maple"></a>ROCK MAPLE, sugar mape var., N. E. strain. Proem.
+
+<a name="Rover"></a>ROVER, a Labrador retriever et al. #2.
+
+<a name="Ruth Benjamin"></a>RUTH BENJAMIN, sister to Judah Benjamin, 1st Sec'y of War, C. S. A. (later kicked upstairs to Sec'y of State). #11.
 
 <a name=""></a>
 
