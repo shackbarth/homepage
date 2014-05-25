@@ -15,9 +15,9 @@ Mr. Hemingway has scrawled the hippocratic arithmetic sufficeing terse for Quill
 
 Women (chaste or riggish, what matter?), waiting remote the cauldron, made do, got by on wintersleep, and aged. Still: spank kitchen, groom [bairns](#Bairn) to school, swab baby's bum and promise. Who's to undertake pronunciamentos? Where quaysi Death puts up, calipres and stethescopes count nothing.
 
-Time near hand, Quill abode hardby Dublin and Edinburgh. At Solomonic fingering he assays matrices and castings treasure thereabout. The apposite styles graze, they don't bump. Dublin, nimble, Swiftian; Edinburgh, painstaking, Smithlike. Wharfing a sentient sea-farer, Yank at that, they grimaced, but jettisoned a few entries in the tired log. In keeping, the clans lent him sporadic ingress their pow-wows. If he sorted traits and tics; if he turned [bias](#Bias) along the potter-wheels weather, terrain, pinch or groaning board; if he reckoned incongruities back to tamper-mechanics of dispossession and out-breeding under the [pounces](#Pounces) and genitalia of successive usurpers, he was at least talking Celt turkey. And because he buttressed his surmise, often as not ever needing utterance, with a goodly smattering of either island's overt and/or clandestine scrapes along history -- surges and setbacks -- Mac's and O's came sluggish to trust him, within bounds... as it should be.
+Time near hand, Quill abode hardby Dublin and Edinburgh. At Solomonic fingering he assays matrices and castings treasure thereabout. The apposite styles graze, they don't bump. Dublin, nimble, [Swiftian](#Swiftian); Edinburgh, painstaking, [Smithlike](#Smithlike). Wharfing a sentient sea-farer, Yank at that, they grimaced, but jettisoned a few entries in the tired log. In keeping, the clans lent him sporadic ingress their pow-wows. If he sorted traits and tics; if he turned [bias](#Bias) along the potter-wheels weather, terrain, pinch or groaning board; if he reckoned incongruities back to tamper-mechanics of dispossession and out-breeding under the [pounces](#Pounces) and genitalia of successive usurpers, he was at least talking Celt turkey. And because he buttressed his surmise, often as not ever needing utterance, with a goodly smattering of either island's overt and/or clandestine scrapes along history -- surges and setbacks -- Mac's and O's came sluggish to trust him, within bounds... as it should be.
 
-All right, so much for west-east. East-west? Another yarn. Quill winced, at times, that so witted islanders as Celts proved out so lethargic, stony, when the mere matter pertained The United States of Purgatory, panaorama of Paradise, large scale chart of Gehanna. There's more than one irish bank vice-president who can put finger on G. Washington, taps grand excitement gawking General Custer, Sitting Bull rendezvous at the Telly, or imparts the arcane lore that Kennedys hearthed County Wexford whilst Fitzgeralds sprang The West. Midlothian solicitors abound who revere Alexander Graham Bell, envy Uncle Same manna because Dr. Albert Einstein turned up abandoned at his door-sill, confide their nation bestowed on General Eisenhower a castle with moat... and golf course. Abigail Adams? "Sorra, you'll need to explicate." (Jaysusgod, and She statured thrice the woman Mary Stuart dreamt upstairs or craved below.) To be sure, Quill, by bent, seldom haunted the academic, bohemian, or clerical ring-around-the-rosy cabals. He muscled his milieu on men-in-commerce, builder-architects, the Military, their wives and/or lemans that tagged along, drunks threatening give-and-take, publicans who slaked them. But still.
+All right, so much for west-east. East-west? Another yarn. Quill winced, at times, that so witted islanders as Celts proved out so lethargic, stony, when the mere matter pertained The United States of Purgatory, panaorama of Paradise, large scale chart of Gehanna. There's more than one irish bank vice-president who can put finger on G. Washington, taps grand excitement gawking General Custer, Sitting Bull rendezvous at the [Telly](#Telly), or imparts the arcane lore that Kennedys hearthed County Wexford whilst Fitzgeralds sprang The West. Midlothian solicitors abound who revere Alexander Graham Bell, envy Uncle Same manna because Dr. Albert Einstein turned up abandoned at his door-sill, confide their nation bestowed on General Eisenhower a castle with moat... and golf course. Abigail Adams? "Sorra, you'll need to explicate." (Jaysusgod, and She statured thrice the woman Mary Stuart dreamt upstairs or craved below.) To be sure, Quill, by bent, seldom haunted the academic, bohemian, or clerical ring-around-the-rosy cabals. He muscled his milieu on men-in-commerce, builder-architects, the Military, their wives and/or lemans that tagged along, drunks threatening give-and-take, publicans who slaked them. But still.
 
 Stateside? Same poor show, less amnesty Quill's stricture. The germane verb spells no longer wince; it scans scorn on peers his age or less or more, and some scope wider far. No moral indictment. Nastier: sluggard stance, unstyle. Desuetude yawns for Taps? A balm, an easement, nemine gratia, and [instant gentlemen](#Instant Gentlemen) won't stand attention its Benison once a night, once a death, once a nation? Hale, drones of necropolis! New Bedford blood, Front Royal lymph, spilt all right, stains not your tufted wall-to-wall carpeting. Your Martini runneth over, Sir.
 
@@ -39,7 +39,7 @@ Just so. Rancour prompted the fourteen poems; humbleness before sustained them, 
 
 Tattoo... Taps. Eyes dry, sweep down Glory's roster again for Domesday's sake. Go ahead, murmur: "But Glory shew on and on -- Wake Island, Bastogne, Tarawa, Huertgen Forest." Other times, other Glories: Glories of stock, Glories in season. Glory of the maples, October's afternoon; Glorious the seared beech, defying December to undress first. Twin Glories: Gettysburg, Guadalcanal... The Glory of life passing into death, the Glory of death passing for life.
 
-Mr. Yeats blasphemed shrewd when he owned up that Sex and Death loomed the two contingencies bloody well worth his bother. Aye, Mr. Yeats. Still, you stem County Sligo gentry; Mike Quill, maker of these sonnets, septs The [O'Suileabhain](#O'Suileabhain) Kerry fisherfolk. His leaning? Deserving the japer; sex, death, god, pieces o' eight, booze, power. Perhaps he can move on, one day, along more indigenous vein. For now, sex and death. War? Not quite. Gettysburg sums them one.
+Mr. Yeats blasphemed shrewd when he owned up that Sex and Death loomed the two contingencies bloody well worth his bother. Aye, Mr. Yeats. Still, you stem County Sligo gentry; Mike Quill, maker of these sonnets, [septs](#Septs) The [O'Suileabhain](#O'Suileabhain) Kerry fisherfolk. His leaning? Deserving the japer; sex, death, god, pieces o' eight, booze, power. Perhaps he can move on, one day, along more indigenous vein. For now, sex and death. War? Not quite. Gettysburg sums them one.
 
 ---------------------------------
 
@@ -86,7 +86,7 @@ Withal, a good man plumb purest to the Traveller, or [Rover](#Rover), that match
 >Tight score, we'll squeeze him though. He never does  
 >Much quake... less foray 'field. An I claw drink  
 >Swish Grant to west (God wits Lee patent can't.)  
->I'd sough things out the stretch. Or had I had  
+>I'd [sough](#Sough) things out the stretch. Or had I had  
 >Light Horse spell gadding Jeb, his stores could scant.  
 >How deem y' Traveller? Lee's wrought, he's glad,  
 >His other self, to mount your splendid side.  
@@ -109,16 +109,16 @@ Auld John Burns, [souter](#Souter), stands ready, wheat to the midriff, sighting
 
 >Och, three-score-ten o'rifled, tendin' me!  
 >I ken grey gooshin' doon yon green defile  
->I'll size the [pownied](#Pownied) [ghaistie](#Ghaistie), Lee, th' day  
+>I'll size the [pownied](#Pownied) [ghaistie](#Ghaistie), Lee, [th' day](#Th' Day)  
 >An' fling thae Cavalier the' sco'ish style  
 >Fell Ulster clans romp rude, bu' doona frigh'  
 >[Ilk](#Ilka) Borders Sco'. Och forbears mine wi' Bruce  
 >An' Wallace bled. Di' pauky Caesar try  
 >T' [hough](#Hough) our [hames an' haughs](#Hames and Haughs)? Na he! The truce  
->He kep', where Sassunach fronts ither shame --  
+>He kep', where [Sassunach](#Sassunach) fronts ither shame --  
 >Fu' wa' that looms until this awfu' day.  
 >'Side me, wee Kerkimer, whose tacit fame  
->Be water he will tak bricht lad who dee  
+>Be water he will [tak](#Tak) bricht lad who dee  
 >'Ere sun gang doon. Och, aye, this day the [bairns](#Bairn)  
 >[Maun](#Maun) keep [hie](#Hie) companie we' cronie Burns.
 
@@ -312,28 +312,63 @@ __Note_: Credit due, credit given. The F. F. V. aside notwithstanding, Pettigrew
 
 <a name="Ruth Benjamin"></a>RUTH BENJAMIN, sister to Judah Benjamin, 1st Sec'y of War, C. S. A. (later kicked upstairs to Sec'y of State). #11.
 
-<a name=""></a>
+<a name="Saengerschloss"></a>SAENGERSCHLOSS, Castle of Music-makers. Germ. #7.
 
-<a name=""></a>
+<a name="Sassunach"></a>SASSUNACH, Englishman. Gael. #3.
 
-<a name=""></a>
+<a name="Septs"></a>SEPTS, used as vb, branch of a clan. Gael. Proem.
 
-<a name=""></a>
+<a name="Sheol"></a>SHEOL, the underworld, death, etc. Heb. #11.
 
-<a name=""></a>
+<a name="Skene-Dubh"></a>SKENE-DUBH. all-purpose dirk, generally thrust sheathed into the stocking. Sc. - Gael. #11.
 
-<a name=""></a>
-
-<a name=""></a>
-
-<a name=""></a>
-
-<a name=""></a>
-
-<a name=""></a>
+<a name="Smithlike"></a>SMITHLIKE, Adam Smith. Alas, the now scorned or neglected Scottish physiocrat... and to our woe. Proem.
 
 <a name="Snapper"></a>SNAPPER, Gen'l George Gordon Meade. (Quill quotes from a letter, kindness Mrs. Marie T. Capps, Map and Manuscript Librarian, U. S. Military Academy: "Major General George Gordon Meade had the nickname of "The Snapping Turtle" which was given to him before the Civil War. Just Where or when is now known.") How doubly prophetic! #2.
 
+<a name="Sodger"></a>SODGER, soldier. Sc. #11.
+
+<a name="Sough"></a>SOUGH, to pant and/or sigh, as after agonizeing exertion. #2.
+
+<a name="Souled"></a>SOULED, used as trans. vb. (sew, sinewed, sold, etc.) Q/M. #7.
+
 <a name="Souter"></a>SOUTER, cobbler, shoemaker, T/Y/R/B. Sc. #3.
 
+<a name="Spikey Diadem"></a>SPIKEY DIADEM, crown of thorns. #8.
+
+<a name="Sporran"></a>SPORRAN, a money pouch worn about the waist. Sc. - Gael. #11.
+
+<a name="Spreewald"></a>SPREEWALD, The Venice of Prussia (Brandenburg district), save that the banks are paved with niggerheads and shaded with bog trees. (As The Curragh in the Co. Kildare is to stud, the Spreewald is to wet/nurses.) #7.
+
+<a name="Squoze"></a>SQUOZE, Why not. Viz "freeze, froze, frozen - or at Appalachia even "squizen, frizen." Q/M somewhat. #7.
+
+<a name="Stone"></a>STONE, 14 pounds avor. Eng. #11.
+
+<a name="Swiftian"></a>SWIFTIAN, Dean Jonathan Swift - mordant freedom-fighter, founder St. Patrick's Madhouse, Dublin. Proem.
+
+<a name="Tak"></a>TAK, fetch. Sc. #3.
+
+<a name="Tared"></a>TARED, (used as trans. vb.) discounted, took with a grain of salt, etc. Q/M. #11.
+
 <a name="Taws"></a>TAWS, verbatim from The Shorter Oxford English Dictionary: _taw_, a large fancy marble, often streaked or variegated, being that with which the player shoots. #11.
+
+<a name="Telly"></a>TELLY, TV. Eng. Proem.
+
+<a name="Th' Day"></a>TH' DAY, today. Sc. #3.
+
+<a name="Thirty-Two Mile Forced March"></a>THIRTY-TWO MILE FORCED MARCH, On July 1, 1863 The VI Corps was bivouacked at Machester, Md. precisely half-way between Washington and Gettysburg. Motherwit insists that the fateful commitment was, _au fond_, Mr. Lincoln's rather than Gen'l Halleck's or even Gen'l Meade's:--"Gettysburg! That's where the boil's for lanceing; the divil's welcome to Washington, a bilgy ooze of pencil-polishers and politicians." #6.
+
+<a name="Three Hooves Terra Firma"></a>THREE HOOVES TERRA FIRMA, Throughout the battleground statuary, one sorts the generals who were killed there from those who weren't very readily. Reynold's mount is cast in the stance delined, _three hooves terra firma, one cocked for the paw_; Lee's Traveller was _four hooves planted_. Append.
+
+<a name=""></a>
+
+<a name=""></a>
+
+<a name=""></a>
+
+<a name=""></a>
+
+<a name=""></a>
+
+<a name=""></a>
+
