@@ -87,7 +87,7 @@ Withal, a good man plumb purest to the Traveller, or [Rover](#Rover), that match
 >Much quake... less foray 'field. An I claw drink  
 >Swish Grant to west (God wits Lee patent can't.)  
 >I'd [sough](#Sough) things out the stretch. Or had I had  
->Light Horse spell gadding Jeb, his stores could scant.  
+>[Light Horse](#Light Horse) spell gadding Jeb, _his_ stores could scant.  
 >How deem y' Traveller? Lee's wrought, he's glad,  
 >His other self, to mount your splendid side.  
 >Since Stonewall fell, y've not once stumbled gait --  
@@ -119,13 +119,35 @@ Auld John Burns, [souter](#Souter), stands ready, wheat to the midriff, sighting
 >Fu' wa' that looms until this awfu' day.  
 >'Side me, wee Kerkimer, whose tacit fame  
 >Be water he will [tak](#Tak) bricht lad who dee  
->'Ere sun gang doon. Och, aye, this day the [bairns](#Bairn)  
+>'Ere sun gang doon. Och, aye, _this_ day the [bairns](#Bairn)  
 >[Maun](#Maun) keep [hie](#Hie) companie we' cronie Burns.
 
-_Margin notes:_  
-_TODO_
+---------------------------------
+
+### The Gettysburg Sequence #4
+(The First Night... July 1, 1863)
+
+[Jennie Wren](#Jennie Wren) reckons ahead. Penelope's story meanders back to woman on earth: by way of The Wife of Bath, Jennie Wren, till Mollie Bloom. It's the way things sort. The fable comes out silly only cecause of the prisses who have laundered it. [_When 'Omer smote 'is bloomin' lyre_](#When 'Omer), and tacked his lays through the villages and by-ways of Attica, the locals sensed which cheeck his tongue lodged. And blind or not blind, we daresay he knew to wink too.
+
+>Grey gun-butt warns that door; I'll chance him through.  
+>Then ream and drain his rifle ball and bore.  
+>Johnny minds learn if Jack, or stores, or brew  
+>Sequestered be by me. But 'ere cocks chore  
+>[He'll blew](#He'll Blew) his booty Jennie's thighs. Jen rut  
+>It so. Peaskins, he'll fret Jen's Jack worked west  
+>With little [Phil](#Sheridan). I'll bathe her dusty cut  
+>His early dew. Last, like a tot, He'll breast.  
+>Sleep after wet, what rude rehearsal death!  
+>That man of cloth, The Reverend Herman Kraus,  
+>Mumbling bedside, shrives shy, matched spent man's breath.  
+>In lieu cold Jack, close Johnny warms this house.  
+>'Tis sheets north-south... Sunrise, I'll carve him bread.  
+>Go gaze men die, weep once, and get me dead.
 
 ---------------------------------
+
+
+
 
 ### Wordstock
 
@@ -177,7 +199,7 @@ The Wordstock swanks no condescension; Quill avowedly surmises, and _respects_, 
 
 <a name="Falkenblick"></a>FALKENBLICK, Hawk-eye. Germ. #7.
 
-<a name="Fiends"></a>FIENDS, "Red and Little Phil," that is Gen'ls William T. Sherman and Philip H. Sheridan. #1.
+<a name="Fiends"></a><a name="Sheridan"></a>FIENDS, "Red and Little Phil," that is Gen'ls William T. Sherman and Philip H. Sheridan. #1.
 
 <a name="Fitting and Fair"></a>FITTING AND FAIR, Vere dignum, justum, aequum, et salutare est. (Roman liturgy). Lat. #8.
 
@@ -283,7 +305,7 @@ The Wordstock swanks no condescension; Quill avowedly surmises, and _respects_, 
 
 <a name="Plumed Persia"></a>PLUMED PERSIA, No cheek, no obloquy Quill's part, Mr. Bruce Catton's, Mr. Douglas Southall Freeman's, Mr. Robert Penn Warren's, Mr. Clifford Dowdey's... Mr. Lincoln's!  
 Firstly: Willougby Run/Appomatox: Thermopylae/Salamis.  
-Secondly: The F. F. V.'s strutted The Calalier, as sure as John Brown harboured rabies. Quill wrenches a thimble-full of related passages from Mr. Robert Penn Warren's astute, terse Meditations, THE LEGACY OF THE CIVIL WAR. (By bloodlines and early surround, his proclivities must be southern.) His first allusion is to the bent of the South's creative minority: "... the apologists offered a philosphy of marmoreal rigidity, proper to the rigidity of that society." And appositely:  
+Secondly: The F. F. V.'s strutted The Cavalier, as sure as John Brown harboured rabies. Quill wrenches a thimble-full of related passages from Mr. Robert Penn Warren's astute, terse Meditations, THE LEGACY OF THE CIVIL WAR. (By bloodlines and early surround, his proclivities must be southern.) His first allusion is to the bent of the South's creative minority: "... the apologists offered a philosphy of marmoreal rigidity, proper to the rigidity of that society." And appositely:  
 "It did not matter that Theodore Weld, one of the most effective of the Abolitionists, withdrew from active propagandizing because, as he said to an admirer, he found the "he himself needed reforming," and that he "had been laboring to destroy evil in the same spirit as his antagonists." Nor did it matter that Julia Ward Howe, the author-to-be of "The Battle Hymn of the Republic," could write in 1858, after a trip to South Carlona: "Moral justice dissents from the habitual sneer, denunciation, and malediction, which have become consecrated forms of piety in speaking of the South." Nor did it matter that Lincoln could take a reasonable tone about John Brown's raid on Harper's Ferry: "Old John Brown has been executed for treason against a State. We cannot object, even though he agreed with us in thinking slavery wrong. That cannot excuse violence, bloodshed, and treason. It could avail him nothing that he might think himself right."  
 "Despite Theodore Weld and Julia Ward Howe and Abraham Lincoln, love of liberty and lust for blood continued to conspire much self scrutiny or meditation on the social effects of inspired rhetoric."  
 "... And a little later it offered space, too, for the folly of Gevernor Wise and his fellow Virginians, who instead of committing John Brown to an asylum, where all the medical ecidence, even then available to the court, clearly indicated that he should be, hanged him and thereby proved again what is never in much need of proof, that a crazy man is a large-scale menace only in a crazy society." Can the man howling in the mob imagine General R. E. Lee, CSA, shaking hands with Orval Faubus, Governor of Arkansas?"  
@@ -374,7 +396,7 @@ __Note_: Credit due, credit given. The F. F. V. aside notwithstanding, Pettigrew
 
 <a name="Westmoreland"></a>WESTMORELAND, Co. Va. #1, #2.
 
-<a name="When 'Omer Smote 'Is Bloomin' Lyre"></a>WHEN 'OMER SMOTE 'IS BLOOMIN' LYRE, T/Y/R/K. #4.
+<a name="When 'Omer"></a>WHEN 'OMER SMOTE 'IS BLOOMIN' LYRE, T/Y/R/K. #4.
 
 <a name="Whimped"></a>WHIMPED, combined form, whined = pimped. Q/M. #1.
 
@@ -382,5 +404,5 @@ __Note_: Credit due, credit given. The F. F. V. aside notwithstanding, Pettigrew
 
 <a name="Wordstock"></a>WORDSTOCK, Glossary.
 
-<a name="Xantipp'"></a>XANTIPP', harridan unto Socrates. (poetic mischief, correct spelling and pronunciation: Xantippe. #1.
+<a name="Xantipp'"></a>XANTIPP', harridan unto Socrates. (poetic mischief, correct spelling and pronunciation: Xantippe.) #1.
 
