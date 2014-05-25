@@ -192,6 +192,43 @@ George Gordon Meade strives to be honest with himself and, in his way, toward Ja
 >The hunter's hunted this 'capade. I'm glad  
 >Grey Stonewall's down. Mine's up. Still that thralls sad.
 
+---------------------------------
+
+### The Gettysburg Sequence #7
+(The Second Day... July 2, 1863)
+
+Major Arno Kiesewetter, Regimental Executive Officer to the 1st Wisconsin Infantry, with ninety minutes tenure - thanks Lt. Col. Aiden's trifty passing by decapitation - lies unattended, dying in The Wheatfield. It doesn't matter though; he's dead, _clinically_. Piffle such a _polysyllabic_, evoking an alabaster haven-of-succour that The Wheatfield manifestly was _not_ July 2, 1863. An encephalographic gadgetry, at our later time, is said to ticker back life-after-death. Once breath and beat have frozen stone cold dead at the market-place, the dwindling oxygen harvest stacked in the cranial silo drags matters out timeable seconds, even minutes, savantry contends.
+
+Arno Kiesewetter was born at Koenigsburg, East Prussia on July 3, 1833. His home, neither outscale the family nor overdone as to trappings, was nonetheless dubbed [SAENGERSCHLOSS](#Saengerschloss). His father, Ulric Kiesewetter, prospered as a cutler, purveying to Junkers and a few well-off Jewish families in the district.
+
+But WHY and HOW did Major Kiesewetter achieve death in The Wheatfield the day before his birthday in 1863? As a business man, Ulric Kiesewetter suffered a gnawing to lay ghost the awesomeness of anglo-saxon mercantile enterprise. Likely, he chose resettlement in the United States rather than Great Britain, because he sensed a more expansive future for his two sons and unmarried daughter. He timed it right: Milwaukee was making its strong move into beer, cheese, lumber, and hardware. So fruitful tumbled the yield, so astute Ulric's husbandry, that Arno was enabled to pass four halcyon years at William and Mary. He graduated magna-cum-laude. The young man came to like _Virginia_ argently: women, horses, and manners. That's WHY... _She_ embraced him at the last.
+
+Arno's mother carried the Viennese maiden-name Lieselotte von Hoffmannsthal. Lieselotte married Ulric on her 16th birthday. She ruled the harpsichord with queenly order. During parturition attendant Berthold Kiesewetter, the mother bled to death. Berthold made it, grace the lactative fitness of an [amah](#Amah) who had been hansomed in from the [Spreewald](#Spreewald) in Brandenburg and put on standby. The doctor had foreseen trouble. It befell... twofold. Berthold [squoze](#Squoze) forth an hunchback. Arno Kiesewetter was 9 years at the time. Obedient to her longing - once the palm-larding rites of moment to Bishop Sebastian von [Falkenblick](#Falkenblick), shepherd to the Koeningsburg Diocese, were undergone - Ulric, Arno, and Magdelena coached with the body to Saint Stefan's Cathedtral at Vienna, whence Lieselotte was buried.
+
+A _Missa Cantata_ was celebrated, with organ and full choir, to the strong harmonies of Mr. Mozart's craftsmanlike Requiem in D-Minor. Arno had never heard _that_ before. He would hear it once again: dead in The Wheatfield, July 2, 1863. That's HOW.
+
+In this sonnet, [quasi ex mortuo](#Quasi Ex Mortuo), he shares with her what both enjoyed most on earth: one another, love-making, music.
+
+>Our place and time to render Death style true.  
+>[Also](#Also): She tapped her spile where thighs are crowned.  
+>One time I mused to breed a wife, I'd woo...  
+>But Berthold's camber, daily traced? Sense frowned  
+>Daft whim to side. (I _did_ delight back-lanes.)  
+>Thou'rt not to scold. Tut, tut yourself. The [Schloss](#Saengerschloss)  
+>Was known to rock o'nights, as Ulric's reins  
+>Piped calisthenics to bequeath. [Gay moss](#Gay Moss)?  
+>Well, same low game, pay high, sew me to three!  
+>Thy Magdalen' mourns proud at New Orleans;  
+>Her empty surname? Smile, be Savigny.  
+>_Alles Kaput_. Last board: Stale bread, eye-beans.  
+>No mind, I share the bier [bei Wein](#Bei Wein) tight thee.  
+>End chords salve me: His Requiem in D.
+
+---------------------------------
+
+### The Gettysburg Sequence #8
+(The Second Night... July 2, 1863)
+
 
 
 
@@ -354,13 +391,20 @@ The Wordstock swanks no condescension; Quill avowedly surmises, and _respects_, 
 
 <a name="Pimp"></a>PIMP, Rome. Q/M et al. #8.
 
-<a name="Plumed Persia"></a>PLUMED PERSIA, No cheek, no obloquy Quill's part, Mr. Bruce Catton's, Mr. Douglas Southall Freeman's, Mr. Robert Penn Warren's, Mr. Clifford Dowdey's... Mr. Lincoln's!  
-Firstly: Willougby Run/Appomatox: Thermopylae/Salamis.  
-Secondly: The F. F. V.'s strutted The Cavalier, as sure as John Brown harboured rabies. Quill wrenches a thimble-full of related passages from Mr. Robert Penn Warren's astute, terse Meditations, THE LEGACY OF THE CIVIL WAR. (By bloodlines and early surround, his proclivities must be southern.) His first allusion is to the bent of the South's creative minority: "... the apologists offered a philosphy of marmoreal rigidity, proper to the rigidity of that society." And appositely:  
-"It did not matter that Theodore Weld, one of the most effective of the Abolitionists, withdrew from active propagandizing because, as he said to an admirer, he found the "he himself needed reforming," and that he "had been laboring to destroy evil in the same spirit as his antagonists." Nor did it matter that Julia Ward Howe, the author-to-be of "The Battle Hymn of the Republic," could write in 1858, after a trip to South Carlona: "Moral justice dissents from the habitual sneer, denunciation, and malediction, which have become consecrated forms of piety in speaking of the South." Nor did it matter that Lincoln could take a reasonable tone about John Brown's raid on Harper's Ferry: "Old John Brown has been executed for treason against a State. We cannot object, even though he agreed with us in thinking slavery wrong. That cannot excuse violence, bloodshed, and treason. It could avail him nothing that he might think himself right."  
-"Despite Theodore Weld and Julia Ward Howe and Abraham Lincoln, love of liberty and lust for blood continued to conspire much self scrutiny or meditation on the social effects of inspired rhetoric."  
-"... And a little later it offered space, too, for the folly of Gevernor Wise and his fellow Virginians, who instead of committing John Brown to an asylum, where all the medical ecidence, even then available to the court, clearly indicated that he should be, hanged him and thereby proved again what is never in much need of proof, that a crazy man is a large-scale menace only in a crazy society." Can the man howling in the mob imagine General R. E. Lee, CSA, shaking hands with Orval Faubus, Governor of Arkansas?"  
-__Relativity_ is indeed an eerie matter, Dr. Einstein.  
+<a name="Plumed Persia"></a>PLUMED PERSIA, No cheek, no obloquy Quill's part, Mr. Bruce Catton's, Mr. Douglas Southall Freeman's, Mr. Robert Penn Warren's, Mr. Clifford Dowdey's... Mr. Lincoln's!
+
+Firstly: Willougby Run/Appomatox: Thermopylae/Salamis.
+
+Secondly: The F. F. V.'s strutted The Cavalier, as sure as John Brown harboured rabies. Quill wrenches a thimble-full of related passages from Mr. Robert Penn Warren's astute, terse Meditations, THE LEGACY OF THE CIVIL WAR. (By bloodlines and early surround, his proclivities must be southern.) His first allusion is to the bent of the South's creative minority: "... the apologists offered a philosphy of marmoreal rigidity, proper to the rigidity of that society." And appositely:
+
+"It did not matter that Theodore Weld, one of the most effective of the Abolitionists, withdrew from active propagandizing because, as he said to an admirer, he found the "he himself needed reforming," and that he "had been laboring to destroy evil in the same spirit as his antagonists." Nor did it matter that Julia Ward Howe, the author-to-be of "The Battle Hymn of the Republic," could write in 1858, after a trip to South Carlona: "Moral justice dissents from the habitual sneer, denunciation, and malediction, which have become consecrated forms of piety in speaking of the South." Nor did it matter that Lincoln could take a reasonable tone about John Brown's raid on Harper's Ferry: "Old John Brown has been executed for treason against a State. We cannot object, even though he agreed with us in thinking slavery wrong. That cannot excuse violence, bloodshed, and treason. It could avail him nothing that he might think himself right."
+
+"Despite Theodore Weld and Julia Ward Howe and Abraham Lincoln, love of liberty and lust for blood continued to conspire much self scrutiny or meditation on the social effects of inspired rhetoric."
+
+"... And a little later it offered space, too, for the folly of Gevernor Wise and his fellow Virginians, who instead of committing John Brown to an asylum, where all the medical ecidence, even then available to the court, clearly indicated that he should be, hanged him and thereby proved again what is never in much need of proof, that a crazy man is a large-scale menace only in a crazy society." Can the man howling in the mob imagine General R. E. Lee, CSA, shaking hands with Orval Faubus, Governor of Arkansas?"
+
+__Relativity_ is indeed an eerie matter, Dr. Einstein.
+
 __Note_: Credit due, credit given. The F. F. V. aside notwithstanding, Pettigrews splendid Brigade was built of The 11th North Carolina, The 26th North Carolina, the 47th North Carolina, The 52nd North Carolina. Append.
 
 <a name="Postures Upended"></a>POSTURES UPENDED, For once, at long last, Lee _must_ attack; Meade may defend: a virginal contingency. #2.
