@@ -77,7 +77,7 @@ Lee speaks:
 
 "Now, no choice but maul the hour. This day? Well, common-sense has written Jackson off. But Stuart? Carlisle's an healthy canter, fetch yesterday. That can abide the [exemplars-to-come](#Exemplars) at West Point... or [Lexington](#Lexington).
 
-First the mete, Brevet Liuetenant Lee: erase Fredericksburg, Chancellorsville -- too lucky, too much Stonewall... and [postures upended](#Postures Upended). (What's more, [Old Whiskers and Fightin' Joe](#Old Whiskers) patently liveried us those twin gory aliments.) Today's algebra? Meade + Sedgewick + stores - Jackson (Have I discounted Stonewall, in truth?), compounded to an escaped power by Stuart = Lee over x. Moot mathematic. And if the tangency disjoin with no [apodosis](#Apodosis)? Well then, Alexander's dread! For five mountain spines and four rivers to west and south, Mr. Lincoln stays his hand with one ace and two jacks showing, and something in the hole. Capt. Lee knows his hand: two kinds showing."
+First the mete, Brevet Lieutenant Lee: erase Fredericksburg, Chancellorsville -- too lucky, too much Stonewall... and [postures upended](#Postures Upended). (What's more, [Old Whiskers and Fightin' Joe](#Old Whiskers) patently liveried us those twin gory aliments.) Today's algebra? Meade + Sedgewick + stores - Jackson (Have I discounted Stonewall, in truth?), compounded to an escaped power by Stuart = Lee over x. Moot mathematic. And if the tangency disjoin with no [apodosis](#Apodosis)? Well then, Alexander's dread! For five mountain spines and four rivers to west and south, Mr. Lincoln stays his hand with one ace and two jacks showing, and something in the hole. Capt. Lee knows his hand: two kinds showing."
 
 Withal, a good man plumb purest to the Traveller, or [Rover](#Rover), that matches his master... body, heart, and brain.
 
@@ -113,7 +113,7 @@ Auld John Burns, [souter](#Souter), stands ready, wheat to the midriff, sighting
 >An' fling thae Cavalier the' sco'ish style  
 >Fell [Ulster clans](#Ulster Clans) romp rude, bu' doona frigh'  
 >[Ilk](#Ilka) Borders Sco'. Och forbears mine wi' Bruce  
->An' Wallace bled. Di' pauky Caesar try  
+>An' Wallace bled. Di' [pawky](#Pawky) Caesar try  
 >T' [hough](#Hough) our [hames an' haughs](#Hames and Haughs)? Na he! The truce  
 >He kep', where [Sassunach](#Sassunach) fronts ither shame --  
 >Fu' wa' that looms until this awfu' day.  
@@ -127,7 +127,7 @@ Auld John Burns, [souter](#Souter), stands ready, wheat to the midriff, sighting
 ### The Gettysburg Sequence #4
 (The First Night... July 1, 1863)
 
-[Jennie Wren](#Jennie Wren) reckons ahead. Penelope's story meanders back to woman on earth: by way of The Wife of Bath, Jennie Wren, till Mollie Bloom. It's the way things sort. The fable comes out silly only cecause of the prisses who have laundered it. [_When 'Omer smote 'is bloomin' lyre_](#When 'Omer), and tacked his lays through the villages and by-ways of Attica, the locals sensed which cheeck his tongue lodged. And blind or not blind, we daresay he knew to wink too.
+[Jennie Wren](#Jennie Wren) reckons ahead. Penelope's story meanders back to woman on earth: by way of The Wife of Bath, Jennie Wren, till Mollie Bloom. It's the way things sort. The fable comes out silly only cecause of the prisses who have laundered it. [When 'Omer smote 'is bloomin' lyre](#When 'Omer), and tacked his lays through the villages and by-ways of Attica, the locals sensed which cheeck his tongue lodged. And blind or not blind, we daresay he knew to wink too.
 
 >Grey gun-butt warns that door; I'll chance him through.  
 >Then ream and drain his rifle ball and bore.  
@@ -146,6 +146,33 @@ Auld John Burns, [souter](#Souter), stands ready, wheat to the midriff, sighting
 
 ---------------------------------
 
+### The Gettysburg Sequence #5
+(The First Night... July 1, 1863)
+
+Mounted on a sorrel mare, Major [Henry Lee](#Light Horse) reins up along the bedstead in the Lutheran Seminary, Army Headquarters, where his son Robert tussles sleep. (Or do we deem, through an hindsight bestowed, that the Janus-faced prophets, Monk Mendel and Doctor Freud, are honoured once again?)
+
+J. E. B. Stuart's portentious nowhereaboutness has wrought its hobble - the black wool nightmares are woven with. Come daysight, the unfact, the Jeb Stuart fact, roiles Robert E. Lee as an _almost_ rational drain on his dwindled neural reserve.
+
+O, the splendid [Anne Carter Lee](#Anne Carter Lee)... a woman to the banner born!
+
+>Exemplar lad, we wit too well _whose_ loin  
+>Spasmed that wine-drenched dawn. His shun-hearth wit-  
+>Loose vagary slid stallion, doxie, coin.  
+>Addlest? Deportment face four kid, twa teat:  
+>One ewe to succor ye... whilst blunting ram.  
+>That you crag shadeing Launcelot matched men -  
+>Broad men that wait - I charge yourself, by damn,  
+>And me, false-minting sire, that blades you MAN.  
+>Let's sit with hourse. (I've pinked red-coats _that_ trade.)  
+>Forget the equine touch and sleep. Spry Jeb,  
+>This hour, creaks springs astraddle [Madelaide](#Madelaide)  
+>Nigh [Frizzleburg](#Frizzleburg). ('Nent _mounts_, 'twere tensile web  
+>_Their_ Buford wove to tip brim to past day.)  
+>Blood Carter runse your brain. Lord, lave Lee's stay.
+
+
+
+---------------------------------
 
 
 
@@ -167,7 +194,7 @@ The Wordstock swanks no condescension; Quill avowedly surmises, and _respects_, 
 
 <a name="Anabolism"></a>ANABOLISM (see [NEAP](#Neap)). Path. Gr. + Q/M. #2.
 
-<a name="Ann Carter Lee"></a>ANN CARTER LEE, Robert E. Lee's mother. Class! #5.
+<a name="Anne Carter Lee"></a>ANNE CARTER LEE, Robert E. Lee's mother. Class! #5.
 
 <a name="Apodosis"></a>APODOSIS, an indecisive issue... and a long, long way from home. Gr. + Q/M. #2.
 
