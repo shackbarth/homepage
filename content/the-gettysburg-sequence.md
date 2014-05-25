@@ -15,7 +15,7 @@ Mr. Hemingway has scrawled the hippocratic arithmetic sufficeing terse for Quill
 
 Women (chaste or riggish, what matter?), waiting remote the cauldron, made do, got by on wintersleep, and aged. Still: spank kitchen, groom [bairns](#Bairn) to school, swab baby's bum and promise. Who's to undertake pronunciamentos? Where quaysi Death puts up, calipres and stethescopes count nothing.
 
-Time near hand, Quill abode hardby Dublin and Edinburgh. At Solomonic fingering he assays matrices and castings treasure thereabout. The apposite styles graze, they don't bump. Dublin, nimble, Swiftian; Edinburgh, painstaking, Smithlike. Wharfing a sentient sea-farer, Yank at that, they grimaced, but jettisoned a few entries in the tired log. In keeping, the clans lent him sporadic ingress their pow-wows. If he sorted traits and tics; if he turned [bias](#Bias) along the potter-wheels weather, terrain, pinch or groaning board; if he reckoned incongruities back to tamper-mechanics of dispossession and out-breeding under the pounces and genitalia of successive usurpers, he was at least talking Celt turkey. And because he buttressed his surmise, often as not ever needing utterance, with a goodly smattering of either island's overt and/or clandestine scrapes along history -- surges and setbacks -- Mac's and O's came sluggish to trust him, within bounds... as it should be.
+Time near hand, Quill abode hardby Dublin and Edinburgh. At Solomonic fingering he assays matrices and castings treasure thereabout. The apposite styles graze, they don't bump. Dublin, nimble, Swiftian; Edinburgh, painstaking, Smithlike. Wharfing a sentient sea-farer, Yank at that, they grimaced, but jettisoned a few entries in the tired log. In keeping, the clans lent him sporadic ingress their pow-wows. If he sorted traits and tics; if he turned [bias](#Bias) along the potter-wheels weather, terrain, pinch or groaning board; if he reckoned incongruities back to tamper-mechanics of dispossession and out-breeding under the [pounces](#Pounces) and genitalia of successive usurpers, he was at least talking Celt turkey. And because he buttressed his surmise, often as not ever needing utterance, with a goodly smattering of either island's overt and/or clandestine scrapes along history -- surges and setbacks -- Mac's and O's came sluggish to trust him, within bounds... as it should be.
 
 All right, so much for west-east. East-west? Another yarn. Quill winced, at times, that so witted islanders as Celts proved out so lethargic, stony, when the mere matter pertained The United States of Purgatory, panaorama of Paradise, large scale chart of Gehanna. There's more than one irish bank vice-president who can put finger on G. Washington, taps grand excitement gawking General Custer, Sitting Bull rendezvous at the Telly, or imparts the arcane lore that Kennedys hearthed County Wexford whilst Fitzgeralds sprang The West. Midlothian solicitors abound who revere Alexander Graham Bell, envy Uncle Same manna because Dr. Albert Einstein turned up abandoned at his door-sill, confide their nation bestowed on General Eisenhower a castle with moat... and golf course. Abigail Adams? "Sorra, you'll need to explicate." (Jaysusgod, and She statured thrice the woman Mary Stuart dreamt upstairs or craved below.) To be sure, Quill, by bent, seldom haunted the academic, bohemian, or clerical ring-around-the-rosy cabals. He muscled his milieu on men-in-commerce, builder-architects, the Military, their wives and/or lemans that tagged along, drunks threatening give-and-take, publicans who slaked them. But still.
 
@@ -77,7 +77,7 @@ Lee speaks:
 
 "Now, no choice but maul the hour. This day? Well, common-sense has written Jackson off. But Stuart? Carlisle's an healthy canter, fetch yesterday. That can abide the [exemplars-to-come](#Exemplars) at West Point... or [Lexington](#Lexington).
 
-First the mete, Brevet Liuetenant Lee: erase Fredericksburg, Chancellorsville -- too lucky, too much Stonewall... and postures upended. (What's more, [Old Whiskers and Fightin' Joe](#Old Whiskers) patently liveried us those twin gory aliments.) Today's algebra? Meade + Sedgewick + stores - Jackson (Have I discounted Stonewall, in truth?), compounded to an escaped power by Stuart = Lee over x. Moot mathematic. And if the tangency disjoin with no [apodosis](#Apodosis)? Well then, Alexander's dread! For five mountain spines and four rivers to west and south, Mr. Lincoln stays his hand with one ace and two jacks showing, and something in the hole. Capt. Lee knows his hand: two kinds showing."
+First the mete, Brevet Liuetenant Lee: erase Fredericksburg, Chancellorsville -- too lucky, too much Stonewall... and [postures upended](#Postures Upended). (What's more, [Old Whiskers and Fightin' Joe](#Old Whiskers) patently liveried us those twin gory aliments.) Today's algebra? Meade + Sedgewick + stores - Jackson (Have I discounted Stonewall, in truth?), compounded to an escaped power by Stuart = Lee over x. Moot mathematic. And if the tangency disjoin with no [apodosis](#Apodosis)? Well then, Alexander's dread! For five mountain spines and four rivers to west and south, Mr. Lincoln stays his hand with one ace and two jacks showing, and something in the hole. Capt. Lee knows his hand: two kinds showing."
 
 Withal, a good man plumb purest to the Traveller, or Rover, that matches his master... body, heart, and brain.
 
@@ -109,7 +109,7 @@ Auld John Burns, [souter](#Souter), stands ready, wheat to the midriff, sighting
 
 >Och, three-score-ten o'rifled, tendin' me!  
 >I ken grey gooshin' doon yon green defile  
->I'll size the pownied [ghaistie](#Ghaistie), Lee, th' day  
+>I'll size the [pownied](#Pownied) [ghaistie](#Ghaistie), Lee, th' day  
 >An' fling thae Cavalier the' sco'ish style  
 >Fell Ulster clans romp rude, bu' doona frigh'  
 >[Ilk](#Ilka) Borders Sco'. Och forbears mine wi' Bruce  
@@ -283,7 +283,28 @@ The Wordstock swanks no condescension; Quill avowedly surmises, and _respects_, 
 
 <a name="Plumed Persia"></a>PLUMED PERSIA, No cheek, no obloquy Quill's part, Mr. Bruce Catton's, Mr. Douglas Southall Freeman's, Mr. Robert Penn Warren's, Mr. Clifford Dowdey's... Mr. Lincoln's!  
 Firstly: Willougby Run/Appomatox: Thermopylae/Salamis.  
-Secondly: The F. F. V.'s strutted The Calalier, as sure as John Brown harboured rabies. Quill wrenches a thimble-full of related passages from Mr. Robert Penn Warren's astute, terse Meditations, THE LEGACY OF THE CIVIL WAR. (By bloodlines and early surround, his proclivities must be southern.)
+Secondly: The F. F. V.'s strutted The Calalier, as sure as John Brown harboured rabies. Quill wrenches a thimble-full of related passages from Mr. Robert Penn Warren's astute, terse Meditations, THE LEGACY OF THE CIVIL WAR. (By bloodlines and early surround, his proclivities must be southern.) His first allusion is to the bent of the South's creative minority: "... the apologists offered a philosphy of marmoreal rigidity, proper to the rigidity of that society." And appositely:  
+"It did not matter that Theodore Weld, one of the most effective of the Abolitionists, withdrew from active propagandizing because, as he said to an admirer, he found the "he himself needed reforming," and that he "had been laboring to destroy evil in the same spirit as his antagonists." Nor did it matter that Julia Ward Howe, the author-to-be of "The Battle Hymn of the Republic," could write in 1858, after a trip to South Carlona: "Moral justice dissents from the habitual sneer, denunciation, and malediction, which have become consecrated forms of piety in speaking of the South." Nor did it matter that Lincoln could take a reasonable tone about John Brown's raid on Harper's Ferry: "Old John Brown has been executed for treason against a State. We cannot object, even though he agreed with us in thinking slavery wrong. That cannot excuse violence, bloodshed, and treason. It could avail him nothing that he might think himself right."  
+"Despite Theodore Weld and Julia Ward Howe and Abraham Lincoln, love of liberty and lust for blood continued to conspire much self scrutiny or meditation on the social effects of inspired rhetoric."  
+"... And a little later it offered space, too, for the folly of Gevernor Wise and his fellow Virginians, who instead of committing John Brown to an asylum, where all the medical ecidence, even then available to the court, clearly indicated that he should be, hanged him and thereby proved again what is never in much need of proof, that a crazy man is a large-scale menace only in a crazy society." Can the man howling in the mob imagine General R. E. Lee, CSA, shaking hands with Orval Faubus, Governor of Arkansas?"  
+__Relativity_ is indeed an eerie matter, Dr. Einstein.  
+__Note_: Credit due, credit given. The F. F. V. aside notwithstanding, Pettigrews splendid Brigade was built of The 11th North Carolina, The 26th North Carolina, the 47th North Carolina, The 52nd North Carolina. Append.
+
+<a name="Postures Upended"></a>POSTURES UPENDED, For once, at long last, Lee _must_ attack; Meade may defend: a virginal contingency. #2.
+
+<a name="Pounces"></a>POUNCES, (sb.) claws, talons. Arch-Eng. Proem.
+
+<a name="Pownied"></a>POWNIED, on horseback. Sc. #3.
+
+<a name=""></a>
+
+<a name=""></a>
+
+<a name=""></a>
+
+<a name=""></a>
+
+<a name=""></a>
 
 <a name=""></a>
 
