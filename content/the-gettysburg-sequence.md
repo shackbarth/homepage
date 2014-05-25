@@ -229,6 +229,23 @@ In this sonnet, [quasi ex mortuo](#Quasi Ex Mortuo), he shares with her what bot
 ### The Gettysburg Sequence #8
 (The Second Night... July 2, 1863)
 
+Father Corby, Chaplain to the 88th New York Infantry of The Irish Brigade, assesses doings and undoings during the day gone by. Does he echo an apostasy... perhaps Jesus' groan: "Father, Father, why has Thou forsaken me?"
+
+>Mercichill God! Mayos and Clares shrove _thee_  
+>At noon. You're safe. [Fitting and fair](#Fitting And Fair)?  't's on them.  
+>Not quite, thou'st yet to squelch accounts with me.
+>Thy bhoy that sported [spiky diadem](#Spikey Diadem),  
+>Died at my thumb. _This time_ his name was [Liam](#Liam).  
+>What I'd fain know: Whose Pilate's alias?  
+>[Parse all she keen](#Parse All She Keen), his widowed dear: erst whim  
+>O' bygone bed, now bellied motherness.  
+>[Hic est enim callix](#Hic Est Enim Callix)? Piffle, it leaks  
+>Roan smudge - morn past, cream Country Kerry lymph.  
+>Blessed Lord God of Israel, That tweaks  
+>Twin earth-strewn tribes, and coddles [pimp](#Pimp)  
+>That no time took Thy name to heart, my harps,  
+>Who now bask blue, tuned Lee's Grey how sound sharps.
+
 
 
 
@@ -249,7 +266,7 @@ The Wordstock swanks no condescension; Quill avowedly surmises, and _respects_, 
 
 <a name="Albanies and Troys"></a>ALBANIES AND TROYS, such Union soldiery as mustered from those two towns and were engaged at Gettysburg. Albany and Troy lie hardby adjacent Massachusets. #9.
 
-<a name="Also"></a>ALSO, along those lines, in like manner, this way, (pronounce _ahlzo). Germ. #7.
+<a name="Also"></a>ALSO, along those lines, in like manner, this way, (pronounce _ahlzo_). Germ. #7.
 
 <a name="Amah"></a>AMAH, wet nurse, nanny, etc. Hind. #7.
 
@@ -289,7 +306,7 @@ The Wordstock swanks no condescension; Quill avowedly surmises, and _respects_, 
 
 <a name="Fiends"></a><a name="Sheridan"></a>FIENDS, "Red and Little Phil," that is Gen'ls William T. Sherman and Philip H. Sheridan. #1.
 
-<a name="Fitting and Fair"></a>FITTING AND FAIR, Vere dignum, justum, aequum, et salutare est. (Roman liturgy). Lat. #8.
+<a name="Fitting And Fair"></a>FITTING AND FAIR, Vere dignum, justum, aequum, et salutare est. (Roman liturgy). Lat. #8.
 
 <a name="Flux"></a>FLUX, the "g. i.'s" or diarrhoea. Eng. #2.
 
@@ -413,7 +430,7 @@ __Note_: Credit due, credit given. The F. F. V. aside notwithstanding, Pettigrew
 
 <a name="Pownied"></a>POWNIED, on horseback. Sc. #3.
 
-<a name="Quasi Ex Mortuo"></a>QUASI EX MORTUO, as from a dead man. Lat. #8.
+<a name="Quasi Ex Mortuo"></a>QUASI EX MORTUO, as from a dead man. Lat. #7.
 
 <a name="Quick"></a>QUICK, vb. quicken, as in "the quick and the dead." #12.
 
