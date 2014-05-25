@@ -49,12 +49,12 @@ Epilogue
 
 Mr. Lincoln catnaps to the anodynous clacking of his [Reading](#Reading) coach, closeing on Gettysburg. He tallies random inward and outward accounts. Does the President graze you a mite sorry for Abe? Well, does not the Son of Man for Jesus, urgeing a gibbet to its ordained rearing?
 
->Pa whimped. Ma whored to whelp Abe hedgerow snatch?  
->Mary hugs light to shadow black Xantipp',  
+>Pa [whimped](#Whimped). Ma whored to whelp Abe hedgerow snatch?  
+>Mary hugs light to shadow black [Xantipp'](#Xantipp'),  
 >The moot-to-matter boys -- his kitchen catch.  
 >Least, [dirksome](#Dirksome) friends! He bodes Knight _Lee_ dark trip.  
 >(_He's_ sound: one county's brim each man will stand).  
->Not mine, because he loved Westmoreland more  
+>Not mine, because he loved [Westmoreland](#Westmoreland) more  
 >Than [Lincoln's shire](#Lincoln's Shire). Chill God, he's seared a brand  
 >Aswash all History that's hapt... foul sore,  
 >Ubiquitous as syphilis. To post?  
@@ -92,7 +92,7 @@ Withal, a good man plumb purest to the Traveller, or [Rover](#Rover), that match
 >His other self, to mount your splendid side.  
 >Since Stonewall fell, y've not once stumbled gait --  
 >My trove, trade Jackson's loss. Rain friend, my pride  
->That our Westmoreland foal the steady trait.  
+>That our [Westmoreland](#Westmoreland) foal the steady trait.  
 >I mull Hill, Longstreet, Ewel... puzzles three;  
 >I grope: they're mine to fumble with as key.  
 
@@ -111,7 +111,7 @@ Auld John Burns, [souter](#Souter), stands ready, wheat to the midriff, sighting
 >I ken grey gooshin' doon yon green defile  
 >I'll size the [pownied](#Pownied) [ghaistie](#Ghaistie), Lee, [th' day](#Th' Day)  
 >An' fling thae Cavalier the' sco'ish style  
->Fell Ulster clans romp rude, bu' doona frigh'  
+>Fell [Ulster clans](#Ulster Clans) romp rude, bu' doona frigh'  
 >[Ilk](#Ilka) Borders Sco'. Och forbears mine wi' Bruce  
 >An' Wallace bled. Di' pauky Caesar try  
 >T' [hough](#Hough) our [hames an' haughs](#Hames and Haughs)? Na he! The truce  
@@ -360,15 +360,27 @@ __Note_: Credit due, credit given. The F. F. V. aside notwithstanding, Pettigrew
 
 <a name="Three Hooves Terra Firma"></a>THREE HOOVES TERRA FIRMA, Throughout the battleground statuary, one sorts the generals who were killed there from those who weren't very readily. Reynold's mount is cast in the stance delined, _three hooves terra firma, one cocked for the paw_; Lee's Traveller was _four hooves planted_. Append.
 
-<a name=""></a>
+<a name="Topheth"></a>TOPHETH, Gehanna, Hell. Heb. #11.
 
-<a name=""></a>
+<a name="Twa"></a>TWA, two. (Spelling _twa_ is resorted to where context is pleasing or tender, even though tristful; the eng. _two_, an harsher pitched tone, is reserved for rude practicalities. Sc. #s 10, 11, et al.
 
-<a name=""></a>
+<a name="Twin Earth Strewn Tribes"></a>TWIN EARTH STREWN TRIBES, 11 + 1 = 12, anyway.
 
-<a name=""></a>
+<a name="Ulster Clans"></a>ULSTER CLANS, white trash (transatlantic var.). #3.
 
-<a name=""></a>
+<a name="Vicksburg"></a>VICKSBURG, Miss. (Fell to Gen'l Ulysses S. Grant July 3, 1863.) #13.
 
-<a name=""></a>
+<a name="Wee-Wise Slot's"></a>WEE-WISE SLOT'S, the penial orifice. #11.
+
+<a name="Westmoreland"></a>WESTMORELAND, Co. Va. #1, #2.
+
+<a name="When 'Omer Smote 'Is Bloomin' Lyre"></a>WHEN 'OMER SMOTE 'IS BLOOMIN' LYRE, T/Y/R/K. #4.
+
+<a name="Whimped"></a>WHIMPED, combined form, whined = pimped. Q/M. #1.
+
+<a name="Willoughby Run"></a>WILLOUGHBY RUN, Adams Co. Pa.'s entry in The Sweet Afton Stakes. Appen.
+
+<a name="Wordstock"></a>WORDSTOCK, Glossary.
+
+<a name="Xantipp'"></a>XANTIPP', harridan unto Socrates. (poetic mischief, correct spelling and pronunciation: Xantippe. #1.
 
