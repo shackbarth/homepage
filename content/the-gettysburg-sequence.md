@@ -151,7 +151,7 @@ Auld John Burns, [souter](#Souter), stands ready, wheat to the midriff, sighting
 
 Mounted on a sorrel mare, Major [Henry Lee](#Light Horse) reins up along the bedstead in the Lutheran Seminary, Army Headquarters, where his son Robert tussles sleep. (Or do we deem, through an hindsight bestowed, that the Janus-faced prophets, Monk Mendel and Doctor Freud, are honoured once again?)
 
-J. E. B. Stuart's portentious nowhereaboutness has wrought its hobble - the black wool nightmares are woven with. Come daysight, the unfact, the Jeb Stuart fact, roiles Robert E. Lee as an _almost_ rational drain on his dwindled neural reserve.
+J. E. B. Stuart's portentious nowhereaboutness has wrought its hobble - the black wool nightmares are woven with. Come daysight, the unfact, the Jeb Stuart fact, roils Robert E. Lee as an _almost_ rational drain on his dwindled neural reserve.
 
 O, the splendid [Anne Carter Lee](#Anne Carter Lee)... a woman to the banner born!
 
@@ -168,7 +168,31 @@ O, the splendid [Anne Carter Lee](#Anne Carter Lee)... a woman to the banner bor
 >This hour, creaks springs astraddle [Madelaide](#Madelaide)  
 >Nigh [Frizzleburg](#Frizzleburg). ('Nent _mounts_, 'twere tensile web  
 >_Their_ Buford wove to tip brim to past day.)  
->Blood Carter runse your brain. Lord, lave Lee's stay.
+>Blood Carter rinse your brain. Lord, lave Lee's stay.
+
+---------------------------------
+
+### The Gettysburg Sequence #6
+(The Second Day... July 2, 1863)
+
+George Gordon Meade strives to be honest with himself and, in his way, toward James Longstreet. He gets up. Dressed to the waist, the General lumbers forth his croft to surprise the sun signalling farside [Red Lion](#Red Lion). This natural spectacle uneases him. He has a _lease_ on the high ground all right, but as celestial prodigies rise, so men have been known to. The man downs his draught of dawn. He repairs to Headquarters, gets gearing behind him, and knuckles down to work. His plotting and placements will resolve in no blameworthy miscalculation. It would take through tomorrow, _owning_ the high ground.
+
+>All right now, Longstreet, lob your dicey hatch.  
+>Bollox, trust Meade to botch:-we're merely men,  
+>Hence man galore will stand, drop, die to match  
+>Our fallibility at noon. Well then?  
+>Assault! Mind now, George Meade attends your [best](#Best and Blest);  
+>Gone Sundown One, you've skies to squander troops.  
+>We falcon high; climb glaze the glint. Lee's [blest](#Best and Blest)  
+>May not be up to it so soon. Abe's groups,  
+>As his, span downy jowl till patriarch;  
+>Twixt them, those pent coitus pends or oils  
+>The handy firelock. Approach, absorb its dark  
+>Delerium as Eve where Adam soils.  
+>The hunter's hunted this 'capade. I'm glad  
+>Grey Stonewall's down. Mine's up. Still that thralls sad.
+
+
 
 
 
@@ -433,3 +457,11 @@ __Note_: Credit due, credit given. The F. F. V. aside notwithstanding, Pettigrew
 
 <a name="Xantipp'"></a>XANTIPP', harridan unto Socrates. (poetic mischief, correct spelling and pronunciation: Xantippe.) #1.
 
+
+
+
+
+
+Notes/TODO:
+
+Two alternate versions of #6
