@@ -1,6 +1,6 @@
 # The Gettysburg Sequence
 
-_This previously unpublished work was written by American poet Carl Franck, alias Mike Quill, in 1972._
+_This previously unpublished work was written by American poet Carl Franck, alias Mike Quill, from 1971-1972._
 
 ### Proem
 (July 1 - 2 - 3, 1863)
@@ -87,7 +87,7 @@ Withal, a good man plumb purest to the Traveller, or [Rover](#Rover), that match
 >Much quake... less foray 'field. An I claw drink  
 >Swish Grant to west (God wits Lee patent can't.)  
 >I'd [sough](#Sough) things out the stretch. Or had I had  
->[Light Horse](#Light Horse) spell gadding Jeb, _his_ stores could scant.  
+>Light Horse spell gadding Jeb, [his](#Light Horse) stores could scant.  
 >How deem y' Traveller? Lee's wrought, he's glad,  
 >His other self, to mount your splendid side.  
 >Since Stonewall fell, y've not once stumbled gait --  
@@ -95,10 +95,6 @@ Withal, a good man plumb purest to the Traveller, or [Rover](#Rover), that match
 >That our [Westmoreland](#Westmoreland) foal the steady trait.  
 >I mull Hill, Longstreet, Ewel... puzzles three;  
 >I grope: they're mine to fumble with as key.  
-
-
-_Margin notes:_  
-_his (line 7): Harry, his father_
 
 ---------------------------------
 
@@ -127,7 +123,7 @@ Auld John Burns, [souter](#Souter), stands ready, wheat to the midriff, sighting
 ### The Gettysburg Sequence #4
 (The First Night... July 1, 1863)
 
-[Jennie Wren](#Jennie Wren) reckons ahead. Penelope's story meanders back to woman on earth: by way of The Wife of Bath, Jennie Wren, till Mollie Bloom. It's the way things sort. The fable comes out silly only cecause of the prisses who have laundered it. [When 'Omer smote 'is bloomin' lyre](#When 'Omer), and tacked his lays through the villages and by-ways of Attica, the locals sensed which cheeck his tongue lodged. And blind or not blind, we daresay he knew to wink too.
+[Jennie Wren](#Jennie Wren) reckons ahead. Penelope's story meanders back to woman on earth: by way of The Wife of Bath, Jennie Wren, till Mollie Bloom. It's the way things sort. The fable comes out silly only cecause of the prisses who have laundered it. [When 'Omer smote 'is bloomin' lyre](#When 'Omer), and tacked his lays through the villages and by-ways of Attica, the locals sensed which cheek his tongue lodged. And blind or not blind, we daresay he knew to wink too.
 
 >Grey gun-butt warns that door; I'll chance him through.  
 >Then ream and drain his rifle ball and bore.  
@@ -239,13 +235,36 @@ Father Corby, Chaplain to the 88th New York Infantry of The Irish Brigade, asses
 >What I'd fain know: Whose Pilate's alias?  
 >[Parse all she keen](#Parse All She Keen), his widowed dear: erst whim  
 >O' bygone bed, now bellied motherness.  
->[Hic est enim callix](#Hic Est Enim Callix)? Piffle, it leaks  
+>[Hic est enim calix](#Hic Est Enim Calix)? Piffle, it leaks  
 >Roan smudge - morn past, cream Country Kerry lymph.  
 >Blessed Lord God of Israel, That tweaks  
 >Twin earth-strewn tribes, and coddles [pimp](#Pimp)  
 >That no time took Thy name to heart, my harps,  
 >Who now bask blue, tuned Lee's Grey how sound sharps.
 
+---------------------------------
+
+### The Gettysburg Sequence #9
+(The Second Night... July 2, 1863)
+
+Major General John Sedgewick, Cornwall Hollow (later of Hartford), Connecticut, alone in his tent, lapses a moment into boyhood nostalgia. But then a tide of sluggish yankee anger wells within and submerges the extraniety. He chafes at being in reserve with his VI. Corps for the day ahead. A valid reason for the posture General Meade assigned had been the [thirty-two mile forced march](#Thirty-Two Mile Forced March) the Corps underwent to get there at all.
+
+Meade's caution, after standing Lee off, forestalled The Rout. John Sedgewick had to wait upon May 9, 1864 for an appointment that consigned him to the happy fishing stream. The lucky transport agent was a Virginia sharpshooter named John Fell, Quill surmises, at Spotsylvania in The Wilderness. Mr. Bruce Catton deems John Sedgewick "The best loved General Officer in the Union Army."
+
+>We fished you clean, lax [Housatonic](#Housatonic) shoals,  
+>Trout-truant kids from dawn till moon snuffed dusk,  
+>Then barefoot, soldiered home our casting poles.  
+>Meade furrows me, alone 't other bosk.  
+>I reck, as brave he be, beads own his brow;  
+>He copes with larger Lee, come day. Stay Meade,  
+>Lord God of Hosts... he'll want your staff this row.  
+>And grace he hold, bid him spring mine to mete  
+>West stumbling motley meed. My composed boys -  
+>Seed Brattleboro, Braintree, Bath - coil primed  
+>To spile the dry. [Last](#Last), [Albanies and Troys](#Albanies And Troys)!  
+>Then should Meade fancy flesh, men mine flex timed  
+>To butcher, quarter, carve Lee's herding south.  
+>Terse troops, John's pride... eloquent for seldom mouth.  
 
 
 
@@ -490,7 +509,7 @@ __Note_: Credit due, credit given. The F. F. V. aside notwithstanding, Pettigrew
 
 <a name="Th' Day"></a>TH' DAY, today. Sc. #3.
 
-<a name="Thirty-Two Mile Forced March"></a>THIRTY-TWO MILE FORCED MARCH, On July 1, 1863 The VI Corps was bivouacked at Machester, Md. precisely half-way between Washington and Gettysburg. Motherwit insists that the fateful commitment was, _au fond_, Mr. Lincoln's rather than Gen'l Halleck's or even Gen'l Meade's:--"Gettysburg! That's where the boil's for lanceing; the divil's welcome to Washington, a bilgy ooze of pencil-polishers and politicians." #6.
+<a name="Thirty-Two Mile Forced March"></a>THIRTY-TWO MILE FORCED MARCH, On July 1, 1863 The VI Corps was bivouacked at Machester, Md. precisely half-way between Washington and Gettysburg. Motherwit insists that the fateful commitment was, _au fond_, Mr. Lincoln's rather than Gen'l Halleck's or even Gen'l Meade's:--"Gettysburg! That's where the boil's for lanceing; the divil's welcome to Washington, a bilgy ooze of pencil-polishers and politicians." #9.
 
 <a name="Three Hooves Terra Firma"></a>THREE HOOVES TERRA FIRMA, Throughout the battleground statuary, one sorts the generals who were killed there from those who weren't very readily. Reynold's mount is cast in the stance delined, _three hooves terra firma, one cocked for the paw_; Lee's Traveller was _four hooves planted_. Append.
 
