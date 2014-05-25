@@ -292,7 +292,7 @@ The Wordstock swanks no condescension; Quill avowedly surmises, and _respects_, 
 
 <a name="Lo"></a><a name="Lothario"></a>LO, LOTHARIO, Lewis A. Armistead mustered an indefatigable womanizer, So, his circle of officer friends, and soon the enlisted men under his command honoured this _second_ prowess in addressing him thus. T/Y/W/S. #10.
 
-<a name="Madalaide"></a>MADALAIDE, comb. form: Marmalade+Adelaide+Madeline. (Belongs on Mr. Mencken's roster of skiamachies south of Lat. 38 degrees.) T/Y/H/L/M. Q/M. #5.
+<a name="Madelaide"></a>MADELAIDE, comb. form: Marmalade+Adelaide+Madeline. (Belongs on Mr. Mencken's roster of skiamachies south of Lat. 38 degrees.) T/Y/H/L/M. Q/M. #5.
 
 <a name="Mahanian"></a>MAHANIAN, Capt. Alfred _Thayer_ Mahan, born _West Point_, N. Y. graduated Ensign, U. S. N Annapolis Md. A third Janus-faced Prophet? (see #5, prose). Capt. Mahan carved a slice of The Bible as sure as Moses on Horeb: "The Influence Of Seapower Upon History." Append.
 
