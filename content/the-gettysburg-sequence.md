@@ -23,7 +23,7 @@ Stateside? Same poor show, less amnesty Quill's stricture. The germane verb spel
 
 Just so. Rancour prompted the fourteen poems; humbleness before sustained them, such as they be. (Small fibbings? Well, a Kerryman will squander ninety-nine lies to get one fact across.) What burthen they lug? Patently into middle age, he would now decrypt the lode into Quillese, then chance the effluvia at the alter of Merciless Mother English. As he's stared and mulled downside The Angle hardby the clump of trees, between the Codori cote abnd barn, across the Emmitsburg road, past The Swale, into Spangler's Wood he partly pieces together, like a [dhobi](#Dhobi) gathering remnants of a shattered crock and hopelessly findering them, how he, you, and the yearling nation died... and under whose auspices:
 
-- [Abraham Lincoln](#The-Gettysburg-Sequence-1)
+- [Abraham Lincoln](#the-gettysburg-sequence-1)
 -  Robert E. Lee
 -  Traveller
 -  John Burns
