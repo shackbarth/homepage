@@ -25,16 +25,16 @@ Just so. Rancour prompted the fourteen poems; humbleness before sustained them, 
 
 - [Abraham Lincoln](#the-gettysburg-sequence-1)
 - [Robert E. Lee](#the-gettysburg-sequence-2)
-- [Traveller](#the-gettysburg-sequence-3)
-- [John Burns](#the-gettysburg-sequence-4)
-- [Jennie Wren](#the-gettysburg-sequence-5)
-- [Henry Lee](#the-gettysburg-sequence-6)
-- [George Meade](#the-gettysburg-sequence-7)
-- [Arno Kiesewetter](#the-gettysburg-sequence-8)
-- [Father Corby](#the-gettysburg-sequence-9)
-- [John Sedgewick](#the-gettysburg-sequence-10)
-- [Lewis Armistead](#the-gettysburg-sequence-11)
-- [Ian Farquharson](#the-gettysburg-sequence-12)
+- Traveller
+- [John Burns](#the-gettysburg-sequence-3)
+- [Jennie Wren](#the-gettysburg-sequence-4)
+- [Henry Lee](#the-gettysburg-sequence-5)
+- [George Meade](#the-gettysburg-sequence-6)
+- [Arno Kiesewetter](#the-gettysburg-sequence-7)
+- [Father Corby](#the-gettysburg-sequence-8)
+- [John Sedgewick](#the-gettysburg-sequence-9)
+- [Lewis Armistead](#the-gettysburg-sequence-10)
+- [Ian Farquharson](#the-gettysburg-sequence-11)
 - [Ulysses S. Grant](#the-gettysburg-sequence-13)
 - [Sarah Carter](#the-gettysburg-sequence-14)
 
@@ -294,7 +294,7 @@ Lewis A. Armistead drafts The Order of the Day to Pickett's prized brigade... in
 ### The Gettysburg Sequence #11
 (The Third Day... July 3, 1863)
 
-Three envoys to Tophet(#Tophet) emerge the south-east corner Spangler's Wood where it yields to The Swale and the oblique snake fence fronting the Spangler cote. The time stands 16:05 hours. The men need no compass to hold the ENE course the three Brigades have ordained; carnage underfoot delimes the azimuth thrifty enough. And so, this unholy trinity urges on, armed down to the eyelashes.
+Three envoys to [Tophet](#Tophet) emerge the south-east corner Spangler's Wood where it yields to The Swale and the oblique snake fence fronting the Spangler cote. The time stands 16:05 hours. The men need no compass to hold the ENE course the three Brigades have ordained; carnage underfoot delimes the azimuth thrifty enough. And so, this unholy trinity urges on, armed down to the eyelashes.
 
 Lt. Colonel Ian Farquharson, a guest from far away, trifles with his swagger-stick and waists a sheathed Sikh battle-sabre, for reasons of his own. Surgeon Major Solomon Mendoza shoulders a strapsack, stenciled 26th Michigan: vintage Chancellorsville, no doubt. The receptacle ensconces, brim to the flap, 64 syringes primed with an opiate.
 
