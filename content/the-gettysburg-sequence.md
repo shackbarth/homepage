@@ -24,19 +24,19 @@ Stateside? Same poor show, less amnesty Quill's stricture. The germane verb spel
 Just so. Rancour prompted the fourteen poems; humbleness before sustained them, such as they be. (Small fibbings? Well, a Kerryman will squander ninety-nine lies to get one fact across.) What burthen they lug? Patently into middle age, he would now decrypt the lode into Quillese, then chance the effluvia at the alter of Merciless Mother English. As he's stared and mulled downside The Angle hardby the clump of trees, between the Codori cote abnd barn, across the Emmitsburg road, past The Swale, into Spangler's Wood he partly pieces together, like a [dhobi](#Dhobi) gathering remnants of a shattered crock and hopelessly findering them, how he, you, and the yearling nation died... and under whose auspices:
 
 - [Abraham Lincoln](#the-gettysburg-sequence-1)
--  Robert E. Lee
--  Traveller
--  John Burns
--  Jennie Wren 
--  Henry Lee 
--  George Meade 
--  Arno Kiesewetter 
--  Father Corby 
--  John Sedgewick 
--  Lewis Armistead 
--  Ian Farquharson 
--  [Ulysses S. Grant](#) 
--  Sarah Carter 
+- [Robert E. Lee](#the-gettysburg-sequence-2)
+- [Traveller](#the-gettysburg-sequence-3)
+- [John Burns](#the-gettysburg-sequence-4)
+- [Jennie Wren](#the-gettysburg-sequence-5)
+- [Henry Lee](#the-gettysburg-sequence-6)
+- [George Meade](#the-gettysburg-sequence-7)
+- [Arno Kiesewetter](#the-gettysburg-sequence-8)
+- [Father Corby](#the-gettysburg-sequence-9)
+- [John Sedgewick](#the-gettysburg-sequence-10)
+- [Lewis Armistead](#the-gettysburg-sequence-11)
+- [Ian Farquharson](#the-gettysburg-sequence-12)
+- [Ulysses S. Grant](#the-gettysburg-sequence-13)
+- [Sarah Carter](#the-gettysburg-sequence-14)
 
 Tattoo... Taps. Eyes dry, sweep down Glory's roster again for Domesday's sake. Go ahead, murmur: "But Glory shew on and on -- Wake Island, Bastogne, Tarawa, Huertgen Forest." Other times, other Glories: Glories of stock, Glories in season. Glory of the maples, October's afternoon; Glorious the seared beech, defying December to undress first. Twin Glories: Gettysburg, Guadalcanal... The Glory of life passing into death, the Glory of death passing for life.
 
