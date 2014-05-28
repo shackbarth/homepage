@@ -288,6 +288,65 @@ Lewis A. Armistead drafts The Order of the Day to Pickett's prized brigade... in
 >Rub bayonets to blaze Vermonters blind,  
 >Then surge, grudge still, to unmaze fate with kind.
 
+---------------------------------
+
+### The Gettysburg Sequence #11
+(The Third Day... July 3, 1863)
+
+Three envoys to Tophet(#Tophet) emerge the south-east corner Spangler's Wood where it yields to The Swale and the oblique snake fence fronting the Spangler cote. The time stands 16:05 hours. The men need no compass to hold the ENE course the three Brigades have ordained; carnage underfoot delimes the azimuth thrifty enough. And so, this unholy trinity urges on, armed down to the eyelashes.
+
+Lt. Colonel Ian Farquharson, a guest from far away, trifles with his swagger-stick and waists a sheathed Sikh battle-sabre, for reasons of his own. Surgeon Major Solomon Mendoza shoulders a strapsack, stenciled 26th Michigan: vintage Chancellorsville, no doubt. The receptacle ensconces, brim to the flap, 64 syringes primed with an opiate.
+
+Farquharson, Ian. _aetatis XLVIII_, 5'8", 11 [stone](#Stone) - 8 lb., greying black hair, anthracite eyes. (The last facet belies celtic aboriginality _or_ an iberian dalliance.) He was born at Dunbeath in Caithness. A northman of sorts. His mother came with the maiden name Martha Bethune. When detached for Duty as Observer with The Army of Northern Virginia, he commanded the 2nd Battalian, Black Watch Regiment, provisionally garrisoned at Gibraltar. His calling, and proficiency thereto, scheme all of a piece. In early pubescence, he had swum from Dunnet Head to Duncansby Head on Pentland Firth. The exploit took 6 1/2 days. His older brother and two elder sisters, [Meikle Jamie](#Meikle Jamie), Ruth, Judith striked a [currach](#Currach) beside him to the windward, hulling the needed alimentation and equipage: flint, peat, capes for sleeping, tea, mutton, meal, blouse, philibeg, [skene-dubh](#Skene-Dubh), [sporran](#Sporran). To beach or moor, and then in turn launch, the wee skiff twice each day imposed a seamanship on them more stringent than a natant landfall on Ian himself. More than once, having swum ashore with a tow-line, he snugged it in for them to debark and discharge the cargo. A forbidding landlip, compounded by the tidal deviltry throughout the firth, exacts from the mariner knowing, muscle, and ingenuity. Affording themselves some leeway in respect to tide, floor, and terrain, they came ashore toward mid-day to take food and repose. Then the argosy set out again eastward till the late evening dusk. (Pentland Firth lies at Latitude 50 degrees - 40 minutes). Now fetch land again for a light repast and a deep, though foreshortened, sleep.
+
+Young Farquharson apprenticed at Sandhurst. He had, with time and fact-faceing, much to unlearn of its lore and canon. Remedials abounded at The Punjab and, to lesser measure, in Crimea. The SQUARE wasn't the best contour every time. And _The Thin Red Line_... OCH, and the regimental nightmare - before his day at [New Orleans](#New Orleans). For tactical purposes, he deemed to have fairly well mastered his craft with attendance at Chillianwala, Gujrat, Lahore, and Malakhov. Outside Gujrat, a dismounted Sikh ripped and shattered him, sinew and bone, femur to knee joint. Before he fainted, Capt. Farquharson took time to upend the Sergeant by his beard and turban, and, on the ground, throttled him into [Nirvana](#Nirvana). Spoils too: the sword. Chancellorsville though, shew him an heretofore virginal chapter in his wee, tartan clad manual dealing with agonism-for-keeps.
+
+Mendoza, Solomon: _aetatis XXXVII_, 5'5", 9 stone(#Stone) - 6 lb., flaxen hair, sky-blue eyes. Solomon issued the one-time [Ruth Benjamin](#Ruth Benjamin) at Charleston, South Carolina. He left The Citadel a Bachelor or Arts and a Brevet Lieutenant, Inf. in the State Militia. Two years later he entered The Royal College of Medicine in Trinity, Dublin. Young Mr. Mendoza came out second-in-honours to Merdecai da Sylva of Perth-on-Tay. It was not nepotism that carpeted his trail to the verge of the Emmitsburg Road, July 3, 1863. The Lieutenant had enlisted April 14, 1861. He was stationed Executive Officer, F. Company, 6th South Carolina Regiment. Major Desmond Butler French, G-1 on Gen'l. P. T. G. Beauregard's staff, diddling about routine paperwork, caught the name Mendoza on an amended roster crossing his leisurely work table. It was a quirky wrench of happenchance, as matters sorted. Now, punctilious about his Roman Confession and obeisant his native Gaelic ardour, Des had seeded his bride of seven years four times. Each [gift o' God](#Gift O' God) yawled for the Ceasarian section. The hapless woman entered the nupitals as Breda DeVenney, born Dec. 22, 1832, Merrion Square, Dublin. Still, Bridie and the four lassies beat the book they made it every time. Or was it Dr. Mendoza that had rigged the race? Anyway, within hours the infantry-doctor was breveted Captain S. Mendoza, Medical Detachment, 1st South Carolina Privisional Brigade. No, nepotism never entered the picture. He'd landed his job before [his uncle](#His Uncle) had unctioned his own.
+
+Redmond, Regis Sarsfield: _aetatis XIX_, 5'-6 1/2", 10 [stone](#Stone) - 3 lb., knotty red hair, granite blue eyes. The rogue pupped forth an erstwhile Ruth Schimmelpenninck from York, Pennsylvania. His biological father, Colman Wolfe-Tone Redmond (fiery hair, steel blue eyes) underwnet, with his mount, faggoting this side of hell at The 1st Mannassas. The boys closeness to humankind, since weaning at least, was limited to the precocious and prolonged carnal knowledge of Mrs. Redmond's _bonne de toilette_, a [Masai](#Masai) called Ruthene. She was good. So Regis too had something to fight and live for.
+
+The Doctor, disconcerted by the trickle of walking wounded into his oaken field station, wanted fact first-hand. He [tared](#Tared) palaver, because he know men as well as women - soldiers in particular. Those meadows couldn't lie. He sets out.
+
+The Colonel appoints himself along for the reconnaisance without firepower.
+
+Corporal Redmond is indentured.
+
+It becomes silly to fetch the whole distance to the Codori farm. The morphine, water, and spirits run out a third the way to the Emmitsburg Road. S. Mendoza and R. Redmond, minceing somewhat to skirt the dead and dying retrace purposefully toward the shaded surgery.
+
+Col. Farquharson chooses to linger a while. Something is looking for _him_. By now, [Gehanna's](#Gehanna) vortex men bellow some 1300 yards ENE up the slope at the sill of the last stone wall hard by the copse, in the very maw of Hancock's fire-trap. He turns his back on Hell and idles an easy arc to their point of egress an half hour ago. He bends slightly from the waist, pokeing here and there with the benign, foreshortened [lathee](#Lathee). Then it - _They_ were more precise - finds him. Farquharson goes to one knee, plucks them ever so gently, pand palms into his left hand, Yorickwise, two [orbs](#Orbs). Not musket hard they be. Rather, scrotum pliant and damp. _Their_ Johnny sprawls everywhere about, in motionless ubiquity.
+
+Ian Farquharson has pronounced the marly benison, and now strides with more resolution to rejoin the liveing. _They_ be Solomon Mendoza... this friend, his peer. At just this interval, Major Helmuth von Hebestein of the Royal Prussian Guards, observing with Hancock's II Corps, catches him through field glasses once again, at about 2000 yards through a small clearing on Cemetery Ridge, just to the east of the [Green Mountain Nine-Monthers](#Green Mountain Nine-Monthers) flanking and shredding horribly Armistead's and Kemper's remnants swarming inside Cushing's battery. The Major adumbrates to his colleague, Captain Jeremiah Johnson of Her Majesty's Coldstream Guards, thus: "All the soldiers, north and south, revere him as a talisman. The child that abides in every man, and would seem moribund till Domesday in mercers, magistrates, and monsignori, bubbles out when men are playing Way. One day, a cretin may draw a bead on him; no fighting man would."
+
+On this moment, one does... in grey garb. Chancellorsville has cast its longest shadow. Major Solomon Mendoza, about his work again, keens instanter the senseless thing that has befallen his friend, Ian Farquharson. He despatches Corporal Redmond with an helper to take the action called for. Stretchers aplenty litter the Swale.
+
+Today, the bones dust near Dunbeath in Caithness. Solomon Mendoza has seen to it. These words are enscribed:
+
+```
+Colonel Ian Farquharson, V. C.
+(The Black Watch Regiment, The Army of Northern Virginia)
+Died July 3, 1863 at 16:40 Hours
+...Avis Rara, The Thrice in a Lifetime: General Lee,
+Mr. Lincoln, and My beloved Friend... The Gentle Man
+```
+
+>Twa pliant [taws](#Taws) that, splish, spilled fluted sack  
+>Whose proxime staff's intent were flaunt [Sheol's](#Sheol) lure  
+>Assay, too late lads' [ilka](#Ilka) toft. How reck  
+>Y'_in re_ demesne, mall, scape? Ian's tartan glow'r,  
+>Same's swagger-stick's bland taste his metier's pimp  
+>To poxy Avarice, Bee-quean of War.  
+>Still, that's the cane I thrash; observe the lip.  
+>Lee's deft The Trade, so's Meade; each mans his whore.  
+>Sma' stance, service turns sprite. It do enow!  
+>Och, aye. Mott Johnnie chiel, I trow y'r seed  
+>Forked fast, ahead she scythed y'r stand. If so,  
+>Fresh [bairn](#Bairn) tends tread baud mill. [Sodger](#Sodger), y' need  
+>No whit [mair](#Mair) gape an' crisp on skillet sun;  
+>Spade hand that lofted, loams y' cool, m' mon.
+
+
+
+
 
 ---------------------------------
 
@@ -319,7 +378,7 @@ The Wordstock swanks no condescension; Quill avowedly surmises, and _respects_, 
 
 <a name="Bei Wien"></a>BEI WIEN, at Vienna. Germ. #7.
 
-<a name="Benign, Foreshortened Lathee"></a>BENIGN, FORESHORTENED _LATHEE_, swagger stick... The White Man's Burden? Hind. T/Y/R/K. #11.
+<a name="Lathee"></a>BENIGN, FORESHORTENED _LATHEE_, swagger stick... The White Man's Burden? Hind. T/Y/R/K. #11.
 
 <a name="Best and Blest"></a>BEST AND BLEST, Well, not quite, George Meade. _They_ will spectre _tomorrow_ Armistead, Kemper, Garnett with Pickett's Own. #6.
 
@@ -357,7 +416,7 @@ The Wordstock swanks no condescension; Quill avowedly surmises, and _respects_, 
 
 <a name="Gift O' God"></a>GIFT O' GOD, euphemism. Ir. #11.
 
-<a name="Globes and Orbs"></a>GLOBES AND ORBS, testicles. #11.
+<a name="Globes and Orbs"></a><a name="Orbs"></a>GLOBES AND ORBS, testicles. #11.
 
 <a name="Grant"></a>GRANT, GEN'L ULYSSES SIMPSON, Vicksburg, Miss. fell to his troops, indeed, July 3, 1863. Major matter, minor Karma. His _elsewhereness_, those three days, pairs as awesomeness Gen'l Thomas Jonathan Jackson's. At tangency? Light for one tenuous filament... BREATH. Whatever Gettysburg wasn't, was _them_. Likewise ominously did Mr. Lincoln and Major Henry Lee cast _their_ vicarious and apposite shadows across the holocaust. Missing Persons Bureau #1. Proem et al.
 
@@ -531,7 +590,7 @@ __Note_: Credit due, credit given. The F. F. V. aside notwithstanding, Pettigrew
 
 <a name="Three Hooves Terra Firma"></a>THREE HOOVES TERRA FIRMA, Throughout the battleground statuary, one sorts the generals who were killed there from those who weren't very readily. Reynold's mount is cast in the stance delined, _three hooves terra firma, one cocked for the paw_; Lee's Traveller was _four hooves planted_. Append.
 
-<a name="Topheth"></a>TOPHETH, Gehanna, Hell. Heb. #11.
+<a name="Tophet"></a><a name="Gehanna"></a>TOPHET, Gehanna, Hell. Heb. #11.
 
 <a name="Twa"></a>TWA, two. (Spelling _twa_ is resorted to where context is pleasing or tender, even though tristful; the eng. _two_, an harsher pitched tone, is reserved for rude practicalities. Sc. #s 10, 11, et al.
 
