@@ -266,12 +266,30 @@ Meade's caution, after standing Lee off, forestalled The Rout. John Sedgewick ha
 >To butcher, quarter, carve Lee's herding south.  
 >Terse troops, John's pride... eloquent for seldom mouth.  
 
+---------------------------------
 
+### The Gettysburg Sequence #10
+(The Third Day... July 3, 1863)
+
+Lewis A. Armistead drafts The Order of the Day to Pickett's prized brigade... in time to mound his own cairn.
+
+>Virginians: you've vexed them times lost rime.  
+>Mark: [Massachusetts](#Massachusetts) soldiery bids high,  
+>Brow plumb your own - deem higher as you climb.  
+>Brunt them, chance divvy death with [Lo](#Lo). I dry  
+>Twa drops, nowise else you, to quite my wife  
+>This guise. But dammit, Pickett needs that rise;  
+>His Lee lusts Harrisburg. Well? Shrug smug life  
+>While guidons ripple thus. Brace: [greysome prise](#Greysome Prise),  
+>Maine lumberjack, fitting ash butt to [pan](#Pan)...  
+>If flesh might fetch that far. Blade first, next think  
+>Your quiet thoughts. Details: shelf-clean mess can;  
+>Bodes warm, canteen half-up - you'll pant to drink.  
+>Rub bayonets to blaze Vermonters blind,  
+>Then surge, grudge still, to unmaze fate with kind.
 
 
 ---------------------------------
-
-
 
 ### Wordstock
 
