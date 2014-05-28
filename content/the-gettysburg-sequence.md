@@ -19,23 +19,24 @@ Time near hand, Quill abode hardby Dublin and Edinburgh. At Solomonic fingering 
 
 All right, so much for west-east. East-west? Another yarn. Quill winced, at times, that so witted islanders as Celts proved out so lethargic, stony, when the mere matter pertained The United States of Purgatory, panaorama of Paradise, large scale chart of Gehanna. There's more than one irish bank vice-president who can put finger on G. Washington, taps grand excitement gawking General Custer, Sitting Bull rendezvous at the [Telly](#Telly), or imparts the arcane lore that Kennedys hearthed County Wexford whilst Fitzgeralds sprang The West. Midlothian solicitors abound who revere Alexander Graham Bell, envy Uncle Same manna because Dr. Albert Einstein turned up abandoned at his door-sill, confide their nation bestowed on General Eisenhower a castle with moat... and golf course. Abigail Adams? "Sorra, you'll need to explicate." (Jaysusgod, and She statured thrice the woman Mary Stuart dreamt upstairs or craved below.) To be sure, Quill, by bent, seldom haunted the academic, bohemian, or clerical ring-around-the-rosy cabals. He muscled his milieu on men-in-commerce, builder-architects, the Military, their wives and/or lemans that tagged along, drunks threatening give-and-take, publicans who slaked them. But still.
 
-Stateside? Same poor show, less amnesty Quill's stricture. The germane verb spells no longer wince; it scans scorn on peers his age or less or more, and some scope wider far. No moral indictment. Nastier: sluggard stance, unstyle. Desuetude yawns for Taps? A balm, an easement, nemine gratia, and [instant gentlemen](#Instant Gentlemen) won't stand attention its Benison once a night, once a death, once a nation? Hale, drones of necropolis! New Bedford blood, Front Royal lymph, spilt all right, stains not your tufted wall-to-wall carpeting. Your Martini runneth over, Sir.
+Stateside? Same poor show, less amnesty Quill's stricture. The germane verb spells no longer wince; it scans scorn on peers his age or less or more, and some scope wider far. No moral indictment. Nastier: sluggard stance, unstyle. Desuetude yawns for Taps? A balm, an easement, [nemine gratia](#Nemine Gratia), and [instant gentlemen](#Instant Gentlemen) won't stand attention its Benison once a night, once a death, once a nation? Hale, drones of necropolis! New Bedford blood, Front Royal lymph, spilt all right, stains not your tufted wall-to-wall carpeting. Your Martini runneth over, Sir.
 
-Just so. Rancour prompted the fourteen poems; humbleness before sustained them, such as they be. (Small fibbings? Well, a Kerryman will squander ninety-nine lies to get one fact across.) What burthen they lug? Patently into middle age, he would now decrypt the lode into Quillese, then chance the effluvia at the alter of Merciless Mother English. As he's stared and mulled downside The Angle hardby the clump of trees, between the Codori cote abnd barn, across the Emmitsburg road, past The Swale, into Spangler's Wood he partly pieces together, like a [dhobi](#Dhobi) gathering remnants of a shattered crock and hopelessly findering them, how he, you, and the yearling nation died... and under whose auspices:  
-  Abraham Lincoln  
-  Robert E. Lee  
-  Traveller  
-  John Burns  
-  Jennie Wren  
-  Henry Lee  
-  George Meade  
-  Arno Kiesewetter  
-  Father Corby  
-  John Sedgewick  
-  Lewis Armistead  
-  Ian Farquharson  
-  [Ulysses S. Grant](#Grant)  
-  Sarah Carter  
+Just so. Rancour prompted the fourteen poems; humbleness before sustained them, such as they be. (Small fibbings? Well, a Kerryman will squander ninety-nine lies to get one fact across.) What burthen they lug? Patently into middle age, he would now decrypt the lode into Quillese, then chance the effluvia at the alter of Merciless Mother English. As he's stared and mulled downside The Angle hardby the clump of trees, between the Codori cote abnd barn, across the Emmitsburg road, past The Swale, into Spangler's Wood he partly pieces together, like a [dhobi](#Dhobi) gathering remnants of a shattered crock and hopelessly findering them, how he, you, and the yearling nation died... and under whose auspices:
+
+- [Abraham Lincoln](#The-Gettysburg-Sequence-1)
+-  Robert E. Lee
+-  Traveller
+-  John Burns
+-  Jennie Wren 
+-  Henry Lee 
+-  George Meade 
+-  Arno Kiesewetter 
+-  Father Corby 
+-  John Sedgewick 
+-  Lewis Armistead 
+-  Ian Farquharson 
+-  [Ulysses S. Grant](#) 
+-  Sarah Carter 
 
 Tattoo... Taps. Eyes dry, sweep down Glory's roster again for Domesday's sake. Go ahead, murmur: "But Glory shew on and on -- Wake Island, Bastogne, Tarawa, Huertgen Forest." Other times, other Glories: Glories of stock, Glories in season. Glory of the maples, October's afternoon; Glorious the seared beech, defying December to undress first. Twin Glories: Gettysburg, Guadalcanal... The Glory of life passing into death, the Glory of death passing for life.
 
@@ -484,7 +485,7 @@ The Wordstock swanks no condescension; Quill avowedly surmises, and _respects_, 
 
 <a name="Neap"></a>NEAP, climacteric? stealthy onset declineing vigour. A sleazy almanac and the abrasion of indivisible answerability had absumed as adamantine breedstock as ever bestrode a charger... or a Commonwealth. (Verbatim from The Shorter Oxford Dictionary: "... a tide occuring shortly after the first and third quarters of the moon, in which the high water level stands at its lowest point"). Well? #2.
 
-<a name="Nemine Gratia"></a>NEMINE GRATIA, literally "thanks to nobody." In Quill's bias: thanks to the men _and_ women, seemingly _un_done, who were _created_ at and through Gettysburg, evinceing till this day truer STYLE than the Madras-jacketed Madison Avenooers and their mini-draped or bell-bottomed squaws. Lat. #11.
+<a name="Nemine Gratia"></a>NEMINE GRATIA, literally "thanks to nobody." In Quill's bias: thanks to the men _and_ women, seemingly _un_done, who were _created_ at and through Gettysburg, evinceing till this day truer STYLE than the Madras-jacketed Madison Avenooers and their mini-draped or bell-bottomed squaws. Lat. Proem.
 
 <a name="New Orleans"></a>NEW ORLEANS, The Battle of, 1814. (Andrew Jackson vs. The Black Watch Regiment). #11.
 
