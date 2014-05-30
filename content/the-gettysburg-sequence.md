@@ -365,6 +365,32 @@ Mr. Lincoln, and My beloved Friend... The Gentle Man
 >Mercy on us, forgiveness Yankee chaps,  
 >Who did us in and died. Sound softly Taps.
 
+---------------------------------
+
+### The Gettysburg Sequence #13
+(The Third Night... July 3, 1863)
+
+Mr. Lincoln, The Commander-In-Chief, despatches an order to Headquarters, army of The Cumberland, outside [Vicksburg](#Vicksburg). It's burthen: Major General Grant, during an indeterminate hiatus, is to tidy debris both banks the Mississippi south to New Orleans, and if there's time, scour the hinterland. But so arrange matters, that he is ready at a moment's notice for summons to Washington.
+
+>All Pennsylvania's back this night. George Meade,  
+>Strong men from Minnesota, Illinois,  
+>Have budged those people south. Moses, I read  
+>He welshed pursuit t've bludgeoned them. Dark noise  
+>Abates by Gettysburg, but Lee abides  
+>One carmine sortee past Potomac's strand.  
+>There mill them fine, while Sheridan but rides  
+>Their rails to scrap, your other rogue to brand  
+>Their balls till burst. I'm man-blunt with you, Grant:  
+>Had I _had_ Lee, you'd ne'er known pressing word,  
+>But he's please God, not ours. This this, I want  
+>You east with me. I like your mien, spike beard  
+>That bristled bare the West. Stalk gallant Lee,  
+>Abe's dearest game, Grant's slyest prey to be.
+
+---------------------------------
+
+### The Gettysburg Sequence #14
+(The Coda... July 13, 1863)
 
 
 
