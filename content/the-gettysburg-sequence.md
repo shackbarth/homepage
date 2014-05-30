@@ -392,6 +392,24 @@ Mr. Lincoln, The Commander-In-Chief, despatches an order to Headquarters, army o
 ### The Gettysburg Sequence #14
 (The Coda... July 13, 1863)
 
+Mrs. Carter, a young widow, gestates. She gropes about her now-very-own mansion outside Culpeper. Sarah Carter divines - as men must decipher - the Civil War that ravishes in the five distinct inferences of that love-hate-love-hate-love word. She stems an upper-class Perthshire hearth; her given name had been Sarah Frazier. As a maiden, she resettled with the family in Boston. There, at Harvard Promenade, she met a senior, Byrd Carter, or Westmoreland County. September the following year, Sarah and Byrd were joined at the Carter's parish church near Kinsale. Byrd's mother was no carving out confectioner's ice. No, she was a woman all right: Sarah Frazier's unforced physical loveliness, bone-build in particular, delighted her. First and foremost, because new blood would be tempering the lineage. So pleased at Byrd's union with Sarah was Mrs. Carter, nee Randolph, that she bestowed on her beloved son, and, to her astute insight, even finer daughter-in-law, the empty lineal mansion and stables at Culpeper.
+
+The lad-to-be, bideing his turn, safe in the loins of Byrd Carter and Sarah Frazier might indeed fulfill the promise. Might. But the harbingers? Another story. _Their_ luck could not hold long. The odds at Gettysburg, in the offing, to keep Brigadier Armistead company the afternoon of July 3, 1863 sorted just too steep.
+
+>Well, [bairn](#Bairn) to be, you'll need to lack a Da'  
+>Now does it hush where you bide time 'side me?  
+>The name that nobles you came forth your Pa.  
+>Now, soon's I've got y'born, weaned, toddlin' free  
+>My mind's to take on genteel whorin' next.  
+>He stood a man; now's board to busy worms.  
+>My luve, you Da', with Pickett's own was vexed,  
+>Yet proud, up Cemetery Ridge on terms  
+>Meade bade: - sweet, stiff they were, as him athwart  
+>The thighs that thwart y'now, my bairn close breath.  
+>Y' churn Ma's tum; I hum your boonie heart.  
+>Mercimost Jesus, aid, hear me braid wreath,  
+>While womb-warm Byrd's dashed promise bathes and swells.  
+>(Damned yawning kit lurks sly where men's wont tells.)
 
 
 ---------------------------------
