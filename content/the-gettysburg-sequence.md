@@ -345,6 +345,25 @@ Mr. Lincoln, and My beloved Friend... The Gentle Man
 >No whit [mair](#Mair) gape an' crisp on skillet sun;  
 >Spade hand that lofted, loams y' cool, m' mon.
 
+---------------------------------
+
+### The Gettysburg Sequence #12
+(The Third Night... July 3, 1863)
+
+>Mourn all tomorrow's not. Yorktown has diced  
+>[Box-cars](#Box-Cars) for what's now pent. We'll need to clam  
+>Things close henceforth: flat-broke, still peddle priced.  
+>Pulse rues to pall, slow death to [quick](#Quick) on shame.  
+>Quilled Jefferson encrobe, quired Adams penned:  
+>"Pay, [George](#George), pay, damn your eyes, dark consequence."  
+>How meet phrase scanned, how brave! Fresh land to tend  
+>Drab husbandry to squander till last fence.  
+>Red reckoning: pus, puke, pain... Jesus alone  
+>Hove once immersed roan [grume](#Grume), [ilk](#Ilk) ours - nine toes  
+>Criss-cross, balls peeled, palms mangled match God's Son.  
+>Fried lungs, that late swilled April air - net loss.  
+>Mercy on us, forgiveness Yankee chaps,  
+>Who did us in and died. Sound softly Taps.
 
 
 
