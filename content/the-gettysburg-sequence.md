@@ -411,12 +411,51 @@ The lad-to-be, bideing his turn, safe in the loins of Byrd Carter and Sarah Fraz
 >While womb-warm Byrd's dashed promise bathes and swells.  
 >(Damned yawning kit lurks sly where men's wont tells.)
 
+---------------------------------
+
+### Appendix #1
+FOR GENERAL JOHN BUFORD
+(Mid-morning... July 1, 1863)
+
+General John Buford was a fighter, and _he_ swivelled the tactial eye-balls pierceing through which Mr. Lincoln's--the strategist, by now, bar none--decisive vision surveyed. The fragment that follows is excerpted from a base inscription to his bronze statuary on the battlefield. Buford stands there, _dismouted_, (redundancy is, for once, licit) assaying west-south-west along the Chambersburg Pike. Flanking him, rear General John F. [Reynolds](#Reynolds), whose mount is depicted, canonically, in the ominous stance -- [three hooves _terra firma_](#Three Hooves Terra Firma), one cocked for the paw-- hard by on the east and, to the west, by a latter day knicknackery.
+
+The epigram is perhaps not up to Pindaric snuff, still: "... who with the first inspiration of a cavalry officer _selected this battlefield_." (Italics, Quill's).
+
+To temper the ellipsis of the poem a small garland of scattered passages from Mr. Bruce Catton's masterpieces, GLORY ROAD and NEVER CALL RETREAT and Mr. Clifford Dowdey's adamantine DEATH OF A NATION are invoked:
+
+"The light grew, and a dun-colored column of troops came snaking eastward. John Buford had it pegged:..."
+
+"If the Confederates were looking for a fight, Buford was just the man for them. Unsupported cavalry was not expected to stand off infantry, and for a couple of hours or more Buford's two brigades would be entirely unsupported, but Buford liked to fight and he did not propose to leave until somebody made him leave. He dismounted his regiments and spread them along the ridge, one man in every four standing fifty yards in the rear holding horses, the rest squatting behind fences, bushes, trees, or what not and peering at the Rebel skirmishers over their stubby carbines.
+
+"Buford had to keep part of his men patrolling the roads that came down from the north, because the word was that Ewell's troops would be approaching from that direction before long, so his fighting line was a bit skinny."
+
+"There was no very good reason why these Confederates had to get into Gettysburg, except that A.P. Hill was a pugnacious man who liked to fight whenever he got a chance; and there was no especial reason why Yankee cavalry should try to keep them out Gettysburg, except that Buford felt the way Hill felt about fighting. Now Reynolds, a pugnacious as either of these two, looked at the firing lines and heard Buford's situation report: ..." 
+
+"... Reynolds did what was in character for him to do. He was an instinctive inch-by-inch fighter, and now he rode up to the battle line to see that his men struck the blow that he wanted them to strike. As they surged forward a bullet hit him and he toppled from his saddle, dead... and the Battle of Gettysburg had begun, brought on without choice or Lee or Meade by the fact that the roads that crossed here brought together men possessed by a blind, driving urge to fight."
+
+And Mr. Dowdey, from the Confederate perspective: "...The mounted division working out from the Union infantry was commanded by a rough fighter named Buford..."
+
+One may abide the [Mahanian](#Mahanian) stricture. Likely Farragut was the tail that wagged the land-hemmed dog; granted that Salamis consummated what Thermopylae had merely ushered; or, Mountbatten and Nimitz wove victory out such thread the Spitfires and Hurricanes of '40 tended like a vestal wick... And so the terriers hung on for two hours and five minutes, hardby _Willoughby Run_!
+
+>_His_ count sums [relative](#Relative) Leonidas'.  
+>Does Doktor Einstein waggle stranger-flag?  
+>Time bought's the cue, laconic few to sass  
+>[Plumed Persia](#Plumed Persia) teeming Cashtown: stoop, step, crag!  
+>The tireless matrix casts bone-true to type:  
+>An acre fiefed, an hour bestowing slack  
+>Taut friends might truss a loop to fold, then gripe  
+>An armour-clad Behemoth till it crack.  
+>Foot cavalry? How [insedate](#Insedate) his part,  
+>That hasty Pettigrew mistake a check  
+>On horseflesh to his ken, for Joab's ark.  
+>And thus shew Gettysburg more _field_ than track.  
+>[Reynolds](#Reynolds), graced twenty minutes to breath, gleaned well  
+>What sliceings Buford' pared, clemming hale hell.
 
 ---------------------------------
 
 ### Appendix #E=MC2
-
-EVENING, JUNE 30, 1863
+(Evening... June 30, 1863)
 _(Written on The Vigil of the Feast of The Blood Immersion, 6/30/71)_
 
 She sums all things to all men, all women... multifarious tissue to several men. Aye, Robert Burns, Quill minds well the _sense_ that under_pins_ your astute and harmonious construal, "NATURE'S LAW". Still, Gettysburg under_mines_ the very piles of animate continuity. Indeed, there _was_ [Flodden](#Flodden), but Bonnie Scotland somehow endured its shambles. (One song, only one, grips Quill tauter than all your masteries - "[FLO'ERS O' THE FOREST](#Flo'ers)"). His homeland? A necropolis since July 4, 1863. So, at the wry mathematic, Gettysburg-by-Willoughby Run supersedes Flodden-by-Coldstream.
@@ -639,6 +678,8 @@ __Note_: Credit due, credit given. The F. F. V. aside notwithstanding, Pettigrew
 <a name="Quick"></a>QUICK, vb. quicken, as in "the quick and the dead." #12.
 
 <a name="Reading"></a>READING, railroad line, Pa. #1.
+
+<a name="Relative"></a>RELATIVE, Not "mischpocha" (blood relations, Yidd.), rather, "Die Generale Theorie der Verhaeltnismaessigkeit" (The General Theory of Relativity, germ.). Append.
 
 <a name="Red Lion"></a>RED LION, small town Pa., due east some 20 mile Gettysburg. #6.
 
