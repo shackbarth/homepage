@@ -50,12 +50,12 @@ Epilogue
 
 Mr. Lincoln catnaps to the anodynous clacking of his [Reading](#Reading) coach, closeing on Gettysburg. He tallies random inward and outward accounts. Does the President graze you a mite sorry for Abe? Well, does not the Son of Man for Jesus, urgeing a gibbet to its ordained rearing?
 
->Pa [whimped](#Whimped). Ma whored to whelp Abe hedgerow snatch?  
+>Cuckolded Pa, Ma whelped Abe hedgerow snatch?  
 >Mary hugs light to shadow black [Xantipp'](#Xantipp'),  
->The moot-to-matter boys -- his kitchen catch.  
+>The moot-to-matter boys -- his kitchen ketch.  
 >Least, [dirksome](#Dirksome) friends! He bodes Knight _Lee_ dark trip.  
 >(_He's_ sound: one county's brim each man will stand).  
->Not mine, because he loved [Westmoreland](#Westmoreland) more  
+>Not his, because he loved [Westmoreland](#Westmoreland) more  
 >Than [Lincoln's shire](#Lincoln's Shire). Chill God, he's seared a brand  
 >Aswash all History that's hapt... foul sore,  
 >Ubiquitous as syphilis. To post?  
@@ -63,7 +63,7 @@ Mr. Lincoln catnaps to the anodynous clacking of his [Reading](#Reading) coach, 
 >The sun arcs plane: Abe's sapped, cert as thug Frost  
 >Had caned his pipes. Celled pate but turnkey tends.  
 >Abe, sugar-plumb the folks. They yearn a fruit.  
->But Springfield mockingbird, he tends thy flute.  
+>[Sangamon](#Sangamon) mockingbird, he tends thy flute.  
 
 ---------------------------------
 
@@ -107,7 +107,7 @@ Auld John Burns, [souter](#Souter), stands ready, wheat to the midriff, sighting
 >Och, three-score-ten o'rifled, tendin' me!  
 >I ken grey gooshin' doon yon green defile  
 >I'll size the [pownied](#Pownied) [ghaistie](#Ghaistie), Lee, [th' day](#Th' Day)  
->An' fling thae Cavalier the' sco'ish style  
+>An' fling thae Cavalier the' sco'ish style.  
 >Fell [Ulster clans](#Ulster Clans) romp rude, bu' doona frigh'  
 >[Ilk](#Ilka) Borders Sco'. Och forbears mine wi' Bruce  
 >An' Wallace bled. Di' [pawky](#Pawky) Caesar try  
@@ -129,7 +129,7 @@ Auld John Burns, [souter](#Souter), stands ready, wheat to the midriff, sighting
 >Grey gun-butt warns that door; I'll chance him through.  
 >Then ream and drain his rifle ball and bore.  
 >Johnny minds learn if Jack, or stores, or brew  
->Sequestered be by me. But 'ere cocks chore  
+>Sequestered by me be. But ere cocks chore  
 >[He'll blew](#He'll Blew) his booty Jennie's thighs. Jen rut  
 >It so. Peaskins, he'll fret Jen's Jack worked west  
 >With little [Phil](#Sheridan). I'll bathe her dusty cut  
@@ -161,7 +161,7 @@ O, the splendid [Anne Carter Lee](#Anne Carter Lee)... a woman to the banner bor
 >Broad men that wait - I charge yourself, by damn,  
 >And me, false-minting sire, that blades you MAN.  
 >Let's sit with hourse. (I've pinked red-coats _that_ trade.)  
->Forget the equine touch and sleep. Spry Jeb,  
+>Eschew the equine touch and sleep. Spry Jeb,  
 >This hour, creaks springs astraddle [Madelaide](#Madelaide)  
 >Nigh [Frizzleburg](#Frizzleburg). ('Nent _mounts_, 'twere tensile web  
 >_Their_ Buford wove to tip brim to past day.)  
@@ -208,7 +208,7 @@ In this sonnet, [quasi ex mortuo](#Quasi Ex Mortuo), he shares with her what bot
 
 >Our place and time to render Death style true.  
 >[Also](#Also): She tapped her spile where thighs are crowned.  
->One time I mused to breed a wife, I'd woo...  
+>One time I mused to seed a wife, I'd woo  
 >But Berthold's camber, daily traced? Sense frowned  
 >Daft whim to side. (I _did_ delight back-lanes.)  
 >Thou'rt not to scold. Tut, tut yourself. The [Schloss](#Saengerschloss)  
@@ -229,7 +229,7 @@ In this sonnet, [quasi ex mortuo](#Quasi Ex Mortuo), he shares with her what bot
 Father Corby, Chaplain to the 88th New York Infantry of The Irish Brigade, assesses doings and undoings during the day gone by. Does he echo an apostasy... perhaps Jesus' groan: "Father, Father, why has Thou forsaken me?"
 
 >Mercichill God! Mayos and Clares shrove _thee_  
->At noon. You're safe. [Fitting and fair](#Fitting And Fair)?  't's on them.  
+>At noon. You're safe. [Fitting and fair](#Fitting And Fair)?  'T's on them.  
 >Not quite, thou'st yet to squelch accounts with me.
 >Thy bhoy that sported [spiky diadem](#Spikey Diadem),  
 >Died at my thumb. _This time_ his name was [Liam](#Liam).  
@@ -255,12 +255,12 @@ Meade's caution, after standing Lee off, forestalled The Rout. John Sedgewick ha
 >We fished you clean, lax [Housatonic](#Housatonic) shoals,  
 >Trout-truant kids from dawn till moon snuffed dusk,  
 >Then barefoot, soldiered home our casting poles.  
->Meade furrows me, alone 't other bosk.  
->I reck, as brave he be, beads own his brow;  
+>Meade furrows me, alone t' other bosk.  
+>I reck, as brave he bide, beads bind his brow;  
 >He copes with larger Lee, come day. Stay Meade,  
 >Lord God of Hosts... he'll want your staff this row.  
 >And grace he hold, bid him spring mine to mete  
->West stumbling motley meed. My composed boys -  
+>West-stumbling motley meed. My composed boys --  
 >Seed Brattleboro, Braintree, Bath - coil primed  
 >To spile the dry. [Last](#Last), [Albanies and Troys](#Albanies And Troys)!  
 >Then should Meade fancy flesh, men mine flex timed  
@@ -296,7 +296,7 @@ Lewis A. Armistead drafts The Order of the Day to Pickett's prized brigade... in
 
 Three envoys to [Tophet](#Tophet) emerge the south-east corner Spangler's Wood where it yields to The Swale and the oblique snake fence fronting the Spangler cote. The time stands 16:05 hours. The men need no compass to hold the ENE course the three Brigades have ordained; carnage underfoot delimes the azimuth thrifty enough. And so, this unholy trinity urges on, armed down to the eyelashes.
 
-Lt. Colonel Ian Farquharson, a guest from far away, trifles with his swagger-stick and waists a sheathed Sikh battle-sabre, for reasons of his own. Surgeon Major Solomon Mendoza shoulders a strapsack, stenciled 26th Michigan: vintage Chancellorsville, no doubt. The receptacle ensconces, brim to the flap, 64 syringes primed with an opiate.
+Lt. Colonel Ian Farquharson, a guest from far away, trifles with his swagger stick and waists a quirky Sikh sabre, for reasons of his own. Surgeon Major Solomon Mendoza shoulders a strapsack, stenciled 26th Michigan: vintage Chancellorsville, no doubt. The receptacle ensconces, brim to the flap, 64 syringes primed with an opiate.
 
 Farquharson, Ian. _aetatis XLVIII_, 5'8", 11 [stone](#Stone) - 8 lb., greying black hair, anthracite eyes. (The last facet belies celtic aboriginality _or_ an iberian dalliance.) He was born at Dunbeath in Caithness. A northman of sorts. His mother came with the maiden name Martha Bethune. When detached for Duty as Observer with The Army of Northern Virginia, he commanded the 2nd Battalian, Black Watch Regiment, provisionally garrisoned at Gibraltar. His calling, and proficiency thereto, scheme all of a piece. In early pubescence, he had swum from Dunnet Head to Duncansby Head on Pentland Firth. The exploit took 6 1/2 days. His older brother and two elder sisters, [Meikle Jamie](#Meikle Jamie), Ruth, Judith striked a [currach](#Currach) beside him to the windward, hulling the needed alimentation and equipage: flint, peat, capes for sleeping, tea, mutton, meal, blouse, philibeg, [skene-dubh](#Skene-Dubh), [sporran](#Sporran). To beach or moor, and then in turn launch, the wee skiff twice each day imposed a seamanship on them more stringent than a natant landfall on Ian himself. More than once, having swum ashore with a tow-line, he snugged it in for them to debark and discharge the cargo. A forbidding landlip, compounded by the tidal deviltry throughout the firth, exacts from the mariner knowing, muscle, and ingenuity. Affording themselves some leeway in respect to tide, floor, and terrain, they came ashore toward mid-day to take food and repose. Then the argosy set out again eastward till the late evening dusk. (Pentland Firth lies at Latitude 50 degrees - 40 minutes). Now fetch land again for a light repast and a deep, though foreshortened, sleep.
 
@@ -570,7 +570,7 @@ The Wordstock swanks no condescension; Quill avowedly surmises, and _respects_, 
 
 <a name="Light Horse"></a>LIGHT HORSE, major, later Gen'l Henry (Light Horse Harry) Lee. Gen'l Washington & Gen'l Greene's _most_ esteemed cavalry commander... and a very naughty boy. Still, he sired _The Gentleman_ bar none. #5.
 
-<a name="Lincoln's Shire"></a>LINCOLN'S SHIRE, Sangamon Co., Ill. #1.
+<a name="Sangamon"></a><a name="Lincoln's Shire"></a>LINCOLN'S SHIRE, Sangamon Co., Ill. #1.
 
 <a name="Lo"></a><a name="Lothario"></a>LO, LOTHARIO, Lewis A. Armistead mustered an indefatigable womanizer, So, his circle of officer friends, and soon the enlisted men under his command honoured this _second_ prowess in addressing him thus. T/Y/W/S. #10.
 
