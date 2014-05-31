@@ -414,6 +414,38 @@ The lad-to-be, bideing his turn, safe in the loins of Byrd Carter and Sarah Fraz
 
 ---------------------------------
 
+### Appendix #E=MC2
+
+EVENING, JUNE 30, 1863
+_(Written on The Vigil of the Feast of The Blood Immersion, 6/30/71)_
+
+She sums all things to all men, all women... multifarious tissue to several men. Aye, Robert Burns, Quill minds well the _sense_ that under_pins_ your astute and harmonious construal, "NATURE'S LAW". Still, Gettysburg under_mines_ the very piles of animate continuity. Indeed, there _was_ [Flodden](#Flodden), but Bonnie Scotland somehow endured its shambles. (One song, only one, grips Quill tauter than all your masteries - "[FLO'ERS O' THE FOREST](#Flo'ers)"). His homeland? A necropolis since July 4, 1863. So, at the wry mathematic, Gettysburg-by-Willoughby Run supersedes Flodden-by-Coldstream.
+
+[The Devil's Den](#The Devil's Den)? Limbo?
+
+Cemetery Ridge? Golgotha?
+
+>Tomorrow looms, abradeing yesterdates.  
+>Now work, weal, woman, wisdom term as wail.  
+>Willoughby runs, not water-pure, as prates  
+>[Gowned conjury](#Gowned Conjury) _in re_ [HIS rib](#His Rib). Not pale  
+>One wit. No:- animal tint, JESUS-red.  
+>Holy-made [cruor](#Cruor) minutes her earth-girt shores,  
+>Limiting Gettysburg, wee sprig that bred  
+>Back massive agonies, fathomless stores  
+>Filed honour, shame, delight, despair, birth, death  
+>To sate our kith and kin till distant hour -  
+>Aeons prior Adam's fig, or transient breath  
+>Old Yahweh lent a passant tribe. That shower,  
+>Contrived our slug, shell, cannister outrained  
+>Vast teeming astral torrent [Bruno](#Bruno) brained.
+
+
+
+
+
+---------------------------------
+
 ### Wordstock
 
 Riddles, sobriquets, foreign or densely dialectal terms, coined words, etc. are keyed by _number_ (#) to their incidence throughout The Sequence. For example, PAWKY, canny, wary, Sc. #3. Now, that simply means that the Scottish word _pawky_ occurs in Sonnet #3 (or its attendant prose) and suggests the foregoing familiar-English meanings.
@@ -442,6 +474,8 @@ The Wordstock swanks no condescension; Quill avowedly surmises, and _respects_, 
 
 <a name="Bei Wien"></a>BEI WIEN, at Vienna. Germ. #7.
 
+<a name="Bruno"></a>BRUNO, Giordano (1548 - 1600). Physicist-astronomer (faggoted, grace The Inquisition). Upheld and elaborated John the Baptist to Dr. Einstein's "General Theory of Relativity". #E=MC2.
+
 <a name="Lathee"></a>BENIGN, FORESHORTENED _LATHEE_, swagger stick... The White Man's Burden? Hind. T/Y/R/K. #11.
 
 <a name="Best and Blest"></a>BEST AND BLEST, Well, not quite, George Meade. _They_ will spectre _tomorrow_ Armistead, Kemper, Garnett with Pickett's Own. #6.
@@ -449,6 +483,8 @@ The Wordstock swanks no condescension; Quill avowedly surmises, and _respects_, 
 <a name="Bias"></a>BIAS, This term, as used several times through The Sequence, wants to convey it _pristine_ meaning:- divorced from tawdry polemics. Viz: slant, bent, contour as off a potter's wheel. Etym Gr. is rooted in the words for life, two, swift. Proem et al.
 
 <a name="Box-Cars"></a>BOX-CARS, Nomenclature derives from gymkhana _craps_ - rolling the bones, dice. Jakes-agonist flings two sixes (12) first call, he's dead - _box-cars_. (Same is true two aces (2) - _snake-eyes_... Ditto deuce and ace (3) - _cat-eyes_.) Disaster. Amer. #12.
+
+<a name="Cruor"></a>CRUOR, - Verbatim from The Shorter Oxford English Dictionary: (( Blood (when out of the body) )). #E=MC2. 
 
 <a name="C. S. A."></a>C. S. A., Conferate States of America. #11.
 
@@ -468,6 +504,10 @@ The Wordstock swanks no condescension; Quill avowedly surmises, and _respects_, 
 
 <a name="Fitting And Fair"></a>FITTING AND FAIR, Vere dignum, justum, aequum, et salutare est. (Roman liturgy). Lat. #8.
 
+<a name="Flodden"></a>FLODDEN, The Battle of, 1513. The english in winning killed King James IV. of Scotland... and the finest soldiery, "Borders" and "Lowland" leadership in particular. Smaller scale, perhaps, still a carnage to keep Gettysburg high company. #E=MC2.
+
+<a name="Flo'ers"></a>FLO'ERS OF THE FOREST, A scots dirge on The Battle of Flodden. #E=MC2.
+
 <a name="Flux"></a>FLUX, the "g. i.'s" or diarrhoea. Eng. #2.
 
 <a name="Frizzleburg"></a>FRIZZLEBURG, Va., poetic licentiousness for Carlisle, Pa. (Alas, not spelled Frizzleberg: frizzle=pudenda; berg=mons veneris. But there's where Jeb might just as well have been holed up the night June 30-July 1. Q/M of sorts. #5.
@@ -481,6 +521,8 @@ The Wordstock swanks no condescension; Quill avowedly surmises, and _respects_, 
 <a name="Gift O' God"></a>GIFT O' GOD, euphemism. Ir. #11.
 
 <a name="Globes and Orbs"></a><a name="Orbs"></a>GLOBES AND ORBS, testicles. #11.
+
+<a name="Gowned Conjury"></a>GOWNED CONJURY, the priesthood. #E=MC2.
 
 <a name="Grant"></a>GRANT, GEN'L ULYSSES SIMPSON, Vicksburg, Miss. fell to his troops, indeed, July 3, 1863. Major matter, minor Karma. His _elsewhereness_, those three days, pairs as awesomeness Gen'l Thomas Jonathan Jackson's. At tangency? Light for one tenuous filament... BREATH. Whatever Gettysburg wasn't, was _them_. Likewise ominously did Mr. Lincoln and Major Henry Lee cast _their_ vicarious and apposite shadows across the holocaust. Missing Persons Bureau #1. Proem et al.
 
@@ -499,6 +541,8 @@ The Wordstock swanks no condescension; Quill avowedly surmises, and _respects_, 
 <a name="Hic Est Enim Calix"></a>HIC EST ENIM CALIX, For this is the cup of my blood. (Roman liturgy) Lat. #8.
 
 <a name="Hie"></a>HIE, high, Sc. #3.
+
+<a name="His Rib"></a>HIS SIDE, HIS RIB, MIDRIFF, Canonical humbug that Jesus' subthoracic lancination spiggoted spring-water in lieu blood. Note: If word "riff" is used add "Anc. Eng.", now commonly spoken "midriff". #E=MC2.
 
 <a name="His Uncle"></a>HIS UNCLE, see [Ruth Benjamin](#Ruth Benjamin). #11.
 
@@ -649,6 +693,8 @@ __Note_: Credit due, credit given. The F. F. V. aside notwithstanding, Pettigrew
 <a name="Telly"></a>TELLY, TV. Eng. Proem.
 
 <a name="Th' Day"></a>TH' DAY, today. Sc. #3.
+
+<a name="The Devil's Den"></a>THE DEVIL'S DEN, On July 2, 1863, site of hide-n'-seek carnage amongst glacial-epoch boulders. Gettysburg, Pa. #E=MC2.
 
 <a name="Thirty-Two Mile Forced March"></a>THIRTY-TWO MILE FORCED MARCH, On July 1, 1863 The VI Corps was bivouacked at Machester, Md. precisely half-way between Washington and Gettysburg. Motherwit insists that the fateful commitment was, _au fond_, Mr. Lincoln's rather than Gen'l Halleck's or even Gen'l Meade's:--"Gettysburg! That's where the boil's for lanceing; the divil's welcome to Washington, a bilgy ooze of pencil-polishers and politicians." #9.
 
