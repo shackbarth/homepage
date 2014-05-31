@@ -414,7 +414,7 @@ The lad-to-be, bideing his turn, safe in the loins of Byrd Carter and Sarah Fraz
 ---------------------------------
 
 ### Appendix #1
-FOR GENERAL JOHN BUFORD
+FOR GENERAL JOHN BUFORD  
 (Mid-morning... July 1, 1863)
 
 General John Buford was a fighter, and _he_ swivelled the tactial eye-balls pierceing through which Mr. Lincoln's--the strategist, by now, bar none--decisive vision surveyed. The fragment that follows is excerpted from a base inscription to his bronze statuary on the battlefield. Buford stands there, _dismouted_, (redundancy is, for once, licit) assaying west-south-west along the Chambersburg Pike. Flanking him, rear General John F. [Reynolds](#Reynolds), whose mount is depicted, canonically, in the ominous stance -- [three hooves _terra firma_](#Three Hooves Terra Firma), one cocked for the paw-- hard by on the east and, to the west, by a latter day knicknackery.
@@ -455,7 +455,7 @@ One may abide the [Mahanian](#Mahanian) stricture. Likely Farragut was the tail 
 ---------------------------------
 
 ### Appendix #E=MC2
-(Evening... June 30, 1863)
+(Evening... June 30, 1863)  
 _(Written on The Vigil of the Feast of The Blood Immersion, 6/30/71)_
 
 She sums all things to all men, all women... multifarious tissue to several men. Aye, Robert Burns, Quill minds well the _sense_ that under_pins_ your astute and harmonious construal, "NATURE'S LAW". Still, Gettysburg under_mines_ the very piles of animate continuity. Indeed, there _was_ [Flodden](#Flodden), but Bonnie Scotland somehow endured its shambles. (One song, only one, grips Quill tauter than all your masteries - "[FLO'ERS O' THE FOREST](#Flo'ers)"). His homeland? A necropolis since July 4, 1863. So, at the wry mathematic, Gettysburg-by-Willoughby Run supersedes Flodden-by-Coldstream.
@@ -764,12 +764,3 @@ __Note_: Credit due, credit given. The F. F. V. aside notwithstanding, Pettigrew
 <a name="Wordstock"></a>WORDSTOCK, Glossary.
 
 <a name="Xantipp'"></a>XANTIPP', harridan unto Socrates. (poetic mischief, correct spelling and pronunciation: Xantippe.) #1.
-
-
-
-
-
-
-Notes/TODO:
-
-Two alternate versions of #6
