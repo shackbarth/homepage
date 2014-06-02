@@ -6,6 +6,10 @@
   "dependencies": {
     "ejs": "0.8.x",
     "express": "3.4.x",
-    "express-markdown": "*"
+    "express-markdown": "*",
+    "stylus": "0.45.1"
+  },
+  "scripts": {
+    "start": "node app.js"
   }
 }

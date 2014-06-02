@@ -1,4 +1,5 @@
 var express = require('express');
+var path = require('path');
 var app = express();
 
 app.set('view engine', 'ejs');
@@ -11,5 +12,7 @@ app.use(require('express-markdown')({
   view: 'content',
   variable: 'markdown'
 }));
+app.use(require('stylus').middleware(path.join(__dirname, 'public')));
+app.use(express.static(path.join(__dirname, 'public')));
 
 app.listen(3000);
