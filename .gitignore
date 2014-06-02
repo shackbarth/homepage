@@ -1,3 +1,4 @@
 *.swp
 *.md~
 node_modules
+public/stylesheets/style.css

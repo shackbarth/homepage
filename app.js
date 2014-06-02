@@ -4,7 +4,8 @@ var app = express();
 
 app.set('view engine', 'ejs');
 app.get('/', function (req, res){
-  res.render('content', {markdown: "hithere"});
+  res.redirect("./the-gettysburg-sequence.md");
+  //res.render('content', {markdown: "hithere"});
   //res.send('Hello World');
 });
 app.use(require('express-markdown')({
