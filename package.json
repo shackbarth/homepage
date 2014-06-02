@@ -1,5 +1,6 @@
 {
-  "name": "hackbarth-homepage",
+  "name": "shackbarth",
+  "repository": "git@github.com:shackbarth/shackbarth.git",
   "version": "0.0.1",
   "author": "Steve Hackbarth",
   "dependencies": {
