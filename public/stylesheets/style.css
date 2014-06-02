@@ -1,8 +1,21 @@
 body {
   padding-top: 20px;
+  background-color: #666;
+}
+h1 {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
 }
 a {
   color: #00b7ff;
+}
+blockquote {
+  font-family: garamond;
+  border-left: 0px;
+}
+.markdown-content {
+  background-color: #fff;
 }
 .margin-base-vertical {
   margin: 40px 0;
