@@ -16,4 +16,7 @@ app.use(require('express-markdown')({
 app.use(require('stylus').middleware(path.join(__dirname, 'public')));
 app.use(express.static(path.join(__dirname, 'public')));
 
-app.listen(80);
+var port = Number(process.env.PORT || 3000);
+app.listen(port, function () {
+  console.log("Listening on " + port);
+});
