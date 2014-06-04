@@ -230,7 +230,7 @@ Father Corby, Chaplain to the 88th New York Infantry of The Irish Brigade, asses
 
 >Mercichill God! Mayos and Clares shrove _thee_  
 >At noon. You're safe. [Fitting and fair](#Fitting And Fair)?  'T's on them.  
->Not quite, thou'st yet to squelch accounts with me.
+>Not quite, thou'st yet to squelch accounts with me.  
 >Thy bhoy that sported [spiky diadem](#Spikey Diadem),  
 >Died at my thumb. _This time_ his name was [Liam](#Liam).  
 >What I'd fain know: Whose Pilate's alias?  
