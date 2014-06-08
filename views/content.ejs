@@ -8,7 +8,6 @@
     <link rel='stylesheet' href='/stylesheets/style.css' />
 </head>
 <body>
-  <div id="skrollr-body">
   <div class="crisp-background">
     <div class="col-md-5 col-md-offset-2 title">
       <h1>The Gettysburg Sequence</h1>
@@ -18,13 +17,14 @@
   <div class="blur-background"
       data--33p-top="opacity: 0;"
       data--66p-top="opacity: 1;">
+    <div id="skrollr-body">
     <div class="col-md-6 col-md-offset-3 markdown-content img-rounded">
       <%- markdown %>
       <div class="footer">
         Transcribed by <a href="http://github.com/shackbarth/shackbarth.git">Steve Hackbarth</a>
       </div>
     </div>
-  </div>
+    </div>
   </div>
 
   <script type="text/javascript" src="javascripts/skrollr.min.js"></script>
