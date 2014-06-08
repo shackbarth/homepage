@@ -5,14 +5,12 @@ centered()
  
 
 body
-  padding-top: 20px
-  padding-bottom: 20px
   background-color: #666666
   font-family: gotham
   font-size: 16px
 
 .markdown-content
-  background-color: white
+  background-color: #F0F0F0
   h1, h2, h3, h4, h5, h6, .footer
     centered()
   pre
@@ -25,8 +23,17 @@ body
       background-color: #FAEBD7
       font-family: courier
       font-size: 14px
-  .footer
-    border-top: 1px solid
 
-.margin-base-vertical
-  margin: 40px 0
+.crisp-background
+  background-image:url('../images/aubrect_2.jpg')
+  background-position: center center
+  background-repeat: no-repeat
+  background-attachment: fixed
+  background-size: cover
+  height: 8%
+  width: 100%
+.blur-background
+  background-image:url('../images/aubrect_blur.jpg')
+  height: 100%
+  opacity: 0
+  z-index: 1
