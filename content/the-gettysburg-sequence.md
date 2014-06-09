@@ -1,3 +1,7 @@
+# The Gettysburg Sequence
+### This previously unpublished work was written by American poet Carl Franck, alias Mike Quill, from 1971-1972.
+
+
 ### Proem
 #####(July 1 - 2 - 3, 1863)
 

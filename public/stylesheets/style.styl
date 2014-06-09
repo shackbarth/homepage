@@ -6,6 +6,7 @@ centered()
 slide()
   background-position: center center
   background-attachment: fixed
+  background-size: cover
   width: 100%
   height: 100%
 
@@ -16,7 +17,9 @@ body
 
 .title
   centered()
-  padding-top: 30px;
+  padding-top: 30px
+  color: crimson
+  text-transform: capitalize
 
 .markdown-content
   background-color: #ebebeb
@@ -35,10 +38,9 @@ body
 
 .crisp-background
   slide()
-  background-image:url('../images/aubrect_2.jpg')
-  height: 5%
+  height: 1000px;
 
 .blur-background
   slide()
-  background-image:url('../images/aubrect_blur.jpg')
+  bgimage('../images/aubrech_blur.jpg')
   z-index: 1
