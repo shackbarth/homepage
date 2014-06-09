@@ -9,19 +9,11 @@ var _ = require("underscore"),
 var marked = require("marked");
 
 app.set('view engine', 'ejs');
-app.get('/', function (req, res){
-  res.redirect("./the-gettysburg-sequence.md");
-});
-app.use(require('express-markdown')({
-  directory: __dirname + '/content',
-  view: 'content',
-  variable: 'markdown'
-}));
 
 var contentFiles = fs.readdirSync(path.join(__dirname, "content"));
-var loadContentFile = function (filename, next) {
+var loadContentFile = function (filename, done) {
   if (!_.contains([".markdown", ".md"], path.extname(filename))) {
-    next();
+    done();
     return;
   }
 
@@ -36,9 +28,6 @@ var loadContentFile = function (filename, next) {
     var subtitle = dataLines[1].substring(3).trim();
     var detitledData = dataLines.splice(2).join("\n");
     var markdown = marked(detitledData);
-    console.log("title is", title);
-
-
     var basename = path.basename(filename, path.extname(filename));
     var context = {
       markdown: markdown,
@@ -50,14 +39,14 @@ var loadContentFile = function (filename, next) {
     app.get("/" + basename, function (req, res) {
       res.render("content", context);
     });
-
-    next();
-
+    done(null, _.extend({}, context, {markdown: undefined}));
   });
-
 };
 var afterContentFilesLoaded = function (err, results) {
-  console.log(arguments);
+  console.log(results);
+  app.get("/", function (req, res) {
+    res.render("index", {pages: _.compact(results)});
+  });
   app.listen(port, function () {
     console.log("Listening on " + port);
   });
@@ -67,4 +56,4 @@ console.log(contentFiles);
 
 app.use(require('stylus').middleware(path.join(__dirname, 'public')));
 app.use(express.static(path.join(__dirname, 'public')));
-async.each(contentFiles, loadContentFile, afterContentFilesLoaded);
+async.map(contentFiles, loadContentFile, afterContentFilesLoaded);

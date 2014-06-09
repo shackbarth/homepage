@@ -1,24 +1,26 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>The Gettysburg Sequence</title>
+    <title>Steve Hackbarth</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <!-- Bootstrap -->
     <link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css" rel="stylesheet" />
     <link rel='stylesheet' href='/stylesheets/style.css' />
 </head>
 <body>
-  <div class="crisp-background" style="background-image:url('../images/<%- file %>.jpg')">
+  <div class="crisp-background" style="background-image:url('../images/index.jpg')">
     <div class="col-md-5 col-md-offset-2 title">
-      <h1><%- title %></h1>
-      <em><%- subtitle %></em>
+      <h1>Home page</h1>
+      <% for(var i = 0; i < pages.length; i++) {%>
+         <h3><a href="/<%= pages[i].file %>"><%= pages[i].title %></a></h3>
+         <%= pages[i].subtitle %>
+      <% } %>
     </div>
   </div>
   <div class="blur-background"
       data--33p-top="opacity: 0;"
       data--66p-top="opacity: 1;">
     <div id="skrollr-body" class="col-md-6 col-md-offset-3 markdown-content img-rounded">
-      <%- markdown %>
     </div>
   </div>
 

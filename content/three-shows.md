@@ -60,10 +60,5 @@ Performing music can be a rapturous experience, and the shows you want to go to 
 
 Tonight the cellist will drop his pizzicato bombs with a manic grin on his face, the way that I’ve seen him do it in rehearsal. The violist will be laughing out loud, laughter jangling into the texture of the music. Sonata for string quartet and cackle. My old schoolmates will be fidgeting uncomfortably in their seats. I’ll be perched in the second row off to the side, enjoying the show. We don’t have to solve all of the world’s problems this one night.
 
-
-<div class="margin-base-vertical">
-  <small class="text-muted">
-    <a href="http://en.wikipedia.org/wiki/Terence_Blanchard#mediaviewer/File:Jas_Messengers01.JPG">Background 
-    picture by Roland Godefroy</a>. Used under <a href="http://creativecommons.org/licenses/by/2.5/">Creative Commons - Attribution</a>.
-  </small>
-</div>
+Background picture by [Roland Godefroy](http://en.wikipedia.org/wiki/Terence_Blanchard#mediaviewer/File:Jas_Messengers01.JPG)
+used under [Creative Commons - Attribution](http://creativecommons.org/licenses/by/2.5/)
