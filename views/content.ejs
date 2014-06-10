@@ -6,6 +6,9 @@
     <!-- Bootstrap -->
     <link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css" rel="stylesheet" />
     <link rel='stylesheet' href='/stylesheets/style.css' />
+    <% if(stylesheet) { %>
+    <link rel='stylesheet' href='<%- stylesheet %>' />
+    <% } %>
 </head>
 <body>
   <div class="crisp-background" style="background-image:url('<%- image %>')">
