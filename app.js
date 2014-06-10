@@ -11,18 +11,14 @@
     var sitePages = _.compact(results);
     _.each(sitePages, function (page) {
       if (page.file === "index") {
-
-        app.get("/", function (req, res) {
-          res.render("content", _.extend(page, {
-            pages: _.without(sitePages, _.findWhere(sitePages, {file: "index"}))
-          }));
-        });
-      } else {
-        console.log("loading page /" + page.file);
-        app.get("/" + page.file, function (req, res) {
-          res.render("content", page);
+        _.extend(page, {
+          pages: _.without(sitePages, _.findWhere(sitePages, {file: "index"}))
         });
       }
+
+      app.get("/" + page.path, function (req, res) {
+        res.render("content", page);
+      });
     });
 
     app.listen(port, function () {
