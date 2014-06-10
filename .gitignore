@@ -1,4 +1,5 @@
 *.swp
 *.md~
 node_modules
-public/stylesheets/style.css
+public/stylesheets/*.css
+npm-debug.log

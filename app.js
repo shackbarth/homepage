@@ -35,24 +35,26 @@ var loadContentFile = function (filename, done) {
       title: title,
       subtitle: subtitle
     };
-    console.log("loading /" + basename);
-    app.get("/" + basename, function (req, res) {
-      res.render("content", context);
-    });
-    done(null, _.extend({}, context, {markdown: undefined}));
+    if (basename !== 'index') {
+      console.log("loading page /" + basename);
+      app.get("/" + basename, function (req, res) {
+        res.render("content", context);
+      });
+    }
+    done(null, context);
   });
 };
 var afterContentFilesLoaded = function (err, results) {
-  console.log(results);
+  var processedResults = _.compact(results);
+  var indexResults = _.findWhere(processedResults, {file: "index"});
+  processedResults = _.without(processedResults, indexResults);
   app.get("/", function (req, res) {
-    res.render("index", {pages: _.compact(results)});
+    res.render("index", _.extend(indexResults, {pages: processedResults}));
   });
   app.listen(port, function () {
     console.log("Listening on " + port);
   });
 };
-console.log(contentFiles);
-
 
 app.use(require('stylus').middleware(path.join(__dirname, 'public')));
 app.use(express.static(path.join(__dirname, 'public')));
