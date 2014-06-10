@@ -11,8 +11,9 @@
     var sitePages = _.compact(results);
     _.each(sitePages, function (page) {
       if (page.file === "index") {
+
         app.get("/", function (req, res) {
-          res.render("index", _.extend(page, {
+          res.render("content", _.extend(page, {
             pages: _.without(sitePages, _.findWhere(sitePages, {file: "index"}))
           }));
         });

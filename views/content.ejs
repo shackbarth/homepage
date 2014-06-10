@@ -8,7 +8,7 @@
     <link rel='stylesheet' href='/stylesheets/style.css' />
 </head>
 <body>
-  <div class="crisp-background" style="background-image:url('../images/<%- file %>.jpg')">
+  <div class="crisp-background" style="background-image:url('<%- image %>')">
     <div class="col-md-5 col-md-offset-2 title">
       <h1><%- title %></h1>
       <em><%- subtitle %></em>
@@ -19,6 +19,10 @@
       data-0="opacity: 0;"
       data-top="opacity: 1;">
     <div id="skrollr-body" class="col-md-6 col-md-offset-3 markdown-content img-rounded">
+      <% for(var i = 0; typeof pages !== 'undefined' && i < pages.length; i++) {%>
+         <h3><a href="/<%= pages[i].file %>"><%= pages[i].title %></a></h3>
+         <%= pages[i].subtitle %>
+      <% } %>
       <%- markdown %>
     </div>
   </div>
