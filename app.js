@@ -12,7 +12,7 @@
     _.each(sitePages, function (page) {
       if (page.file === "index") {
         _.extend(page, {
-          pages: _.without(sitePages, _.findWhere(sitePages, {file: "index"}))
+          tableOfContents: _.without(sitePages, _.findWhere(sitePages, {file: "index"}))
         });
       }
 
@@ -28,7 +28,6 @@
 
   app.set("view engine", "ejs");
 
-
   app.get("/javascripts/skrollr.min.js", function (req, res) {
     res.sendfile(path.join(__dirname, "node_modules/skrollr/dist/skrollr.min.js"));
   });
@@ -37,5 +36,6 @@
   });
   app.use(require("stylus").middleware(path.join(__dirname, "public")));
   app.use(express.static(path.join(__dirname, "public")));
+
   require("./lib/load").loadContentFiles(setRoutes);
 }());

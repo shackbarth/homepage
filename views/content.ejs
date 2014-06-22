@@ -22,9 +22,9 @@
       data-0="opacity: 0;"
       data-top="opacity: 1;">
     <div id="skrollr-body" class="col-md-6 col-md-offset-3 markdown-content img-rounded">
-      <% for(var i = 0; typeof pages !== 'undefined' && i < pages.length; i++) {%>
-         <h3><a href="/<%= pages[i].file %>"><%= pages[i].title %></a></h3>
-         <%= pages[i].subtitle %>
+      <% for(var i = 0; typeof tableOfContents !== 'undefined' && i < tableOfContents.length; i++) {%>
+         <h3><a href="/<%= tableOfContents[i].file %>"><%= tableOfContents[i].title %></a></h3>
+         <em><%= tableOfContents[i].subtitle %></em>
       <% } %>
       <%- markdown %>
     </div>
