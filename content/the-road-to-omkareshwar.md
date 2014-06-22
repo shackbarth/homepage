@@ -39,6 +39,5 @@ It was not Omkareshwar. This was the side of a highway. Motorcycles, water buffa
 
 It only took a few more seconds to spot the milling locals, beckoning me onto a bus that was sitting on the other side of the highway, and when I boarded I was met with the combined stare of forty Hindu pilgrims, dressed up in full pilgrimage regalia. Big beards, turbans, colorful robes. Forehead paint. Devotees of Shiva carry iron tridents on special occasions? They stared at me with an air of, “now, get a load of this funny-looking guy.” And that was the moment I knew I would reach my destination.
 
-
-Background picture by [Bernard Gagnon](http://commons.wikimedia.org/wiki/File:Gomukh_ghat,_Omkareshwar_01.jpg)
-used under [Creative Commons - Attribution ShareAlike](http://creativecommons.org/licenses/by-sa/2.5/deed.en)
+***
+##### Background picture by [Bernard Gagnon](http://commons.wikimedia.org/wiki/File:Gomukh_ghat,_Omkareshwar_01.jpg) used under [Creative Commons - Attribution ShareAlike](http://creativecommons.org/licenses/by-sa/2.5/deed.en)

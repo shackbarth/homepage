@@ -24,7 +24,7 @@ He’s at it still, and if anything he’s building, and he’s building yet, an
 
 Our hero eventually relents. The next moment, he considers his neck, and his head slopes back into alignment. He’s pretty quiet for the rest of the night.
 
---------------------------------------------------------
+***
 
 I am underemployed at a music festival, moving around chairs for a major east-coast orchestra. My specialty is the winds.
 
@@ -44,7 +44,7 @@ Not a difficult job, but it does take a certain knack to swoop in unobtrusively 
 
 It’s Friday morning and Bronfman is here for the dress rehearsal, his left hand full of pent thunder. By this point the quartet is prepared, if deferential. The tempi are credible. But where is the page-turner? The stage manager is hunting the hallways and we’re losing time. Just give me same man for rehearsal and performance, Bronfman bellows. I stand up from the back of the hall, red exes and els already taped to my T-shirt. I know this piece, I call out.
 
---------------------------------------------------------
+***
 
 These are my phenomenal musician friends from college, and they happen to be playing a concert in my obscure hometown. It’s at the Unitarian Universalist church, where my mom sings in the choir Sundays, the only room in town that can be credibly used as a performance space.
 
@@ -60,5 +60,6 @@ Performing music can be a rapturous experience, and the shows you want to go to 
 
 Tonight the cellist will drop his pizzicato bombs with a manic grin on his face, the way that I’ve seen him do it in rehearsal. The violist will be laughing out loud, laughter jangling into the texture of the music. Sonata for string quartet and cackle. My old schoolmates will be fidgeting uncomfortably in their seats. I’ll be perched in the second row off to the side, enjoying the show. We don’t have to solve all of the world’s problems this one night.
 
-Background picture by [Roland Godefroy](http://en.wikipedia.org/wiki/Terence_Blanchard#mediaviewer/File:Jas_Messengers01.JPG)
-used under [Creative Commons - Attribution](http://creativecommons.org/licenses/by/2.5/)
+***
+
+##### Background picture by [Roland Godefroy](http://en.wikipedia.org/wiki/Terence_Blanchard#mediaviewer/File:Jas_Messengers01.JPG) used under [Creative Commons - Attribution](http://creativecommons.org/licenses/by/2.5/)
