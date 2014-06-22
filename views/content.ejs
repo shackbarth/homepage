@@ -17,21 +17,27 @@
       <h1><%- title %></h1>
       <em><%- subtitle %></em>
     </div>
-  </div>
-  <div style="background-image:url('<%- imageBlur %>')"
-      class="blur-background"
-      data-0="opacity: 0;"
-      data-top="opacity: 1;">
-    <div id="skrollr-body" class="col-md-6 col-md-offset-3 markdown-content img-rounded">
-      <% if(typeof tableOfContents !== 'undefined') {%>
-      <div class="table-of-contents">
-      <% for(var i = 0; i < tableOfContents.length; i++) {%>
-         <h3><a href="/<%= tableOfContents[i].file %>"><%= tableOfContents[i].title %></a></h3>
-         <em><%= tableOfContents[i].subtitle %></em>
-      <% } %>
+    <br><br><br><br>
+    <br><br><br><br>
+    <br><br><br><br>
+    <br><br><br><br>
+    <br><br><br><br>
+    <br><br><br><br>
+    <div style=""
+        class="blur-background"
+        data-0="opacity: 0.1;"
+        data-top="opacity: 1;">
+      <div id="skrollr-body" class="col-md-6 col-md-offset-3 markdown-content img-rounded">
+        <% if(typeof tableOfContents !== 'undefined') {%>
+        <div class="table-of-contents">
+        <% for(var i = 0; i < tableOfContents.length; i++) {%>
+           <h3><a href="/<%= tableOfContents[i].file %>"><%= tableOfContents[i].title %></a></h3>
+           <em><%= tableOfContents[i].subtitle %></em>
+        <% } %>
+        </div>
+        <% } %>
+        <%- markdown %>
       </div>
-      <% } %>
-      <%- markdown %>
     </div>
   </div>
 
