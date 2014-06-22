@@ -26,10 +26,16 @@
     });
   };
 
-  app.set('view engine', 'ejs');
+  app.set("view engine", "ejs");
 
 
-  app.use(require('stylus').middleware(path.join(__dirname, 'public')));
-  app.use(express.static(path.join(__dirname, 'public')));
+  app.get("/javascripts/skrollr.min.js", function (req, res) {
+    res.sendfile(path.join(__dirname, "node_modules/skrollr/dist/skrollr.min.js"));
+  });
+  app.get("/stylesheets/bootstrap.min.css", function (req, res) {
+    res.sendfile(path.join(__dirname, "node_modules/bootstrap/dist/css/bootstrap.min.css"));
+  });
+  app.use(require("stylus").middleware(path.join(__dirname, "public")));
+  app.use(express.static(path.join(__dirname, "public")));
   require("./lib/load").loadContentFiles(setRoutes);
 }());
