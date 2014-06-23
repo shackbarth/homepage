@@ -14,19 +14,16 @@
           tableOfContents: _.without(sitePages, _.findWhere(sitePages, {file: "index"}))
         });
       }
-
       app.get("/" + page.path, function (req, res) {
         res.render("content", page);
       });
     });
-
     app.listen(port, function () {
       console.log("Listening on " + port);
     });
   };
 
   app.set("view engine", "ejs");
-
   app.get("/javascripts/skrollr.min.js", function (req, res) {
     res.sendfile(path.join(__dirname, "node_modules/skrollr/dist/skrollr.min.js"));
   });
