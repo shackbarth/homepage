@@ -1,12 +1,11 @@
 (function () {
-
   var _ = require("underscore"),
     express = require('express'),
-    fs = require('fs'),
     path = require('path'),
     port = Number(process.env.PORT || 3000),
     app = express();
 
+  // the callback to the markdown processor
   var setRoutes = function (err, results) {
     var sitePages = _.compact(results);
     _.each(sitePages, function (page) {
@@ -37,5 +36,5 @@
   app.use(require("stylus").middleware(path.join(__dirname, "public")));
   app.use(express.static(path.join(__dirname, "public")));
 
-  require("./lib/load").loadContentFiles(setRoutes);
+  require("./lib/process_content").processContent(setRoutes);
 }());
